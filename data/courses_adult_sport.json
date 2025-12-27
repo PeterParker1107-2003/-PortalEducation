@@ -1,0 +1,3122 @@
+[
+  {
+    "id": "68529739a97b5a89fc957a09",
+    "name": "Профессия Фитнес-тренер",
+    "tariff": "",
+    "school": "Нетология",
+    "school_alias": "netologiya",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767bb3ae56ab001d91f807.svg?v=0.82",
+    "school_rating": 4.9,
+    "school_reviews_count": 1537,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68529739a97b5a89fc957a09/-f6yeOd943SZUJ2TENULI.png",
+    "course_url": "https://netology.ru/programs/fitness-instructor?utm_source=sravni&utm_medium=cpa&utm_content={transaction_id}&utm_campaign=2",
+    "price": 49900,
+    "price_all": 49900,
+    "price_original": 150000,
+    "price_installment": 2916,
+    "time_installment": 18,
+    "duration_days": 0,
+    "duration_months": 7,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Фитнес",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "learnProfession"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Онлайн",
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке",
+    "mentor": true,
+    "portfolio_text": "Групповая тренировка, персональная тренировка под цели клиента, онлайн-тренировка, план питания, план реабилитационной тренировки, демонстрация техники на видео, план продвижения",
+    "description": "На курсе можно получить знания о строении тела, биомеханике движений и спортивном питании, а также научиться составлять безопасные и эффективные программы тренировок для себя и своих клиентов.В подарок предоставляется доступ к курсу курс «Основы нутрициологии: как правильно питаться».",
+    "program": [],
+    "advertising": {
+      "cost": 98.8,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": true,
+      "labelText": "Популярное; Популярное",
+      "partnerPanelColor": "#fdf2f2",
+      "partnerTextColor": "#c11d1d",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "13657",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFHAYgTz"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "618cc443f96ff50f3596a069",
+    "name": "Шахматы с нуля до PRO",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/618cc443f96ff50f3596a069/zn6mdjeEdrSTEHvC8u4-4.png",
+    "course_url": "https://skillbox.ru/course/profession-chess-sravni/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 65930,
+    "price_all": 65930,
+    "price_original": 219768,
+    "price_installment": 5494,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 6,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "sportChess"
+    ],
+    "course_targets": [
+      "learnProfession"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": true,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "Задачи для middle-игроков от гроссмейстера, задачи от гроссмейстера",
+    "description": "На курсе расскажут про уникальные шахматные приёмы и тактики, научат анализировать стадии игры и побеждать в сложных партиях.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "8724",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "618cc443f96ff50f3596a077",
+    "name": "Фитнес-тренер",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/618cc443f96ff50f3596a077/KPTpjb5D8lPSudAxMiabn.png",
+    "course_url": "https://skillbox.ru/course/profession-fitness-instructor-sravni/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 36726,
+    "price_all": 36726,
+    "price_original": 122420,
+    "price_installment": 1669,
+    "time_installment": 22,
+    "duration_days": 0,
+    "duration_months": 4,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Фитнес",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "learnProfession"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "Спортивная программа и создание личного бренда фитнес-тренера",
+    "description": "Курс поможет изучить основы анатомии и физиологии человека, научит составлять индивидуальные тренировочные программы, оценивать физическое состояние клиента, мотивировать и психологически поддерживать клиента и др.На выбор предоставляются тарифы:«Онлайн-консультант по фитнесу» (4 месяца обучения);«Дипломированный фитнес-тренер» (6 месяцев учёбы с изучением основ нутрициологии;«Дипломированный фитнес-тренер. VIP-тариф» с 5 консультациями от опытных тренеров и бонусным курсом по личному бренду.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "8713",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "647701c67dbbed0028d85fae",
+    "name": "Инструктор тренажёрного зала",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/647701c67dbbed0028d85fae/Hb10APbzyyxVJWprUlNEw.png",
+    "course_url": "https://skillbox.ru/course/fitness-instructor/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 48946,
+    "price_all": 48946,
+    "price_original": 97893,
+    "price_installment": 4079,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Фитнес",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "Спортивная программа",
+    "description": "На курсе научат разрабатывать сбалансированные программы тренировок, ставить технику клиентам, работать с оборудованием.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "8464",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "627d14a3e61532002349da32",
+    "name": "Покер и логическое мышление",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/627d14a3e61532002349da32/wmcSnoxjUpxLbOXJwK5FX.png",
+    "course_url": "https://skillbox.ru/course/poker-sravni/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 50089,
+    "price_all": 50089,
+    "price_original": 166965,
+    "price_installment": 4174,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "sportPoker"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Продвинутый"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": true,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "Пул задач от Kings Of Tournament’s",
+    "description": "На курсе можно узнать, как применять математику в покере, оценивать риски и управлять эмоциями.Курс подойдет тем, кто знает правила игры, комбинации и названия позиций.На курсе можно общаться с проверяющими экспертами как на персональной тренировке.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "8585",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "647702f4d9c4ee0028d4fc51",
+    "name": "Шахматы middle",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/647702f4d9c4ee0028d4fc51/S-82Gosw3xe2h_qgeDEaG.png",
+    "course_url": "https://skillbox.ru/course/chess-middle/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 61321,
+    "price_all": 61321,
+    "price_original": 122642,
+    "price_installment": 5110,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "sportChess"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Продвинутый"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "Задачи от гроссмейстера (стратегически сложные и нестандартные связки и окончания)",
+    "description": "На курсе научат мыслить схемами и оперативно рассчитывать лучшие ходы, а также помогут отточить технику игры на индивидуальных уроках с международным гроссмейстером.Курс рассчитан на студентов с базовыми знаниями, которые уже умеют играть в шахматы.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "8725",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "647704f62ccfdc002917865e",
+    "name": "Шахматы с нуля",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/647704f62ccfdc002917865e/pPsTCu2XJRcwCM000YY8u.png",
+    "course_url": "https://skillbox.ru/course/chess-for-beginners/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 30659,
+    "price_all": 30659,
+    "price_original": 61318,
+    "price_installment": 5110,
+    "time_installment": 6,
+    "duration_days": 0,
+    "duration_months": 1,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "sportChess"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": true,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "Шахматная партия на официальный рейтинг FIDE Online Arena",
+    "description": "На курсе познакомят с правилами игры и возможностями шахматных фигур, помогут изучить базовые стратегии и авторские концепции гроссмейстера, отработать каждый приём на практике.Во время обучения студенты будут участвовать в регулярных онлайн-турнирах с проверяющими преподавателями.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "8723",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "627d13e7403179002220c052",
+    "name": "Личный фитнес-тренер",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/627d13e7403179002220c052/uwlCXRIN1JgAuR0SeHlnC.png",
+    "course_url": "https://skillbox.ru/course/fitness-instructor-pro/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 62825,
+    "price_all": 62825,
+    "price_original": 125649,
+    "price_installment": 5235,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 1,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Фитнес",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Продвинутый"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": true,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "Курс поможет повысить квалификацию, научит общаться с клиентами и мотивировать их, расскажет, как создать личный бренд, расширить клиентскую базу и увеличить доход.Программа рассчитана на участников с опытом работы в фитнес-индустрии.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "8528",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "647706fa7dbbed0028d86300",
+    "name": "Шахматы PRO",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/647706fa7dbbed0028d86300/rELgtvVaLYpC3X2ddCuSD.png",
+    "course_url": "https://skillbox.ru/course/chess-pro/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 80982,
+    "price_all": 80982,
+    "price_original": 161965,
+    "price_installment": 6749,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "sportChess"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Продвинутый"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "Задачи от гроссмейстера (авторские задачи, собственный дебютный репертуар)",
+    "description": "Курс поможет изучить эксклюзивные шахматные приёмы и отработать их на индивидуальных уроках с гроссмейстером. Во время обучения участники курса сыграют в регулярных онлайн-турнирах с курирующими экспертами.Курс рассчитан на шахматистов с базовыми знаниями.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "8726",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "647f440f732dd2002a64e3ce",
+    "name": "Инструктор по фитнесу и нутрициологии",
+    "tariff": "",
+    "school": "НИИДПО",
+    "school_alias": "niidpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/644128be3cd8bd0027b54528.svg?v=0.b7",
+    "school_rating": 4.7,
+    "school_reviews_count": 378,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/647f440f732dd2002a64e3ce/HJaGeDqngKNqnbGJrDKh7.png",
+    "course_url": "https://niidpo.ru/seminar/fitnes-instruktor-i-nutricziolog?utm_source=sravni&utm_medium=cpa&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 38900,
+    "price_all": 38900,
+    "price_original": 41000,
+    "price_installment": 3245,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 5.5,
+    "learning_type": [
+      "typeSport",
+      "typeBeauty"
+    ],
+    "directions": [
+      "Фитнес",
+      "nutritionology",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "learnProfession",
+      "professionalRetraining"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": true,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке / свидетельство о дополнительном образовании, сертификат компетенций, сертификаты за просмотр вебинаров (по желанию)",
+    "mentor": true,
+    "portfolio_text": "Проекты в портфолио по результатам прохождения модулей",
+    "description": "На курсе расскажут про теорию и методику физической культуры и спорта, технологии фитнес-тренировок по аквааэробике, базовой и степ-аэробике, силовому и функциональному тренингу, системе Pilates. После окончания программы студенты будут способны организовать рациональное питание различных групп населения.Возможно ускоренное обучение за 4.5 месяцев.",
+    "program": [],
+    "advertising": {
+      "cost": 60.76,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "8235",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGTC8nU"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6481cf650c4bc4002c410f2a",
+    "name": "Практический курс по йоге. Методика обучения индивидуальным и групповым практикам",
+    "tariff": "",
+    "school": "НИИДПО",
+    "school_alias": "niidpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/644128be3cd8bd0027b54528.svg?v=0.b7",
+    "school_rating": 4.7,
+    "school_reviews_count": 378,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6481cf650c4bc4002c410f2a/kBoTZeB3jHxCBE0BVs__J.png",
+    "course_url": "https://niidpo.ru/seminar/prakticheskij-kurs-po-joge?utm_source=sravni&utm_medium=cpa&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 25200,
+    "price_all": 25200,
+    "price_original": 26300,
+    "price_installment": 2100,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Йога",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "professionalRetraining",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профпереподготовке московского института/свидетельство о дополнительном образовании, сертификат компетенций, сертификаты об участии в онлайн-вебинарах (по желанию)",
+    "mentor": true,
+    "portfolio_text": "Проекты в портфолио по результатам прохождения модулей",
+    "description": "На курсе научат разрабатывать индивидуальные программы тренировок по йоге с учетом возраста, целей и физических способностей учеников, а также использовать медитативные асаны, дыхательные практики и понимать их воздействие на организм.Возможно ускоренное обучение за 1.5 месяца.",
+    "program": [],
+    "advertising": {
+      "cost": 60.76,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "8281",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGTC8nU"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68629ec28aaca9f98d11114f",
+    "name": "Теория и методика учебно-тренировочного процесса по избранному виду спорта",
+    "tariff": "футбол",
+    "school": "НИИДПО",
+    "school_alias": "niidpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/644128be3cd8bd0027b54528.svg?v=0.b7",
+    "school_rating": 4.7,
+    "school_reviews_count": 378,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68629ec28aaca9f98d11114f/nHhoDN5kEIQXpadFnhBQ2.png",
+    "course_url": "https://niidpo.ru/seminar/trener-po-futbolu-340-chasov?utm_source=sravni&utm_medium=cpa&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 10200,
+    "price_all": 10200,
+    "price_original": 10700,
+    "price_installment": 850,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Тренерство"
+    ],
+    "course_targets": [
+      "professionalRetraining",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке/свидетельство о дополнительном образовании, сертификат компетенций, сертификат за просмотр вебинаров",
+    "mentor": true,
+    "portfolio_text": "Проекты в портфолио по результатам прохождения модулей",
+    "description": "На курсе расскажут, как обучать спортсменов технике работы с мячом и тактике футбольной игры, планировать и организовывать соревновательную деятельность по футболу.После завершения программы можно подать заявку на получение лицензии «С-УЕФА», которая дает возможность вести тренировки в массовом и детско-юношеском футболе.",
+    "program": [],
+    "advertising": {
+      "cost": 60.76,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "13699",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGTC8nU"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6863dc45b49a19d06dbce1cc",
+    "name": "Тренер по плаванию: теория и методика учебно-тренировочного процесса",
+    "tariff": "",
+    "school": "НИИДПО",
+    "school_alias": "niidpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/644128be3cd8bd0027b54528.svg?v=0.b7",
+    "school_rating": 4.7,
+    "school_reviews_count": 378,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6863dc45b49a19d06dbce1cc/TFsXYZDOxVgcypvVNLSZp.png",
+    "course_url": "https://niidpo.ru/seminar/kursy-trenera-po-plavaniyu?utm_source=sravni&utm_medium=cpa&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 10900,
+    "price_all": 10900,
+    "price_original": 13100,
+    "price_installment": 910,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Тренерство"
+    ],
+    "course_targets": [
+      "professionalRetraining",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке/свидетельство о дополнительном образовании, сертификат компетенций, сертификат за просмотр вебинаров",
+    "mentor": true,
+    "portfolio_text": "Проекты в портфолио по результатам прохождения модулей",
+    "description": "На курсе научат составлять схемы занятий по плаванию с указанием средств и методов обучения, которые могут быть использованы в структуре учебно-тренировочного процесса, планировать и организовывать соревновательную деятельность по плаванию.Возможно ускоренное обучение за 2 месяца.",
+    "program": [],
+    "advertising": {
+      "cost": 60.76,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "13705",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGTC8nU"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "66c705ea3fedd75d36f67bc4",
+    "name": "Теория и методика учебно-тренировочного процесса по избранному виду спорта",
+    "tariff": "пляжный волейбол",
+    "school": "НИИДПО",
+    "school_alias": "niidpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/644128be3cd8bd0027b54528.svg?v=0.b7",
+    "school_rating": 4.7,
+    "school_reviews_count": 378,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66c705ea3fedd75d36f67bc4/5gTnLWqTnMasXqX4E4IvX.png",
+    "course_url": "https://niidpo.ru/seminar/plyazhnyj-volejbol-trener?utm_source=sravni&utm_medium=cpa&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 11800,
+    "price_all": 11800,
+    "price_original": 14900,
+    "price_installment": 985,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Тренерство"
+    ],
+    "course_targets": [
+      "professionalRetraining",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке, сертификат за просмотр вебинаров, сертификат компетенций",
+    "mentor": true,
+    "portfolio_text": "Проекты в портфолио по результатам прохождения модулей",
+    "description": "Программа предназначена для тех, кто увлекается пляжным волейболом, хочет получить знания о специфике и особенностях проведения занятий по этому виду спорта и изучить методики преподавания детям и взрослым.",
+    "program": [],
+    "advertising": {
+      "cost": 60.76,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "10849",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGTC8nU"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "66c708006447f0b4e079505d",
+    "name": "Теория и методика учебно-тренировочного процесса по избранному виду спорта",
+    "tariff": "теннис",
+    "school": "НИИДПО",
+    "school_alias": "niidpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/644128be3cd8bd0027b54528.svg?v=0.b7",
+    "school_rating": 4.7,
+    "school_reviews_count": 378,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66c708006447f0b4e079505d/8fP-6SrDFiVzQVhFgLKAS.png",
+    "course_url": "https://niidpo.ru/seminar/trener-po-tennisu-niidpo?utm_source=sravni&utm_medium=cpa&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 11900,
+    "price_all": 11900,
+    "price_original": 14900,
+    "price_installment": 995,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Тренерство"
+    ],
+    "course_targets": [
+      "professionalRetraining",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": true,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке, сертификат за просмотр вебинаров, сертификат компетенций",
+    "mentor": true,
+    "portfolio_text": "Проекты в портфолио по результатам прохождения модулей",
+    "description": "Курс предназначен для тех, кто интересуется теннисом и стремится получить глубокие знания о его основах, а также научиться эффективно тренироваться и обучать других.",
+    "program": [],
+    "advertising": {
+      "cost": 60.76,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "10852",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGTC8nU"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "66c706cc3fedd75d36f67bf8",
+    "name": "Теория и методика учебно-тренировочного процесса по избранному виду спорта",
+    "tariff": "настольный теннис",
+    "school": "НИИДПО",
+    "school_alias": "niidpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/644128be3cd8bd0027b54528.svg?v=0.b7",
+    "school_rating": 4.7,
+    "school_reviews_count": 378,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66c706cc3fedd75d36f67bf8/l38ewsmjO9EDHtCuL5kQb.png",
+    "course_url": "https://niidpo.ru/seminar/nastolnyj-tennis?utm_source=sravni&utm_medium=cpa&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 12400,
+    "price_all": 12400,
+    "price_original": 15500,
+    "price_installment": 1035,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Тренерство"
+    ],
+    "course_targets": [
+      "professionalRetraining",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке, сертификат за просмотр вебинаров, сертификат компетенций",
+    "mentor": true,
+    "portfolio_text": "Проекты в портфолио по результатам прохождения модулей",
+    "description": "Курс даст теоретические знания и практические инструменты, необходимые для работы тренером по настольному теннису, научит организовывать и планировать тренировочный процесс.",
+    "program": [],
+    "advertising": {
+      "cost": 60.76,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "10850",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGTC8nU"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "66c701db0e97575f7f54cadd",
+    "name": "Тренер по джампинг-фитнесу",
+    "tariff": "",
+    "school": "НИИДПО",
+    "school_alias": "niidpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/644128be3cd8bd0027b54528.svg?v=0.b7",
+    "school_rating": 4.7,
+    "school_reviews_count": 378,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66c701db0e97575f7f54cadd/ilf8nmY--CTr0emU79Skk.png",
+    "course_url": "https://niidpo.ru/seminar/trener-po-dzhamp-fitnesu?utm_source=sravni&utm_medium=cpa&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 13300,
+    "price_all": 13300,
+    "price_original": 17800,
+    "price_installment": 1110,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Фитнес",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "professionalRetraining",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": true,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке / свидетельство о дополнительном образовании, сертификат за просмотр вебинаров, сертификат компетенций",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "Программа предполагает освоение тренером теории и практики по джампинг-фитнесу для организации увлекательных занятий среди детей и взрослых, мужчин и женщин, а также новичков и спортсменов.",
+    "program": [],
+    "advertising": {
+      "cost": 60.76,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "10847",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGTC8nU"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "66c7030a0e97575f7f54cb0d",
+    "name": "Тренер по аэройоге",
+    "tariff": "йога в гамаках",
+    "school": "НИИДПО",
+    "school_alias": "niidpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/644128be3cd8bd0027b54528.svg?v=0.b7",
+    "school_rating": 4.7,
+    "school_reviews_count": 378,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66c7030a0e97575f7f54cb0d/XdjX9TGEPwz8z0AVE-W4c.png",
+    "course_url": "https://niidpo.ru/seminar/trener-po-joge-v-gamakakh?utm_source=sravni&utm_medium=cpa&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 13300,
+    "price_all": 13300,
+    "price_original": 17800,
+    "price_installment": 1110,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Йога",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "professionalRetraining",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": true,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке, сертификат за просмотр вебинаров, сертификат компетенций",
+    "mentor": true,
+    "portfolio_text": "Проекты в портфолио по результатам прохождения модулей",
+    "description": "Программа включает в себя теоретическую подготовку и практические инструменты для тех, кто планирует проводить эффективные тренировки по аэройоге с детьми и взрослыми, беременными женщинами и новоиспеченными мамами, а также с другими категориями клиентов.",
+    "program": [],
+    "advertising": {
+      "cost": 60.76,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "10848",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGTC8nU"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68628764f1fa3a8780221c37",
+    "name": "Физкультурно-оздоровительная деятельность по плаванию с детьми грудничкового, раннего и дошкольного возраста",
+    "tariff": "",
+    "school": "НИИДПО",
+    "school_alias": "niidpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/644128be3cd8bd0027b54528.svg?v=0.b7",
+    "school_rating": 4.7,
+    "school_reviews_count": 378,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68628764f1fa3a8780221c37/ltr8UqskceDk07gpAuxTQ.png",
+    "course_url": "https://niidpo.ru/seminar/grudnichkovoe-plavanie?utm_source=sravni&utm_medium=cpa&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 14100,
+    "price_all": 14100,
+    "price_original": 17000,
+    "price_installment": 1175,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2.5,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Тренерство"
+    ],
+    "course_targets": [
+      "professionalRetraining",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке/свидетельство о дополнительном образовании, сертификат компетенций, сертификат за просмотр вебинаров",
+    "mentor": true,
+    "portfolio_text": "Проекты в портфолио по результатам прохождения модулей",
+    "description": "Курс поможет освоить ключевые навыки обучения плаванию детей до 7 лет, а также даст знания об особенностях образовательного процесса в дошкольном возрасте, физиологии и гигиене детей.Возможно ускоренное обучение за 2 месяца.",
+    "program": [],
+    "advertising": {
+      "cost": 60.76,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "13693",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGTC8nU"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6863e0d9f1fa3a878022cb14",
+    "name": "Теория и методика учебно-тренировочного процесса по избранному виду спорта",
+    "tariff": "бадминтон",
+    "school": "НИИДПО",
+    "school_alias": "niidpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/644128be3cd8bd0027b54528.svg?v=0.b7",
+    "school_rating": 4.7,
+    "school_reviews_count": 378,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6863e0d9f1fa3a878022cb14/zmBffG6oqcivBQmSMuy7n.png",
+    "course_url": "https://niidpo.ru/seminar/teoriya-i-metodika-uchebno-trenirovochnogo-proczessa-badminton?utm_source=sravni&utm_medium=cpa&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 14100,
+    "price_all": 14100,
+    "price_original": 19500,
+    "price_installment": 1175,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Тренерство"
+    ],
+    "course_targets": [
+      "professionalRetraining",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке, сертификат компетенций, сертификат за просмотр вебинаров",
+    "mentor": true,
+    "portfolio_text": "Проекты в портфолио по результатам прохождения модулей",
+    "description": "Программа предназначена для тех, кто увлекается бадминтоном, хочет получить знания о специфике и особенностях проведения занятий по этому виду спорта и изучить методики преподавания бадминтона детям и взрослым.Возможно ускоренное обучение за 2 месяца.",
+    "program": [],
+    "advertising": {
+      "cost": 60.76,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "13706",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGTC8nU"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6863e4bab49a19d06dbce8b2",
+    "name": "Тренер по Пилатесу. Организационно-методическая подготовка и проведение спортивно-оздоровительных занятий",
+    "tariff": "",
+    "school": "НИИДПО",
+    "school_alias": "niidpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/644128be3cd8bd0027b54528.svg?v=0.b7",
+    "school_rating": 4.7,
+    "school_reviews_count": 378,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6863e4bab49a19d06dbce8b2/0GmhjFV5RBs10uK2-POO7.png",
+    "course_url": "https://niidpo.ru/seminar/trener-po-pilatesu?utm_source=sravni&utm_medium=cpa&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 15300,
+    "price_all": 15300,
+    "price_original": 20500,
+    "price_installment": 1275,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Фитнес",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "professionalRetraining",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке, сертификат компетенций, сертификат за просмотр вебинаров",
+    "mentor": true,
+    "portfolio_text": "Проекты в портфолио по результатам прохождения модулей",
+    "description": "Курс поможет стать квалифицированным тренером по пилатесу, научит проводить занятия для клиентов любого уровня подготовки и создавать индивидуальные программы тренировок.Возможно ускоренное обучение за 2 месяца.",
+    "program": [],
+    "advertising": {
+      "cost": 60.76,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "13707",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGTC8nU"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6481e0c90b625900295402c3",
+    "name": "Тренер по стретчингу. Организационно-методическая подготовка и проведение спортивно-оздоровительных занятий",
+    "tariff": "",
+    "school": "НИИДПО",
+    "school_alias": "niidpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/644128be3cd8bd0027b54528.svg?v=0.b7",
+    "school_rating": 4.7,
+    "school_reviews_count": 378,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6481e0c90b625900295402c3/axZszohOm0IpB25Ec3seZ.png",
+    "course_url": "https://niidpo.ru/seminar/trener-po-stretchingu?utm_source=sravni&utm_medium=cpa&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 19900,
+    "price_all": 19900,
+    "price_original": 24200,
+    "price_installment": 1660,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Фитнес",
+      "stretching",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "professionalRetraining",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": true,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профпереподготовке московского института/свидетельство о дополнительном образовании, сертификат компетенций, сертификаты об участии в онлайн-вебинарах (по желанию)",
+    "mentor": true,
+    "portfolio_text": "Проекты в портфолио по результатам прохождения модулей",
+    "description": "Курс даст слушателям ключевые навыки в сфере проведения тренировок по стретчингу для взрослых и детей с учетом различных уровней, режимов и видов подготовки.",
+    "program": [],
+    "advertising": {
+      "cost": 60.76,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "8307",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGTC8nU"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "65aa69d00117392004f85495",
+    "name": "Детская йога",
+    "tariff": "",
+    "school": "НИИДПО",
+    "school_alias": "niidpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/644128be3cd8bd0027b54528.svg?v=0.b7",
+    "school_rating": 4.7,
+    "school_reviews_count": 378,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65aa69d00117392004f85495/sI44GgDjs8xPqQoDwcll2.png",
+    "course_url": "https://niidpo.ru/seminar/detskaya-joga?utm_source=sravni&utm_medium=cpa&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 22200,
+    "price_all": 22200,
+    "price_original": 27000,
+    "price_installment": 1850,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Йога",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "professionalRetraining",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": true,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке/свидетельство о дополнительном образовании, сертификат компетенций, сертификат за просмотр вебинаров (по желанию)",
+    "mentor": true,
+    "portfolio_text": "Проекты в портфолио по результатам прохождения модулей",
+    "description": "Программа предназначена для тех, кто хочет разобраться в основах йогатерапии и научиться проводить эффективные и интересные занятия для детей.Возможно ускоренное обучение за 2.5 месяца.",
+    "program": [],
+    "advertising": {
+      "cost": 60.76,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "8223",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGTC8nU"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "64ca4e824230ec00292e07ee",
+    "name": "Фитнес-инструктор индивидуальных и групповых программ",
+    "tariff": "",
+    "school": "НИИДПО",
+    "school_alias": "niidpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/644128be3cd8bd0027b54528.svg?v=0.b7",
+    "school_rating": 4.7,
+    "school_reviews_count": 378,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/64ca4e824230ec00292e07ee/ZpSK_PZPWk4Uw6crFANB7.png",
+    "course_url": "https://niidpo.ru/seminar/fitnes-instruktor-gruppovykh-i-individualnykh-programm?utm_source=sravni&utm_medium=cpa&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 24900,
+    "price_all": 24900,
+    "price_original": 28300,
+    "price_installment": 2075,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 6,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Фитнес",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "learnProfession",
+      "professionalRetraining"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке/свидетельство о дополнительном образовании, сертификаты об участии в онлайн-вебинарах (по желанию)",
+    "mentor": true,
+    "portfolio_text": "Проекты в портфолио по результатам прохождения модулей",
+    "description": "Получение фундаментальных знаний и навыков в области физической подготовки. Изучение основ фитнеса и преодоление барьеров на пути к активной и здоровой жизни.",
+    "program": [],
+    "advertising": {
+      "cost": 60.76,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "8325",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGTC8nU"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "66c712eb0e97575f7f54cd3b",
+    "name": "Тренер по конному спорту. Иппотерапевт",
+    "tariff": "",
+    "school": "НИИДПО",
+    "school_alias": "niidpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/644128be3cd8bd0027b54528.svg?v=0.b7",
+    "school_rating": 4.7,
+    "school_reviews_count": 378,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66c712eb0e97575f7f54cd3b/BboYA36V4hf71aJnAYySj.png",
+    "course_url": "https://niidpo.ru/seminar/trener-po-konnomu-sportu-ippoterapevt-niidpo?utm_source=sravni&utm_medium=cpa&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 27200,
+    "price_all": 27200,
+    "price_original": 33100,
+    "price_installment": 2270,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 5.5,
+    "learning_type": [
+      "typePsychology",
+      "typeSport"
+    ],
+    "directions": [
+      "hippotherapy"
+    ],
+    "course_targets": [
+      "learnProfession",
+      "professionalRetraining"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": true,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке, сертификат за просмотр вебинаров, сертификат компетенций",
+    "mentor": true,
+    "portfolio_text": "Проекты в портфолио по результатам прохождения модулей",
+    "description": "Курс готовит специалистов, способных обучать верховой езде и проводить иппотерапевтические сеансы для эффективной реабилитации пациентов с различными заболеваниями.",
+    "program": [],
+    "advertising": {
+      "cost": 60.76,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "10861",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGTC8nU"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "66c711bc3fedd75d36f67dab",
+    "name": "Тренер-преподаватель по адаптивной физической культуре и спорту. Иппотерапевт",
+    "tariff": "",
+    "school": "НИИДПО",
+    "school_alias": "niidpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/644128be3cd8bd0027b54528.svg?v=0.b7",
+    "school_rating": 4.7,
+    "school_reviews_count": 378,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66c711bc3fedd75d36f67dab/oIPrsJ4U4fBvZ8aKHlRQc.png",
+    "course_url": "https://niidpo.ru/seminar/ippoterapevt-trener-prepodavatel-po-adaptivnoj-fizicheskoj-kulture?utm_source=sravni&utm_medium=cpa&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 28200,
+    "price_all": 28200,
+    "price_original": 33000,
+    "price_installment": 2350,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 7.5,
+    "learning_type": [
+      "typePsychology",
+      "typeSport"
+    ],
+    "directions": [
+      "hippotherapy"
+    ],
+    "course_targets": [
+      "learnProfession",
+      "professionalRetraining"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке, сертификат за просмотр вебинаров, сертификат компетенций",
+    "mentor": true,
+    "portfolio_text": "Проекты в портфолио по результатам прохождения модулей",
+    "description": "Курс расскажет про методики адаптивной физической культуры, поможет освоить иппотерапию для работы с людьми с ОВЗ.",
+    "program": [],
+    "advertising": {
+      "cost": 60.76,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "10860",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGTC8nU"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "65afc7c1fddb7e84d8f2f4f8",
+    "name": "Работа с современными тренажерами в фитнес-зале",
+    "tariff": "",
+    "school": "НИИДПО",
+    "school_alias": "niidpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/644128be3cd8bd0027b54528.svg?v=0.b7",
+    "school_rating": 4.7,
+    "school_reviews_count": 378,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65afc7c1fddb7e84d8f2f4f8/ILaJhDOXHKBglgfIueHB7.png",
+    "course_url": "https://niidpo.ru/seminar/rabota-s-sovremennymi-trenazherami-v-fitnes-zale?utm_source=sravni&utm_medium=cpa&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 11700,
+    "price_all": 11700,
+    "price_original": 14000,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 1,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Фитнес",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "professionalDevelopment",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации, сертификат компетенций, сертификат за просмотр вебинаров (по желанию)",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "Теоретические знания и практические инструменты, необходимые для работы фитнес-инструктором. Курс научит разрабатывать и проводить безопасные занятия на тренажерах, расскажет про современные методики проведения спортивных занятий и особенности их применения с учетом запросов и потребностей клиентов.",
+    "program": [],
+    "advertising": {
+      "cost": 60.76,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "8294",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGTC8nU"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1847&aff_id=2&dl=&erid=2W5zFGTC8nU"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "65afcdb2cab3aa49c709e173",
+    "name": "Фитнес-тренер",
+    "tariff": "",
+    "school": "ВАДО",
+    "school_alias": "vado",
+    "school_logo": "https://s37498.cos.ngenix.net/organizations/logotypes/square/65a64a0ec6cfd5002a4de945.svg?v=0.2f",
+    "school_rating": 4.7,
+    "school_reviews_count": 33,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65afcdb2cab3aa49c709e173/13TfZH8WkBKij0whfUMFU.png",
+    "course_url": "https://vado-dpo.ru/kursy/fitnes-trener?utm_source=cpa&utm_medium=sravni.ru&utm_content={transaction_id}",
+    "price": 10600,
+    "price_all": 10600,
+    "price_original": 16300,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Фитнес",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "learnProfession",
+      "professionalRetraining"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом установленного образца, сертификат соответствия",
+    "mentor": true,
+    "portfolio_text": "Итоговая аттестационная работа",
+    "description": "В рамках курса изучаются:анатомия и физиология человека;рекомендации по питанию;фитнес-планы для людей с различным уровнем подготовки;основы теории и методики физического воспитания;педагогика и психология физической культуры;ответственность фитнес-тренера.Для прохождения курса требуется наличие среднего профессионального или высшего образования.Указана стоимость тарифа «Студент». Есть возможность выбрать обучение с другими тарифами:«Специалист» с бессрочным доступом к учебному комплексу, материалами для углубленного изучения и доступом к образовательной платформе.«Профессионал» с бессрочным доступом к учебному комплексу, материалами для углубленного изучения, блоком для предпринимателей, доступом к образовательной платформе и доставкой документов курьерской службой.",
+    "program": [],
+    "advertising": {
+      "cost": 11.88,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "7406",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "LjN8K471Y"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2087&aff_id=2&dl=&erid=LjN8K471Y",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2087&aff_id=2&dl=&erid=LjN8K471Y"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "65afcf3fcab3aa4c7709e440",
+    "name": "Физическая культура и спорт",
+    "tariff": "",
+    "school": "ВАДО",
+    "school_alias": "vado",
+    "school_logo": "https://s37498.cos.ngenix.net/organizations/logotypes/square/65a64a0ec6cfd5002a4de945.svg?v=0.2f",
+    "school_rating": 4.7,
+    "school_reviews_count": 33,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65afcf3fcab3aa4c7709e440/EP18XrZ7Ep1fxQf_45BDg.png",
+    "course_url": "https://vado-dpo.ru/kursy/fizkultura_i_sport?utm_source=cpa&utm_medium=sravni.ru&utm_content={transaction_id}",
+    "price": 10600,
+    "price_all": 10600,
+    "price_original": 16300,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Фитнес",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "learnProfession",
+      "professionalRetraining"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом установленного образца, сертификат соответствия",
+    "mentor": true,
+    "portfolio_text": "Итоговая аттестационная работа",
+    "description": "В рамках курса изучаются:физическое развитие, его оценка, методы исследования;федеральные стандарты спортивной подготовки;методика физического воспитания и спортивной тренировки;экономика физической культуры и спорта;технология физкультурно-спортивной деятельности;формирование коммуникативной компетентности педагога.Для прохождения курса требуется наличие среднего профессионального или высшего образования.Указана стоимость тарифа «Студент». Есть возможность выбрать обучение с другими тарифами:«Специалист» с бессрочным доступом к учебному комплексу, материалами для углубленного изучения и доступом к образовательной платформе.«Профессионал» с бессрочным доступом к учебному комплексу, материалами для углубленного изучения, блоком для предпринимателей, доступом к образовательной платформе и доставкой документов курьерской службой.",
+    "program": [],
+    "advertising": {
+      "cost": 11.88,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "7407",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "LjN8K471Y"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2087&aff_id=2&dl=&erid=LjN8K471Y",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2087&aff_id=2&dl=&erid=LjN8K471Y"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "65afd0f49c591c508b3ffa86",
+    "name": "Спортивный тренер",
+    "tariff": "",
+    "school": "ВАДО",
+    "school_alias": "vado",
+    "school_logo": "https://s37498.cos.ngenix.net/organizations/logotypes/square/65a64a0ec6cfd5002a4de945.svg?v=0.2f",
+    "school_rating": 4.7,
+    "school_reviews_count": 33,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65afd0f49c591c508b3ffa86/z-CExsE3rsF1yziBX0etu.png",
+    "course_url": "https://vado-dpo.ru/kursy/sportivnyy_trener?utm_source=cpa&utm_medium=sravni.ru&utm_content={transaction_id}",
+    "price": 10600,
+    "price_all": 10600,
+    "price_original": 16300,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Тренерство"
+    ],
+    "course_targets": [
+      "learnProfession",
+      "professionalRetraining"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом установленного образца, сертификат соответствия",
+    "mentor": true,
+    "portfolio_text": "Итоговая аттестационная работа",
+    "description": "В рамках курса изучаются:профессиональные стандарты, профессия тренера;физическое развитие, его оценка, методы исследования;федеральные стандарты спортивной подготовки;государственная политика в области физической культуры и спорта;теория и методика физической культуры и спорта;планирование и организация учебно-тренировочного процесса.Для прохождения курса требуется наличие среднего профессионального или высшего образования.Указана стоимость тарифа «Студент». Есть возможность выбрать обучение с другими тарифами:«Специалист» с бессрочным доступом к учебному комплексу, материалами для углубленного изучения и доступом к образовательной платформе.«Профессионал» с бессрочным доступом к учебному комплексу, материалами для углубленного изучения, блоком для предпринимателей, доступом к образовательной платформе и доставкой документов курьерской службой.",
+    "program": [],
+    "advertising": {
+      "cost": 11.88,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "7408",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "LjN8K471Y"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2087&aff_id=2&dl=&erid=LjN8K471Y",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2087&aff_id=2&dl=&erid=LjN8K471Y"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "61f790ea9810fb00223f915a",
+    "name": "Художественная гимнастика",
+    "tariff": "Амина Зарипова",
+    "school": "Уроки Легенд",
+    "school_alias": "uroki-legend",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6193a984e109c90023c58df5.png?v=0.7d",
+    "school_rating": null,
+    "school_reviews_count": 5,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/61f790ea9810fb00223f915a/6UXY1zbBOL1v5E6BRxF9I.png",
+    "course_url": "https://go.urokilegend.ru/courses/zaripova-course",
+    "price": 7990,
+    "price_all": 7990,
+    "price_original": 15990,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 0,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Тренерство"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": true,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат с подписью мастера",
+    "mentor": false,
+    "portfolio_text": "",
+    "description": "Спикер курса расскажет, как спортсмену мотивировать себя и грамотно планировать карьеру.Стоимость указана при оформлении подписки на 6 месяцев. Также доступна подписка на 1 год и 18 месяцев.",
+    "program": [],
+    "advertising": {
+      "cost": 1,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "undefined",
+      "trackingType": "cpa",
+      "token": [
+        {
+          "token": [
+            "LdtCKMhRR"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1499&aff_id=2&dl=&erid=LdtCKMhRR",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1499&aff_id=2&dl=&erid=LdtCKMhRR"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "66485aa8185e162e06dd5632",
+    "name": "Тренер-преподаватель по избранному виду спорта",
+    "tariff": "плавание",
+    "school": "НАДПО",
+    "school_alias": "nadpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/65e56f2a73f26500276eba40.svg?v=0.43",
+    "school_rating": 4.7,
+    "school_reviews_count": 77,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66485aa8185e162e06dd5632/00S8H0JaRkpmETV79dipG.png",
+    "course_url": "https://psy.nadpo.ru/swimming-trainer?utm_source=sravni&utm_medium=cpa&utm_campaign=strategy-cpa",
+    "price": 34600,
+    "price_all": 34600,
+    "price_original": 42400,
+    "price_installment": 3460,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 5,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Тренерство"
+    ],
+    "course_targets": [
+      "learnProfession",
+      "professionalRetraining"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке / сертификат об окончании курса",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "Курс поможет изучить основы методики тренировок, научит строить эффективные занятия и помогать раскрывать спортивный потенциал.",
+    "program": [],
+    "advertising": {
+      "cost": 132.91,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": [
+            "2W5zFJTzgnk"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2190&aff_id=2&dl=&erid=2W5zFJTzgnk",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2190&aff_id=2&dl=&erid=2W5zFJTzgnk"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6808e9a6a3c3e2390f75e167",
+    "name": "Ментальный фитнес (Body Mind Fitness). Восточные и европейские практики осознанных движений в фитнес-индустрии",
+    "tariff": "",
+    "school": "НАДПО",
+    "school_alias": "nadpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/65e56f2a73f26500276eba40.svg?v=0.43",
+    "school_rating": 4.7,
+    "school_reviews_count": 77,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6808e9a6a3c3e2390f75e167/fJtxcZMKK2Yc-sCfrnIK9.jpeg",
+    "course_url": "https://nadpo.ru/do/sovremennye-aspekty-evropeyskikh-i-vostochnykh-praktik-mentalnogo-fitnesa/?utm_source=sravni&utm_medium=cpa&utm_campaign=strategy-cpa",
+    "price": 17290,
+    "price_all": 17290,
+    "price_original": 26700,
+    "price_installment": 1517,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "fitnessBodybuilding",
+      "Йога"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalRetraining"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "Цель курса — познакомить слушателя с теорией и методикой физической культуры, с биомеханикой физических упражнений, основами ментального фитнеса и др.",
+    "program": [],
+    "advertising": {
+      "cost": 132.91,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": [
+            "2W5zFJTzgnk"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2190&aff_id=2&dl=&erid=2W5zFJTzgnk",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2190&aff_id=2&dl=&erid=2W5zFJTzgnk"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6881c48b295960bc74bb89e1",
+    "name": "Фитнес-инструктор по оздоровительной суставной гимнастике",
+    "tariff": "3D-тренинг",
+    "school": "НЦРДО",
+    "school_alias": "ncrdo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/676d35e2d1a7680027cf5107.svg",
+    "school_rating": null,
+    "school_reviews_count": 0,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6881c48b295960bc74bb89e1/YIpeTcOvd8rW1YWY7ZrmH.png",
+    "course_url": "https://ncrdo.ru/do/pk-fitnes-instruktor-po-ozdorovitelnoy-sustavnoy-gimnastike-3d-trening-/?utm_source=sravni&utm_medium=cpa&utm_campaign=strategy-cpa&utm_content={transaction_id}",
+    "price": 18200,
+    "price_all": 18200,
+    "price_original": 23600,
+    "price_installment": 1517,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Фитнес",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "professionalDevelopment",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации, сертификаты о прохождении вебинаров из базы знаний",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "В рамках курса студенты получат готовые методики для безопасных и эффективных занятий, научатся восстанавливать подвижность суставов и укреплять мышцы без травм и перегрузок.",
+    "program": [],
+    "advertising": {
+      "cost": 40.44,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "137454",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGn9qfv"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2479&aff_id=2&erid=2W5zFGn9qfv",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2479&aff_id=2&erid=2W5zFGn9qfv"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6788a12f2109ed29b7cf6a21",
+    "name": "Тренер по фитнесу с дополнительной квалификацией Фитнес-нутрициолог",
+    "tariff": "",
+    "school": "НЦРДО",
+    "school_alias": "ncrdo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/676d35e2d1a7680027cf5107.svg",
+    "school_rating": null,
+    "school_reviews_count": 0,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6788a12f2109ed29b7cf6a21/lrKLvjohBTaAKj9ynMQTw.png",
+    "course_url": "https://ncrdo.ru/do/pp-trener-po-fitnesu-prove-grupp-i-individ-fizk-ozd-zan-po-fit/?utm_source=sravni&utm_medium=cpa&utm_campaign=strategy-cpa&utm_content={transaction_id}",
+    "price": 59000,
+    "price_all": 59000,
+    "price_original": 121000,
+    "price_installment": 1639,
+    "time_installment": 36,
+    "duration_days": 0,
+    "duration_months": 10,
+    "learning_type": [
+      "typeSport",
+      "typeBeauty"
+    ],
+    "directions": [
+      "Фитнес",
+      "nutritionology",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "learnProfession",
+      "professionalRetraining"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке, сертификаты о прохождении вебинаров из базы знаний",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "В рамках курса слушатели смогут получить две востребованные профессии в одной программе: тренер по фитнесу и фитнес-нутрициолог.Студенты освоят различные фитнес-направления (силовой тренинг, аэробика, пилатес, функциональные тренировки и др.) и научатся сочетать тренировочные программы с правильным питанием для максимальных результатов клиентов.",
+    "program": [],
+    "advertising": {
+      "cost": 40.44,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "137444",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGn9qfv"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2479&aff_id=2&erid=2W5zFGn9qfv",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2479&aff_id=2&erid=2W5zFGn9qfv"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "69284a4fa4f31fdcffadf66b",
+    "name": "Фитнес-тренер по танцам: организационно-методическая подготовка и проведение занятий",
+    "tariff": "",
+    "school": "НЦРДО",
+    "school_alias": "ncrdo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/676d35e2d1a7680027cf5107.svg",
+    "school_rating": null,
+    "school_reviews_count": 0,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/69284a4fa4f31fdcffadf66b/5Ae4VIcKDXaX0OPZv-LCk.png",
+    "course_url": "https://ncrdo.ru/do/pp-fitnes-trener-po-tantsam-organizatsionno-metodicheskaya-podgotovka-i-provedenie-zanyatiy-s-prisvoeni/?utm_source=sravni&utm_medium=cpa&utm_campaign=strategy-cpa&utm_content={transaction_id}",
+    "price": 22200,
+    "price_all": 22200,
+    "price_original": 32200,
+    "price_installment": 1850,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 4,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Фитнес",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "learnProfession",
+      "professionalRetraining"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке, сертификаты о прохождении вебинаров из базы знаний",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "Курс научит проводить тренировки, которые заряжают энергией и помогают клиентам достигать целей. Студенты получат четкие алгоритмы построения уроков — от зумбы и латины до пилатеса и степ-аэробики, изучат базу по анатомии и биомеханике для эффективных и безопасных занятий.",
+    "program": [],
+    "advertising": {
+      "cost": 40.44,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "137483",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGn9qfv"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2479&aff_id=2&erid=2W5zFGn9qfv",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2479&aff_id=2&erid=2W5zFGn9qfv"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "692848ad76741ec9aa36b0d9",
+    "name": "Инструктор тренажерного зала. Проведение групповых и индивидуальных занятий",
+    "tariff": "",
+    "school": "НЦРДО",
+    "school_alias": "ncrdo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/676d35e2d1a7680027cf5107.svg",
+    "school_rating": null,
+    "school_reviews_count": 0,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/692848ad76741ec9aa36b0d9/PctePdLvHvO62nD9X4OSL.png",
+    "course_url": "https://ncrdo.ru/do/pp-instruktor-trenazh-zala/?utm_source=sravni&utm_medium=cpa&utm_campaign=strategy-cpa&utm_content={transaction_id}",
+    "price": 24100,
+    "price_all": 24100,
+    "price_original": 35000,
+    "price_installment": 2008,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 4,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Фитнес",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "learnProfession",
+      "professionalRetraining"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке, сертификаты о прохождении вебинаров из базы знаний",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "В рамках курса слушатели научатся проводить персональные и групповые занятия, изучат диетологию, силовой и функциональный тренинг, спортивную психологию и методики безопасных тренировок.",
+    "program": [],
+    "advertising": {
+      "cost": 40.44,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "137482",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGn9qfv"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2479&aff_id=2&erid=2W5zFGn9qfv",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2479&aff_id=2&erid=2W5zFGn9qfv"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "652fefef16dcb43ccef2e083",
+    "name": "Фитнес-тренер",
+    "tariff": "",
+    "school": "МУПП",
+    "school_alias": "mupp",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/65201d37d78e23002b4d2214.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/652fefef16dcb43ccef2e083/qedfH9uOWEaesbQmgOv3Z.png",
+    "course_url": "https://mupp-dpo.ru/kursy/fitnes-trener?utm_source=cpa&utm_medium=sravni.ru&utm_content={transaction_id}",
+    "price": 10800,
+    "price_all": 10800,
+    "price_original": 16650,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Фитнес",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "learnProfession",
+      "professionalRetraining"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом, сертификат соответствия",
+    "mentor": true,
+    "portfolio_text": "Итоговая работа",
+    "description": "На курсе разбираются основы анатомии, подбор комплексов упражнений в зависимости от индивидуальных особенностей и здоровья человека, современные методики физического воспитания, варианты обустройства тренажерных-залов с использованием различного оборудования, а также юридические аспекты деятельности инструкторов.Стоимость указана по тарифу «Студент». Можно выбрать обучение на других тарифах:«Специалист»: наполнение тарифа «Студент», а также бессрочный доступ к учебному комплексу, материалы для углубленного изучения с выдачей сертификата, доступ к образовательной платформе.«Профессионал»: наполнение тарифа «Специалист», а также блок по продвижению в соц. сетях (SMM), модуль для предпринимателей и доставка документов курьерской службой.",
+    "program": [
+      {
+        "moduleName": "Физическое развитие, его оценка, методы исследования"
+      },
+      {
+        "moduleName": "Анатомия и физиология человека"
+      },
+      {
+        "moduleName": "Основы теории и методики физического воспитания и спортивной тренировки"
+      },
+      {
+        "moduleName": "Современный фитнес-центр и тренажерные комплексы"
+      },
+      {
+        "moduleName": "Фитнес-планы для людей с различным уровнем подготовки"
+      },
+      {
+        "moduleName": "Ответственность фитнес-тренера"
+      }
+    ],
+    "advertising": {
+      "cost": 22.06,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": [
+            "LjN8KFUG1"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2020&aff_id=2&dl=&erid=LjN8KFUG1",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2020&aff_id=2&dl=&erid=LjN8KFUG1"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6530fbefe6c4fe652bb955f2",
+    "name": "Физическая культура и спорт",
+    "tariff": "",
+    "school": "МУПП",
+    "school_alias": "mupp",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/65201d37d78e23002b4d2214.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6530fbefe6c4fe652bb955f2/XunuNIfX0fsWSI-_gsfeq.png",
+    "course_url": "https://mupp-dpo.ru/kursy/fizkultura_i_sport?utm_source=cpa&utm_medium=sravni.ru&utm_content={transaction_id}",
+    "price": 10800,
+    "price_all": 10800,
+    "price_original": 16650,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Фитнес",
+      "Тренерство"
+    ],
+    "course_targets": [
+      "learnProfession",
+      "professionalRetraining"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом, сертификат соответствия",
+    "mentor": true,
+    "portfolio_text": "Итоговая работа",
+    "description": "На курсе помогут освоить основы анатомии и психологии, правила подбора фитнес-программ в зависимости от пола, возраста, физической подготовки, здоровья человека.Стоимость указана по тарифу «Студент». Можно выбрать обучение на других тарифах:«Специалист»: наполнение тарифа «Студент», а также бессрочный доступ к учебному комплексу, материалы для углубленного изучения с выдачей сертификата, доступ к образовательной платформе.«Профессионал»: наполнение тарифа «Специалист», а также блок по продвижению в соц. сетях (SMM), модуль для предпринимателей и доставка документов курьерской службой.",
+    "program": [],
+    "advertising": {
+      "cost": 22.06,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": [
+            "LjN8KFUG1"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2020&aff_id=2&dl=&erid=LjN8KFUG1",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2020&aff_id=2&dl=&erid=LjN8KFUG1"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6530fd743f972620981a4880",
+    "name": "Спортивный тренер",
+    "tariff": "",
+    "school": "МУПП",
+    "school_alias": "mupp",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/65201d37d78e23002b4d2214.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6530fd743f972620981a4880/d7ywIWdGWCM8eZjGEZbFI.png",
+    "course_url": "https://mupp-dpo.ru/kursy/sportivnyy_trener?utm_source=cpa&utm_medium=sravni.ru&utm_content={transaction_id}",
+    "price": 10800,
+    "price_all": 10800,
+    "price_original": 16650,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeSport"
+    ],
+    "directions": [
+      "Тренерство"
+    ],
+    "course_targets": [
+      "learnProfession",
+      "professionalRetraining"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом, сертификат соответствия",
+    "mentor": true,
+    "portfolio_text": "Итоговая работа",
+    "description": "Программа включает в себя все аспекты деятельности спортивного тренера: от основ анатомии и оказания первой медицинской помощи до юридических норм.Стоимость указана по тарифу «Студент». Можно выбрать обучение на других тарифах:«Специалист»: наполнение тарифа «Студент», а также бессрочный доступ к учебному комплексу, материалы для углубленного изучения с выдачей сертификата, доступ к образовательной платформе.«Профессионал»: наполнение тарифа «Специалист», а также блок по продвижению в соц. сетях (SMM), модуль для предпринимателей и доставка документов курьерской службой.",
+    "program": [
+      {
+        "moduleName": "Правовые основы деятельности в сфере физической культуры и спорта"
+      },
+      {
+        "moduleName": "Профессиональные стандарты, профессия тренера"
+      },
+      {
+        "moduleName": "Физическое развитие, его оценка, методы исследования"
+      },
+      {
+        "moduleName": "Федеральные стандарты спортивной подготовки"
+      },
+      {
+        "moduleName": "Государственная политика в области физической культуры и спорта"
+      },
+      {
+        "moduleName": "Планирование и организация учебно-тренировочного процесса, охрана труда и техносферная безопасность"
+      }
+    ],
+    "advertising": {
+      "cost": 22.06,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": [
+            "LjN8KFUG1"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2020&aff_id=2&dl=&erid=LjN8KFUG1",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2020&aff_id=2&dl=&erid=LjN8KFUG1"
+        },
+        "kind": "referral"
+      }
+    }
+  }
+]

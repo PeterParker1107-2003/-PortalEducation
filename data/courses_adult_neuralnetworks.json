@@ -1,0 +1,5332 @@
+[
+  {
+    "id": "681b5651ae2955f0317e8e85",
+    "name": "Нейросети для каждого: как решать рабочие задачи быстрее",
+    "tariff": "",
+    "school": "Нетология",
+    "school_alias": "netologiya",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767bb3ae56ab001d91f807.svg?v=0.82",
+    "school_rating": 4.9,
+    "school_reviews_count": 1537,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/681b5651ae2955f0317e8e85/sgQpRXa5bFSOifklcpZVl.png",
+    "course_url": "https://netology.ru/programs/chat-gpt?utm_source=sravni&utm_medium=cpa&utm_content={transaction_id}&utm_campaign=2",
+    "price": 41200,
+    "price_all": 41200,
+    "price_original": 78947,
+    "price_installment": 2412,
+    "time_installment": 18,
+    "duration_days": 0,
+    "duration_months": 1.5,
+    "learning_type": [
+      "typeNeuralNetworks",
+      "typeMarketing",
+      "typeDesign",
+      "typeAnalytics",
+      "typeManagement"
+    ],
+    "directions": [
+      "ChatGPT",
+      "Midjourney",
+      "deepSeek",
+      "DALL-E 3",
+      "gemini",
+      "yandexGPT",
+      "gigaChat",
+      "kandinskyAI",
+      "shedevrumAI",
+      "Нейросети",
+      "Искусственный интеллект"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without",
+      "isShowStrikethrough": false
+    },
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "Проекты по результатам прохождения программы",
+    "description": "На курсе научат создавать контент и работать с данными для решения личных и профессиональных задач, а также расскажут, как писать промпты для нейросетей и получать нужные результаты.Можно выбрать углублённое изучение отдельных направлений с выдачей свидетельства:«Нейросети для бизнеса и управленцев» (2.5 месяца): тариф поможет освоить применение ИИ в повседневных задачах и в бизнесе, расскажет, как сэкономить время и повысить эффективность управленческих решений с помощью готовых инструментов.«Нейросети для маркетинга» (2 месяца): в рамках тарифа изучаются 10+ нейросетей для решения рутинных и сложных маркетинговых задач: от генерации контента до анализа рекламных кампаний.",
+    "program": [],
+    "advertising": {
+      "cost": 98.8,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": true,
+      "labelText": "Популярное; Популярное",
+      "partnerPanelColor": "#fdf2f2",
+      "partnerTextColor": "#c11d1d",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "13537",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFHAYgTz"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "690deda476a36c4ada7aed11",
+    "name": "Vibe Coding | AI-Программирование",
+    "tariff": "",
+    "school": "Нетология",
+    "school_alias": "netologiya",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767bb3ae56ab001d91f807.svg?v=0.82",
+    "school_rating": 4.9,
+    "school_reviews_count": 1537,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/690deda476a36c4ada7aed11/W49uzeTzpQ76LYkHQtMFG.png",
+    "course_url": "https://netology.ru/programs/ai-coding?utm_source=sravni&utm_medium=cpa&utm_content={transaction_id}&utm_campaign=2",
+    "price": 44500,
+    "price_all": 44500,
+    "price_original": 78070,
+    "price_installment": 2602,
+    "time_installment": 18,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeProgramming",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "nocode",
+      "Нейросети",
+      "ChatGPT",
+      "gigaChat",
+      "yandexGPT"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without",
+      "isShowStrikethrough": false
+    },
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "Итоговые работы",
+    "description": "На курсе научат создавать работающие веб-приложения и автоматизацию, взаимодействовать с ИИ-инструментами для генерации кода, разрабатывать MVP проектов за короткие сроки, интегрировать различные сервисы и API, понимать основы современной разработки без написания кода вручную.",
+    "program": [],
+    "advertising": {
+      "cost": 98.8,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": true,
+      "labelText": "Популярное; Популярное",
+      "partnerPanelColor": "#fdf2f2",
+      "partnerTextColor": "#c11d1d",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "118420",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFHAYgTz"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "62750a2c82186700259e0de9",
+    "name": "Руководитель отдела продаж",
+    "tariff": "",
+    "school": "Нетология",
+    "school_alias": "netologiya",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767bb3ae56ab001d91f807.svg?v=0.82",
+    "school_rating": 4.9,
+    "school_reviews_count": 1537,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/62750a2c82186700259e0de9/mAW_dSf3EyOHiX9CMeG-W.png",
+    "course_url": "https://netology.ru/programs/sales-manager-online?utm_source=sravni&utm_medium=cpa&utm_content={transaction_id}&utm_campaign=2",
+    "price": 68600,
+    "price_all": 68600,
+    "price_original": 169490,
+    "price_installment": 3177,
+    "time_installment": 24,
+    "duration_days": 0,
+    "duration_months": 6.5,
+    "learning_type": [
+      "typeManagement",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "managementSales",
+      "executiveTraining",
+      "Искусственный интеллект",
+      "Нейросети"
+    ],
+    "course_targets": [
+      "professionalRetraining",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Продвинутый"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without",
+      "isShowStrikethrough": false
+    },
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке",
+    "mentor": true,
+    "portfolio_text": "Презентация результатов ОП и отчёт по внедрению ИИ",
+    "description": "На курсе научат выстраивать процессы в продажах и эффективно управлять командой, а также расскажут, как внедрить аналитику и принимать взвешенные решения в любой ситуации.Стоимость указана по самостоятельному треку. Можно выбрать тариф «С ментором и расписанием» (6 месяцев): в рамках тарифа научат выстраивать процессы, делегировать задачи и управлять командой.",
+    "program": [],
+    "advertising": {
+      "cost": 98.8,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": true,
+      "labelText": "Популярное; Популярное",
+      "partnerPanelColor": "#fdf2f2",
+      "partnerTextColor": "#c11d1d",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "6189",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFHAYgTz"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6781317bd909a58189e6693a",
+    "name": "ИИ в медицине: как использовать в работе каждый день",
+    "tariff": "",
+    "school": "Нетология",
+    "school_alias": "netologiya",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767bb3ae56ab001d91f807.svg?v=0.82",
+    "school_rating": 4.9,
+    "school_reviews_count": 1537,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6781317bd909a58189e6693a/msmTJaDM1RSw6SX4-EsPj.png",
+    "course_url": "https://netology.ru/programs/ii-v-medicine-vrach?utm_source=sravni&utm_medium=cpa&utm_content={transaction_id}&utm_campaign=2",
+    "price": 22100,
+    "price_all": 22100,
+    "price_original": 66491,
+    "price_installment": 1939,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeAnalytics",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Искусственный интеллект",
+      "Нейросети",
+      "ChatGPT",
+      "gigaChat",
+      "yandexGPT"
+    ],
+    "course_targets": [
+      "professionalDevelopment",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Продвинутый"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without",
+      "isShowStrikethrough": false
+    },
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "Итоговая работа",
+    "description": "Курс позволит:изучить на практике современные методы ИИ в медицине и выбрать подходящий инструмент для работы;научиться составлять промпты для эффективной работы с нейросетями и поиска медицинских данных;сократить время на ведение социальных сетей и усилить личный бренд при помощи ИИ.",
+    "program": [],
+    "advertising": {
+      "cost": 98.8,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": true,
+      "labelText": "Популярное; Популярное",
+      "partnerPanelColor": "#fdf2f2",
+      "partnerTextColor": "#c11d1d",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "12874",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFHAYgTz"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68f5f80684ffe39d68c66d39",
+    "name": "Нейросети для маркетинга",
+    "tariff": "Самостоятельный",
+    "school": "Нетология",
+    "school_alias": "netologiya",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767bb3ae56ab001d91f807.svg?v=0.82",
+    "school_rating": 4.9,
+    "school_reviews_count": 1537,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68f5f80684ffe39d68c66d39/jBmSPAqMLcTz1mgZz10ag.png",
+    "course_url": "https://netology.ru/programs/ai-marketing?utm_source=sravni&utm_medium=cpa&utm_content={transaction_id}&utm_campaign=2",
+    "price": 25900,
+    "price_all": 25900,
+    "price_original": 49500,
+    "price_installment": 2268,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 1,
+    "learning_type": [
+      "typeMarketing",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "Искусственный интеллект",
+      "ChatGPT",
+      "Midjourney",
+      "runwayAI",
+      "kandinskyAI",
+      "DALL-E 3",
+      "yandexGPT",
+      "gigaChat",
+      "shedevrumAI",
+      "gammaAI"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without",
+      "isShowStrikethrough": false
+    },
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Свидетельство об окончании курса",
+    "mentor": true,
+    "portfolio_text": "Итоговый проект",
+    "description": "На курсе научат делегировать маркетинговые задач искусственному интеллекту, помогут освоить работу более чем с 10 нейросетями и увеличить окупаемость рекламных кампаний.Стоимость указана по тарифу «Самостоятельный». Можно выбрать тариф «С группой», куда входят онлайн-вебинары и воркшопы с экспертами, чат в Telegram и удостоверение о повышении квалификации.",
+    "program": [],
+    "advertising": {
+      "cost": 98.8,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": true,
+      "labelText": "Популярное; Популярное",
+      "partnerPanelColor": "#fdf2f2",
+      "partnerTextColor": "#c11d1d",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "106489",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFHAYgTz"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "618cc443f96ff50f3596a08a",
+    "name": "PR-менеджер в digital + нейросети",
+    "tariff": "",
+    "school": "Нетология",
+    "school_alias": "netologiya",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767bb3ae56ab001d91f807.svg?v=0.82",
+    "school_rating": 4.9,
+    "school_reviews_count": 1537,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/618cc443f96ff50f3596a08a/3yZavhJM41KAldX9dsmy6.png",
+    "course_url": "https://netology.ru/programs/digital-pr?utm_source=sravni&utm_medium=cpa&utm_content={transaction_id}&utm_campaign=2",
+    "price": 63200,
+    "price_all": 63200,
+    "price_original": 98300,
+    "price_installment": 2770,
+    "time_installment": 24,
+    "duration_days": 0,
+    "duration_months": 6,
+    "learning_type": [
+      "typeMarketing",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "marketingPR",
+      "ChatGPT",
+      "Midjourney",
+      "runwayAI",
+      "kandinskyAI",
+      "DALL-E 3",
+      "yandexGPT",
+      "gigaChat",
+      "shedevrumAI",
+      "gammaAI",
+      "Нейросети",
+      "Искусственный интеллект"
+    ],
+    "course_targets": [
+      "professionalDevelopment",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without",
+      "isShowStrikethrough": false
+    },
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "Комплексная PR‑стратегия",
+    "description": "На курсе помогут освоить базу PR и научат использовать ИИ-инструменты для разных задач.Можно выбрать обучение на других тарифах:«PR-менеджер в digital» (5 месяцев): на тарифе помогут освоить базу PR, научат разрабатывать PR-стратегию и работать с основными инструментами.«PR-менеджер в digital + копирайтинг» (8 месяцев): на тарифе помогут получить базу PR и навык написания PR-текстов для задач на коммуникацию с аудиторией.",
+    "program": [],
+    "advertising": {
+      "cost": 98.8,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": true,
+      "labelText": "Популярное; Популярное",
+      "partnerPanelColor": "#fdf2f2",
+      "partnerTextColor": "#c11d1d",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "6181",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFHAYgTz"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68f5f5c65815724631ca0d5b",
+    "name": "Нейросети для бизнеса и управленцев",
+    "tariff": "",
+    "school": "Нетология",
+    "school_alias": "netologiya",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767bb3ae56ab001d91f807.svg?v=0.82",
+    "school_rating": 4.9,
+    "school_reviews_count": 1537,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68f5f5c65815724631ca0d5b/YXwR1spkPG8huuEB01iob.png",
+    "course_url": "https://netology.ru/programs/ai-manager?utm_source=sravni&utm_medium=cpa&utm_content={transaction_id}&utm_campaign=2",
+    "price": 51000,
+    "price_all": 51000,
+    "price_original": 89474,
+    "price_installment": 2982,
+    "time_installment": 18,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeManagement",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "Искусственный интеллект",
+      "ChatGPT",
+      "Midjourney",
+      "deepSeek",
+      "gigaChat",
+      "yandexGPT",
+      "kandinskyAI"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without",
+      "isShowStrikethrough": false
+    },
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "Кейсы по результатам прохождения программы",
+    "description": "На курсе научат применять нейросети в бизнесе и решении управленческих задач, помогут увеличить эффективность, прибыль и показатели бизнеса или проекта, а также улучшить коммуникацию внутри команды и упростить взаимодействие с клиентами.",
+    "program": [],
+    "advertising": {
+      "cost": 98.8,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": true,
+      "labelText": "Популярное; Популярное",
+      "partnerPanelColor": "#fdf2f2",
+      "partnerTextColor": "#c11d1d",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "106488",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFHAYgTz"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "681b5a902b5288ea2261469b",
+    "name": "Нейросети для анализа данных",
+    "tariff": "",
+    "school": "Нетология",
+    "school_alias": "netologiya",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767bb3ae56ab001d91f807.svg?v=0.82",
+    "school_rating": 4.9,
+    "school_reviews_count": 1537,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/681b5a902b5288ea2261469b/6PxWHQ6UmHJA8gNBr30Bd.png",
+    "course_url": "https://netology.ru/programs/aida?utm_source=sravni&utm_medium=cpa&utm_content={transaction_id}&utm_campaign=2",
+    "price": 35100,
+    "price_all": 35100,
+    "price_original": 67193,
+    "price_installment": 3079,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeAnalytics",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "Аналитика данных",
+      "Искусственный интеллект",
+      "ChatGPT",
+      "deepSeek",
+      "gemini",
+      "yandexGPT",
+      "gigaChat",
+      "claude"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without",
+      "isShowStrikethrough": false
+    },
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "Итоговый проект",
+    "description": "На курсе научат анализировать данные с помощью нейросетей и автоматизировать аналитику — от таблиц до инсайтов, а также расскажут, как делать выводы и отчёты с помощью ИИ.",
+    "program": [],
+    "advertising": {
+      "cost": 98.8,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": true,
+      "labelText": "Популярное; Популярное",
+      "partnerPanelColor": "#fdf2f2",
+      "partnerTextColor": "#c11d1d",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "13538",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFHAYgTz"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6899e10c04a034f7f5a84879",
+    "name": "Режиссёр монтажа",
+    "tariff": "Нейросети",
+    "school": "Нетология",
+    "school_alias": "netologiya",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767bb3ae56ab001d91f807.svg?v=0.82",
+    "school_rating": 4.9,
+    "school_reviews_count": 1537,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/643031312f2bcf002bf28785/1zRFy-jHRa_oN2jdPsMDq.png",
+    "course_url": "https://netology.ru/programs/video-editing?utm_source=sravni&utm_medium=cpa&utm_content={transaction_id}&utm_campaign=2",
+    "price": 123600,
+    "price_all": 123600,
+    "price_original": 213438,
+    "price_installment": 3815,
+    "time_installment": 36,
+    "duration_days": 0,
+    "duration_months": 10,
+    "learning_type": [
+      "typeCreativity",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Видеомонтаж",
+      "neuralNetworksForCreativity",
+      "Нейросети",
+      "ChatGPT",
+      "deepSeek",
+      "sunoAI",
+      "Midjourney",
+      "runwayAI",
+      "klingAI",
+      "pikaAI"
+    ],
+    "course_targets": [
+      "learnProfession",
+      "professionalRetraining",
+      "findHobbyOfLearnNew"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without",
+      "isShowStrikethrough": false
+    },
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке, сертификат о прохождении модуля по нейросетям",
+    "mentor": true,
+    "portfolio_text": "9 проектов",
+    "description": "Режиссёр монтажа — это универсальный специалист, который умеет работать с видео разных жанров и форматов — от рекламных роликов до репортажей и документальных фильмов. Он занимается стилизацией, цветокоррекцией, визуальными эффектами и даже саунд-дизайном.Курс научит создавать и редактировать аудио- и видеоконтент с помощью 11 нейросетей.",
+    "program": [],
+    "advertising": {
+      "cost": 98.8,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": true,
+      "labelText": "Популярное; Популярное",
+      "partnerPanelColor": "#fdf2f2",
+      "partnerTextColor": "#c11d1d",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "38420",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFHAYgTz"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6899e600c00ce3bd315296fe",
+    "name": "Саунд-дизайнер",
+    "tariff": "Нейросети",
+    "school": "Нетология",
+    "school_alias": "netologiya",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767bb3ae56ab001d91f807.svg?v=0.82",
+    "school_rating": 4.9,
+    "school_reviews_count": 1537,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/618cc443f96ff50f3596a29c/BYckTLnW60-h4CFHDbBpn.png",
+    "course_url": "https://netology.ru/programs/sound-design?utm_source=sravni&utm_medium=cpa&utm_content={transaction_id}&utm_campaign=2",
+    "price": 91200,
+    "price_all": 91200,
+    "price_original": 159982,
+    "price_installment": 3999,
+    "time_installment": 24,
+    "duration_days": 0,
+    "duration_months": 9,
+    "learning_type": [
+      "typeCreativity",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "sound_design",
+      "creativitySound",
+      "neuralNetworksForCreativity",
+      "Нейросети",
+      "ChatGPT",
+      "deepSeek",
+      "sunoAI",
+      "Midjourney",
+      "pikaAI",
+      "klingAI",
+      "runwayAI"
+    ],
+    "course_targets": [
+      "learnProfession",
+      "professionalRetraining",
+      "findHobbyOfLearnNew"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without",
+      "isShowStrikethrough": false
+    },
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о профессиональной переподготовке, сертификат о прохождении модуля по нейросетям",
+    "mentor": true,
+    "portfolio_text": "6 проектов",
+    "description": "Курс научит создавать треки, позволит изучить основы музыкальной композиции, инструменты звукорежиссуры и саунд-дизайна: монтаж, сведение, обработку, звукозапись, а также поможет узнать, какие нейросети будут полезны в креативных и технических задачах и как при помощи них оптимизировать свою работу.Можно выбрать тариф «Саунд-дизайнер» (7 месяцев), на котором изучаются все этапы работы со звуком: от звукозаписи и синтеза до сведения и пост-продакшена.",
+    "program": [],
+    "advertising": {
+      "cost": 98.8,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": true,
+      "labelText": "Популярное; Популярное",
+      "partnerPanelColor": "#fdf2f2",
+      "partnerTextColor": "#c11d1d",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "38757",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFHAYgTz"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "65031d2466618b0029569b87",
+    "name": "Нейросети. Практический курс",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65031d2466618b0029569b87/11yTUh9RZjUXcageoxupu.png",
+    "course_url": "https://skillbox.ru/course/neural-networks-sravni/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 65538,
+    "price_all": 65538,
+    "price_original": 104388,
+    "price_installment": 3449,
+    "time_installment": 19,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeAnalytics",
+      "typeDesign",
+      "typeProgramming",
+      "typeMarketing",
+      "typeCreativity",
+      "typeManagement",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "ChatGPT",
+      "Midjourney",
+      "perplexityAI",
+      "runwayAI",
+      "DALL-E 3",
+      "gammaAI",
+      "Stable Diffusion",
+      "heyGenAI",
+      "klingAI",
+      "sunoAI",
+      "Нейросети",
+      "claude",
+      "deepSeek",
+      "kandinskyAI",
+      "shedevrumAI",
+      "gigaChat",
+      "yandexGPT",
+      "gemini"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": true,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "25+ практических кейсов",
+    "description": "Курс поможет освоить ИИ-инструменты на практических задачах: от создания концепт-арта до анализа данных — с кейсами из дизайна, IT, маркетинга, бизнеса и десятков других сфер.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "8561",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "692844b476741ec9aa36ae63",
+    "name": "Нейросети для рабочих задач",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/692844b476741ec9aa36ae63/GyPQeIZmUPFgOQ1jnKFOZ.png",
+    "course_url": "https://skillbox.ru/course/neuronetforbusiness/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 31290,
+    "price_all": 31290,
+    "price_original": 62580,
+    "price_installment": 5215,
+    "time_installment": 6,
+    "duration_days": 14,
+    "duration_months": 0,
+    "learning_type": [
+      "typeNeuralNetworks",
+      "typeManagement",
+      "typeAnalytics",
+      "typeFinance"
+    ],
+    "directions": [
+      "Нейросети",
+      "gigaChat",
+      "yandexGPT",
+      "ChatGPT",
+      "claude",
+      "gemini",
+      "Midjourney",
+      "DALL-E 3",
+      "Искусственный интеллект"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "Три AI-ассистента — «Организатор», «Аналитик» и «Редактор»",
+    "description": "Универсальный курс для менеджеров, аналитиков, руководителей и других специалистов с реальными кейсами ИИ-автоматизации.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "127739",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "67bf0cada43b056d41fdea1f",
+    "name": "ChatGPT: практический курс",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/67bf0cada43b056d41fdea1f/8uS7px1-9kB1soKCshDFV.png",
+    "course_url": "https://skillbox.ru/course/practical-course-text/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 46637,
+    "price_all": 46637,
+    "price_original": 93275,
+    "price_installment": 3886,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeAnalytics",
+      "typeProgramming",
+      "typeMarketing",
+      "typeCreativity",
+      "typeManagement",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "ChatGPT",
+      "perplexityAI",
+      "gammaAI",
+      "claude"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "Более 10 практический кейсов",
+    "description": "На курсе научат решать рутинные задачи с помощью ChatGPT: искать информацию, создавать презентации, писать тексты и код и др.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "13077",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "67b840c4a957cd829f4f1e23",
+    "name": "Нейросети для работы с графикой и видео",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/67b840c4a957cd829f4f1e23/6ePse5pvapX3dWNe1CFzm.png",
+    "course_url": "https://skillbox.ru/course/networks-practical-course/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 49092,
+    "price_all": 49092,
+    "price_original": 98184,
+    "price_installment": 4091,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeCreativity",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "neuralNetworksForCreativity",
+      "Нейросети",
+      "Midjourney",
+      "DALL-E 3",
+      "Stable Diffusion"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "findHobbyOfLearnNew"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "Более 10 проектов",
+    "description": "Курс научит применять в работе Midjourney, Stable Diffusion, DALL·E 3 и другие инструменты на основе нейросетей, ретушировать фотографии, генерировать идеи по референсам, анализировать тренды, создавать иллюстрации в разных стилях и решать ещё много других задач.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "13025",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "67d2d11bf2ba4afeceb2c708",
+    "name": "Нейросети для бизнеса",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/67d2d11bf2ba4afeceb2c708/q8_EzD_-6ByC3YS9f4n-r.png",
+    "course_url": "https://skillbox.ru/course/nejroseti-dlya-biznesa-sravni/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 66397,
+    "price_all": 66397,
+    "price_original": 189706,
+    "price_installment": 5533,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeManagement",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "ChatGPT",
+      "claude",
+      "gemini",
+      "Midjourney",
+      "recraft",
+      "deepSeek",
+      "Искусственный интеллект"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "10 готовых AI-агентов",
+    "description": "Изучение более 12 AI-инструментов для автоматизации бизнеса: Make, n8n, ChatGPT, DeepSeek и многих других.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "13189",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6942b2ca526eb2d19fe90d13",
+    "name": "Нейросети с нуля: ваш ИИ-ассистент для жизни и работы",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6942b2ca526eb2d19fe90d13/JhkdyNJ6XnIxxDSnBXueA.png",
+    "course_url": "https://skillbox.ru/course/ai-assistant/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 69500,
+    "price_all": 69500,
+    "price_original": 173750,
+    "price_installment": 5792,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeNeuralNetworks",
+      "typeManagement",
+      "typeDesign",
+      "typeMarketing",
+      "typeCreativity"
+    ],
+    "directions": [
+      "Нейросети",
+      "ChatGPT",
+      "Midjourney",
+      "gemini",
+      "DALL-E 3",
+      "runwayAI",
+      "sunoAI",
+      "claude",
+      "recraft",
+      "Искусственный интеллект"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "9 AI-проектов: помощники для бизнеса, обучения, хобби и домашнего быта",
+    "description": "Курс поможет разобраться, как устроены ChatGPT, Midjourney и другие популярные нейросети. Студенты курса с нуля создадут несколько AI-асисстентов и узнают, как применить их в работе, жизни и учёбе.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "145537",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "67d4269015efe831879d671c",
+    "name": "Специалист по компьютерному зрению дронов и нейросетям",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/67d4269015efe831879d671c/db3qD0H6nTen9EkxlNAQW.png",
+    "course_url": "https://skillbox.ru/course/computer-vision/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 102111,
+    "price_all": 102111,
+    "price_original": 204223,
+    "price_installment": 8509,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 8,
+    "learning_type": [
+      "typeAnalytics",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "computerVision",
+      "Нейросети",
+      "Python"
+    ],
+    "course_targets": [
+      "learnProfession"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "Создание решения компьютерного зрения для прикладной задачи в сельском хозяйстве",
+    "description": "Курс научит писать код для роботов на Python, чтобы учить машины видеть и анализировать данные предметов вокруг. С этим навыком можно решать индустриальные задачи: учить дроны рисовать карты и сканировать состояние полей, делать системы безопасности на производстве и другое.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "13205",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "64cbb2e3b1c723002a93897c",
+    "name": "Работа с нейросетями",
+    "tariff": "",
+    "school": "Бруноям",
+    "school_alias": "brunoyam",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6193a770e109c90023c58de5.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 132,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/64cbb2e3b1c723002a93897c/3iAWU-EgW6h_n2TUg093f.png",
+    "course_url": "https://brunoyam.com/online-kursy/nejronnye-seti?utm_source=sravni_ru&utm_medium=cpa&utm_campaign=ref&click_id={transaction_id}",
+    "price": 19900,
+    "price_all": 19900,
+    "price_original": 26500,
+    "price_installment": 1658,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeNeuralNetworks",
+      "typeMarketing",
+      "typeDesign",
+      "typeManagement",
+      "typeCreativity",
+      "typeAnalytics"
+    ],
+    "directions": [
+      "Нейросети",
+      "ChatGPT",
+      "Midjourney",
+      "Искусственный интеллект",
+      "runwayAI",
+      "kandinskyAI",
+      "DALL-E 3",
+      "shedevrumAI",
+      "claude",
+      "yandexGPT",
+      "Stable Diffusion"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "findHobbyOfLearnNew"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": true,
+    "is_wow_effect": true,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "Учебные проекты",
+    "description": "Курс научит работать с нейросетями, а также расскажет, как использовать ИИ в работе, чтобы решать задачи быстрее и эффективнее.",
+    "program": [],
+    "advertising": {
+      "cost": 70.37,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "4802",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1500&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1500&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6686b8a2a90169f0320cf472",
+    "name": "ChatGpt",
+    "tariff": "",
+    "school": "Бруноям",
+    "school_alias": "brunoyam",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6193a770e109c90023c58de5.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 132,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6686b8a2a90169f0320cf472/ek8HuOEd9crtZ-SIxCMQx.png",
+    "course_url": "https://brunoyam.com/online-kursy/chat-gpt?utm_source=sravni_ru&utm_medium=cpa&utm_campaign=ref&click_id={transaction_id}",
+    "price": 9900,
+    "price_all": 9900,
+    "price_original": 10900,
+    "price_installment": 825,
+    "time_installment": 12,
+    "duration_days": 7,
+    "duration_months": 0,
+    "learning_type": [
+      "typeAnalytics",
+      "typeMarketing",
+      "typeDesign",
+      "typeManagement",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "ChatGPT",
+      "Нейросети",
+      "Искусственный интеллект"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "findHobbyOfLearnNew"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": true,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "Курс поможет освоить ChatGPT, научит с его помощью быстрее делать задачи в работе и жизни, а также расскажет, как генерировать идеи для контента, рекламы, стратегий.",
+    "program": [],
+    "advertising": {
+      "cost": 70.37,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "10419",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1500&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1500&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6686b282366b9abd63e25f6f",
+    "name": "Нейросети для дизайнеров",
+    "tariff": "",
+    "school": "Бруноям",
+    "school_alias": "brunoyam",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6193a770e109c90023c58de5.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 132,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6686b282366b9abd63e25f6f/aUE-ZN-KjVnrzK-GLW4-2.png",
+    "course_url": "https://brunoyam.com/online-kursy/neural-networks-for-designers?utm_source=sravni_ru&utm_medium=cpa&utm_campaign=ref&click_id={transaction_id}",
+    "price": 19900,
+    "price_all": 19900,
+    "price_original": 26500,
+    "price_installment": 1658,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeDesign",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "ChatGPT",
+      "Midjourney",
+      "kandinskyAI",
+      "DALL-E 3",
+      "yandexGPT",
+      "Stable Diffusion",
+      "gigaChat",
+      "runwayAI",
+      "heyGenAI",
+      "shedevrumAI"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "findHobbyOfLearnNew"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": true,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "Учебные проекты",
+    "description": "Курс научит работать с нейросетями, чтобы с их помощью генерировать больше идей и референсов, экономить время на рутине, находить решения для дизайн-проектов.",
+    "program": [],
+    "advertising": {
+      "cost": 70.37,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "10417",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1500&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1500&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6686b5af96b7c1f803d6fd71",
+    "name": "Нейросети для маркетологов",
+    "tariff": "",
+    "school": "Бруноям",
+    "school_alias": "brunoyam",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6193a770e109c90023c58de5.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 132,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6686b5af96b7c1f803d6fd71/JoAgsOMVEwtfsNFzvvKpP.png",
+    "course_url": "https://brunoyam.com/online-kursy/neural-networks-for-marketing?utm_source=sravni_ru&utm_medium=cpa&utm_campaign=ref&click_id={transaction_id}",
+    "price": 19900,
+    "price_all": 19900,
+    "price_original": 26500,
+    "price_installment": 1658,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeMarketing",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "ChatGPT",
+      "yandexGPT",
+      "gigaChat",
+      "kandinskyAI",
+      "DALL-E 3",
+      "Stable Diffusion",
+      "Midjourney",
+      "runwayAI",
+      "heyGenAI"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "Практические кейсы",
+    "description": "Нейросети могут проверять тексты, составлять ТЗ для команды, находить информацию для исследований, расшифровывать созвоны и делать по ним резюме. На курсе расскажут и покажут, как работать с нейросетями каждый день, чтобы экономить время.",
+    "program": [],
+    "advertising": {
+      "cost": 70.37,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "10418",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1500&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1500&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "69317ec571b1af2e993316e0",
+    "name": "ИИ-агенты и n8n",
+    "tariff": "Оптимальный",
+    "school": "Бруноям",
+    "school_alias": "brunoyam",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6193a770e109c90023c58de5.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 132,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/69317ec571b1af2e993316e0/4YkxuTGf749NEb-6fj6-c.png",
+    "course_url": "https://brunoyam.com/online-kursy/ai-agents?utm_source=sravni_ru&utm_medium=cpa&utm_campaign=ref&click_id={transaction_id}",
+    "price": 26700,
+    "price_all": 26700,
+    "price_original": 37380,
+    "price_installment": 2225,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeManagement",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Искусственный интеллект"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат, удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "Telegram-бот и AI-агент; кейсы: «Автоматическое назначение менеджеров на входящие заявки», «Супер-ассистент», «Автоматизация инфлюенс-маркетинга», пайплайн для точного поиска информации, комплексный финальный проект",
+    "description": "На курсе научат создавать мощных AI-агентов и чат-ботов в Telegram, работать с n8n, внешними API и векторными базами данных, а также развёртывать self-hosted-решения.Стоимость указана по тарифу «Оптимальный», куда входит неограниченный доступ к курсу, работа с проектами, личный наставник без ограничения по ответам и две онлайн-консультации с ним. Есть возможность выбрать обучение на других тарифах:«Базовый»: самостоятельное обучение без наставника, сертификат, доступ к курсу «Учись учиться».«Плюс»: все наполнение тарифа «Оптимальный», а также онлайн-консультации с наставником после каждого модуля, дополнительные проекты для портфолио, личная карьерная консультация с экспертом.",
+    "program": [],
+    "advertising": {
+      "cost": 70.37,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "133307",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1500&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1500&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "680a376385047039642a1bed",
+    "name": "Нейросети для дизайнеров",
+    "tariff": "",
+    "school": "Логомашина",
+    "school_alias": "logomashina",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/62cc37338d6c24002442ecb7.png?v=0.70",
+    "school_rating": 4.9,
+    "school_reviews_count": 572,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/680a376385047039642a1bed/6Q-dK3vsh-xNKVZ_wNPJA.png",
+    "course_url": "https://study.logomachine.ru/ai-design-course?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni2025&click_id={transaction_id}",
+    "price": 45000,
+    "price_all": 45000,
+    "price_original": 110000,
+    "price_installment": 3750,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeDesign",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "ChatGPT",
+      "Midjourney",
+      "kandinskyAI",
+      "DALL-E 3",
+      "Stable Diffusion",
+      "pikaAI"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат об окончании курса, удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "Оформление социальных сетей, дизайн афиши или карточек товара для маркетплейсов, стикеры с персонажем, логотип, фирменный стиль и сайт",
+    "description": "Курс для тех, кто хочет освоить современные технологии в дизайне и получить прорыв в работе дизайнера.",
+    "program": [],
+    "advertising": {
+      "cost": 230.25,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "13486",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFJxLs5A"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1612&aff_id=2&dl=&erid=2W5zFJxLs5A",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1612&aff_id=2&dl=&erid=2W5zFJxLs5A"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "66f13ba58fe76e20bb31ab0e",
+    "name": "Нейросети с нуля на практике",
+    "tariff": "",
+    "school": "Eduson Academy",
+    "school_alias": "eduson-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a135ae56ab001d91f8c4.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 250,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66f13ba58fe76e20bb31ab0e/Zo_TFkbjd7MUmofXlM7EF.png",
+    "course_url": "https://eduson.academy/special-ai?utm_source=cpa&utm_medium=sravni_ru&utm_campaign=cpa&utm_term={transaction_id}",
+    "price": 42660,
+    "price_all": 42660,
+    "price_original": 106650,
+    "price_installment": 3555,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeAnalytics",
+      "typeMarketing",
+      "typeDesign",
+      "typeManagement",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "ChatGPT",
+      "Midjourney",
+      "claude",
+      "gemini",
+      "perplexityAI",
+      "kandinskyAI",
+      "DALL-E 3",
+      "yandexGPT",
+      "gigaChat",
+      "gammaAI",
+      "recraft",
+      "Stable Diffusion",
+      "deepSeek"
+    ],
+    "course_targets": [
+      "professionalDevelopment",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {
+      "promoCodeType": "seasonal",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-time",
+      "durationFake": 24,
+      "isShowStrikethrough": true
+    },
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом о прохождении курса, удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "На курсе научат:работать с востребованной технологией;оптимизировать издержки на маркетинг, анализировать конкурентов и улучшать бизнес-процессы;делегировать нейросетям рутинные задачи, сокращать время на поиск и реализацию идей.",
+    "program": [],
+    "advertising": {
+      "cost": 150.46,
+      "costForFree": 24.81,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Популярное;Популярное",
+      "partnerPanelColor": "#fff9f0",
+      "partnerTextColor": "#ff9500",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "11100",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFH1WjjE"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1568&aff_id=2&dl=&erid=2W5zFH1WjjE",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1568&aff_id=2&dl=S&erid=2W5zFH1WjjE"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68c41112a1dfaea9e1574a28",
+    "name": "Графический ИИ-дизайнер",
+    "tariff": "",
+    "school": "Eduson Academy",
+    "school_alias": "eduson-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a135ae56ab001d91f8c4.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 250,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68c41112a1dfaea9e1574a28/H3KHovlWzwbUJlLRwYtcS.png",
+    "course_url": "https://eduson.academy/graph-design-ai?utm_source=cpa&utm_medium=sravni_ru&utm_campaign=cpa&utm_term={transaction_id}",
+    "price": 114917,
+    "price_all": 114917,
+    "price_original": 298543,
+    "price_installment": 9576,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 6,
+    "learning_type": [
+      "typeDesign",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Графический дизайн",
+      "Нейросети",
+      "Искусственный интеллект",
+      "ChatGPT",
+      "Midjourney",
+      "kandinskyAI",
+      "gigaChat",
+      "recraft",
+      "Stable Diffusion",
+      "pikaAI",
+      "heyGenAI",
+      "klingAI"
+    ],
+    "course_targets": [
+      "learnProfession",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации, диплом Eduson",
+    "mentor": true,
+    "portfolio_text": "Более 10 дизайн-проектов",
+    "description": "На курсе научат разрабатывать фирменный стиль и визуальную айдентику, делать ребрендинг, создавать рекламные баннеры, креативы и посты для социальных сетей, а также помогут освоить работу с нейросетями.",
+    "program": [],
+    "advertising": {
+      "cost": 150.46,
+      "costForFree": 24.81,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Популярное;Популярное",
+      "partnerPanelColor": "#fff9f0",
+      "partnerTextColor": "#ff9500",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "81505",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFH1WjjE"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1568&aff_id=2&dl=&erid=2W5zFH1WjjE",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1568&aff_id=2&dl=S&erid=2W5zFH1WjjE"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6824afaf7133675a41e433b4",
+    "name": "Нейросети для изображений и видео",
+    "tariff": "",
+    "school": "Eduson Academy",
+    "school_alias": "eduson-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a135ae56ab001d91f8c4.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 250,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6824afaf7133675a41e433b4/4OFLabPviF1XBlZrEi7Sk.png",
+    "course_url": "https://eduson.academy/ai-designer?utm_source=cpa&utm_medium=sravni_ru&utm_campaign=cpa&utm_term={transaction_id}",
+    "price": 46120,
+    "price_all": 46120,
+    "price_original": 90300,
+    "price_installment": 3843,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeDesign",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "neuralNetworksForCreativity",
+      "Нейросети",
+      "ChatGPT",
+      "Midjourney",
+      "kandinskyAI",
+      "gigaChat",
+      "recraft",
+      "Stable Diffusion",
+      "deepSeek",
+      "pikaAI",
+      "heyGenAI",
+      "klingAI"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации, диплом о прохождении курса",
+    "mentor": true,
+    "portfolio_text": "Дизайн-проект с использованием нейросетей",
+    "description": "Курс научит работать с различными нейросетями, поможет прокачать свои проекты, а также расскажет, как делегировать нейросетям рутинные задачи — создание мокапов, поиск референсов и прочее.",
+    "program": [],
+    "advertising": {
+      "cost": 150.46,
+      "costForFree": 24.81,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Популярное;Популярное",
+      "partnerPanelColor": "#fff9f0",
+      "partnerTextColor": "#ff9500",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "13549",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFH1WjjE"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1568&aff_id=2&dl=&erid=2W5zFH1WjjE",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1568&aff_id=2&dl=S&erid=2W5zFH1WjjE"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "687f6b615c7f773d08d1993f",
+    "name": "Менеджер маркетплейсов с нейросетями",
+    "tariff": "",
+    "school": "Eduson Academy",
+    "school_alias": "eduson-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a135ae56ab001d91f8c4.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 250,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/687f6b615c7f773d08d1993f/dvrpEXwSEVmhwlKprWBsE.png",
+    "course_url": "https://eduson.academy/marketplace-ai?utm_source=cpa&utm_medium=sravni_ru&utm_campaign=cpa&utm_term={transaction_id}",
+    "price": 59273,
+    "price_all": 59273,
+    "price_original": 174182,
+    "price_installment": 2469,
+    "time_installment": 24,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeMarketing",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "marketplace",
+      "Нейросети",
+      "Искусственный интеллект",
+      "ecom",
+      "ozon",
+      "wildberries",
+      "yandex.market",
+      "aliexpress",
+      "ChatGPT",
+      "Midjourney",
+      "kandinskyAI",
+      "DALL-E 3",
+      "recraft",
+      "Stable Diffusion"
+    ],
+    "course_targets": [
+      "professionalDevelopment",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": true,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации, диплом Eduson",
+    "mentor": true,
+    "portfolio_text": "Итоговый проект — стратегия выхода на маркетплейс",
+    "description": "Обучение на реальных бизнес-задачах и в симуляторах личных кабинетов Ozon, Wildberries, Яндекс Маркета. На курсе предоставляется доступ к интеллектуальному помощнику для автоматизации рутины.",
+    "program": [],
+    "advertising": {
+      "cost": 150.46,
+      "costForFree": 24.81,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Популярное;Популярное",
+      "partnerPanelColor": "#fff9f0",
+      "partnerTextColor": "#ff9500",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "13815",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFH1WjjE"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1568&aff_id=2&dl=&erid=2W5zFH1WjjE",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1568&aff_id=2&dl=S&erid=2W5zFH1WjjE"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68c3f74731bcbdfd02283a5b",
+    "name": "Нейросети и нейросотрудники для бизнеса",
+    "tariff": "",
+    "school": "Eduson Academy",
+    "school_alias": "eduson-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a135ae56ab001d91f8c4.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 250,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68c3f74731bcbdfd02283a5b/LYWjYVQsUqaONLPIxQbyL.png",
+    "course_url": "https://eduson.academy/ai-workers?utm_source=cpa&utm_medium=sravni_ru&utm_campaign=cpa&utm_term={transaction_id}",
+    "price": 62086,
+    "price_all": 62086,
+    "price_original": 155215,
+    "price_installment": 5173,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeManagement",
+      "typeDesign",
+      "typeMarketing",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "ChatGPT",
+      "gigaChat",
+      "deepSeek",
+      "heyGenAI"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {
+      "promoCodeType": "seasonal",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-time",
+      "durationFake": 24,
+      "isShowStrikethrough": true
+    },
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации, диплом Eduson",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "Курс поможет освоить популярные нейросети и создать команду ИИ-помощников, которые сэкономят время и деньги. В рамках программы можно изучить более 15 нейросетей и создать более 10 нейросотрудников.",
+    "program": [],
+    "advertising": {
+      "cost": 150.46,
+      "costForFree": 24.81,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Популярное;Популярное",
+      "partnerPanelColor": "#fff9f0",
+      "partnerTextColor": "#ff9500",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "80706",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFH1WjjE"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1568&aff_id=2&dl=&erid=2W5zFH1WjjE",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1568&aff_id=2&dl=S&erid=2W5zFH1WjjE"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68c3f925215020653faa9719",
+    "name": "Нейросети в строительстве",
+    "tariff": "",
+    "school": "Eduson Academy",
+    "school_alias": "eduson-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a135ae56ab001d91f8c4.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 250,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68c3f925215020653faa9719/-ExRJEBlhWEujenQ1zreN.png",
+    "course_url": "https://eduson.academy/ai-construction?utm_source=cpa&utm_medium=sravni_ru&utm_campaign=cpa&utm_term={transaction_id}",
+    "price": 58200,
+    "price_all": 58200,
+    "price_original": 125000,
+    "price_installment": 4850,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeManagement",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации, диплом Eduson",
+    "mentor": true,
+    "portfolio_text": "6 кейсов",
+    "description": "На курсе расскажут, как с помощью нейросетей исключить рутину, автоматизировать смету, проверки и документооборот, научат собирать документы, отчёты и тендерные таблицы без ручного ввода.",
+    "program": [],
+    "advertising": {
+      "cost": 150.46,
+      "costForFree": 24.81,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Популярное;Популярное",
+      "partnerPanelColor": "#fff9f0",
+      "partnerTextColor": "#ff9500",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "80854",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFH1WjjE"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1568&aff_id=2&dl=&erid=2W5zFH1WjjE",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1568&aff_id=2&dl=S&erid=2W5zFH1WjjE"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "688b73e9163f166d104dc09e",
+    "name": "Нейросети для HR",
+    "tariff": "",
+    "school": "Eduson Academy",
+    "school_alias": "eduson-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a135ae56ab001d91f8c4.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 250,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/688b73e9163f166d104dc09e/bTjg9cWiu46n2NthVfHWp.png",
+    "course_url": "https://eduson.academy/neuroseti-hr?utm_source=cpa&utm_medium=sravni_ru&utm_campaign=cpa&utm_term={transaction_id}",
+    "price": 52000,
+    "price_all": 52000,
+    "price_original": 125000,
+    "price_installment": 4333,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeManagement",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "ChatGPT",
+      "Midjourney",
+      "claude",
+      "perplexityAI",
+      "kandinskyAI",
+      "yandexGPT",
+      "gigaChat",
+      "gammaAI"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации, диплом о прохождении курса",
+    "mentor": true,
+    "portfolio_text": "Проекты по результатам прохождения модулей",
+    "description": "На курсе расскажут:как правильно составлять промпты и получать качественный результат;как автоматизировать повседневную рутину, работу с таблицами и HR-аналитикой;как интегрировать нейросети в текущие HR-процессы, увеличить производительность и KPI.",
+    "program": [],
+    "advertising": {
+      "cost": 150.46,
+      "costForFree": 24.81,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Популярное;Популярное",
+      "partnerPanelColor": "#fff9f0",
+      "partnerTextColor": "#ff9500",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "26032",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFH1WjjE"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1568&aff_id=2&dl=&erid=2W5zFH1WjjE",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1568&aff_id=2&dl=S&erid=2W5zFH1WjjE"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6731d8b1713d8837e891ebde",
+    "name": "Инструменты дизайнера",
+    "tariff": "",
+    "school": "Eduson Academy",
+    "school_alias": "eduson-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a135ae56ab001d91f8c4.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 250,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6731d8b1713d8837e891ebde/SL3Uv4EFfhddh7GpzgXvc.png",
+    "course_url": "https://eduson.academy/design-tools?utm_source=cpa&utm_medium=sravni_ru&utm_campaign=cpa&utm_term={transaction_id}",
+    "price": 32520,
+    "price_all": 32520,
+    "price_original": 81300,
+    "price_installment": 2710,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 1,
+    "learning_type": [
+      "typeDesign",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "tilda",
+      "Figma",
+      "neuralNetworksForCreativity",
+      "Нейросети",
+      "Midjourney",
+      "kandinskyAI"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации, диплом о прохождении курса",
+    "mentor": false,
+    "portfolio_text": "3 проекта",
+    "description": "Курс научит работать с самыми востребованными инструментами цифрового дизайна — Figma, Tilda, нейросетями.Мини-курс по пакету Adobe в подарок.",
+    "program": [],
+    "advertising": {
+      "cost": 150.46,
+      "costForFree": 24.81,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Популярное;Популярное",
+      "partnerPanelColor": "#fff9f0",
+      "partnerTextColor": "#ff9500",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "12585",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFH1WjjE"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1568&aff_id=2&dl=&erid=2W5zFH1WjjE",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1568&aff_id=2&dl=S&erid=2W5zFH1WjjE"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68f0c77f5815724631c6d67b",
+    "name": "Нейросети для разработчиков",
+    "tariff": "",
+    "school": "Eduson Academy",
+    "school_alias": "eduson-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a135ae56ab001d91f8c4.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 250,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68f0c77f5815724631c6d67b/hzBIyJ8cGM8PG3gHFnOi4.png",
+    "course_url": "https://eduson.academy/development-ai?utm_source=cpa&utm_medium=sravni_ru&utm_campaign=cpa&utm_term={transaction_id}",
+    "price": 35000,
+    "price_all": 35000,
+    "price_original": 70000,
+    "price_installment": 2916,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 1.5,
+    "learning_type": [
+      "typeProgramming",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "Искусственный интеллект",
+      "ChatGPT",
+      "Midjourney",
+      "claude",
+      "gemini",
+      "perplexityAI",
+      "kandinskyAI",
+      "DALL-E 3",
+      "yandexGPT",
+      "gigaChat",
+      "deepSeek"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Продвинутый"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации, диплом Eduson",
+    "mentor": true,
+    "portfolio_text": "Учебные проекты",
+    "description": "На курсе научат использовать промпт-инжиниринг, внедрять нейросети в процессы и ускорять разработку продуктов. В рамках программы изучается более 10 нейросетей для разных задач команды и прокачки хард- и софт-скилов.Курс подойдет тем, кто уже знает основы тестирования или любого языка программирования.",
+    "program": [],
+    "advertising": {
+      "cost": 150.46,
+      "costForFree": 24.81,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Популярное;Популярное",
+      "partnerPanelColor": "#fff9f0",
+      "partnerTextColor": "#ff9500",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "103263",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFH1WjjE"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1568&aff_id=2&dl=&erid=2W5zFH1WjjE",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1568&aff_id=2&dl=S&erid=2W5zFH1WjjE"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "690df18576a36c4ada7af10d",
+    "name": "Менеджер контент-завода",
+    "tariff": "",
+    "school": "Eduson Academy",
+    "school_alias": "eduson-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a135ae56ab001d91f8c4.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 250,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/690df18576a36c4ada7af10d/DEDoaoFN5pMS6SY08KcqP.png",
+    "course_url": "https://eduson.academy/ai-content-engine?utm_source=cpa&utm_medium=sravni_ru&utm_campaign=cpa&utm_term={transaction_id}",
+    "price": 46120,
+    "price_all": 46120,
+    "price_original": 115300,
+    "price_installment": 3843,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeMarketing",
+      "typeDesign",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "contentManagement",
+      "Нейросети",
+      "ChatGPT",
+      "deepSeek",
+      "gigaChat",
+      "Midjourney",
+      "recraft",
+      "kandinskyAI",
+      "Stable Diffusion",
+      "klingAI",
+      "heyGenAI",
+      "pikaAI"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {
+      "promoCodeType": "seasonal",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-time",
+      "durationFake": 24,
+      "isShowStrikethrough": true
+    },
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации, диплом Eduson",
+    "mentor": true,
+    "portfolio_text": "Полноценный дизайн-проект с использованием нейросетей",
+    "description": "На курсе расскажут, как систематизировать производство визуала и текстов, повысить скорость и сократить расходы, минимизировать рутину, повысить качество без правок и подрядчиков.",
+    "program": [],
+    "advertising": {
+      "cost": 150.46,
+      "costForFree": 24.81,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Популярное;Популярное",
+      "partnerPanelColor": "#fff9f0",
+      "partnerTextColor": "#ff9500",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "118496",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFH1WjjE"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1568&aff_id=2&dl=&erid=2W5zFH1WjjE",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1568&aff_id=2&dl=S&erid=2W5zFH1WjjE"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68dfbd8debf12eb74f8fd343",
+    "name": "ИИ-сотрудники и нейросети для отдела продаж",
+    "tariff": "",
+    "school": "Eduson Academy",
+    "school_alias": "eduson-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a135ae56ab001d91f8c4.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 250,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68dfbd8debf12eb74f8fd343/36OlDjxgicKXYHI-uQAYw.png",
+    "course_url": "https://eduson.academy/ai-sales?utm_source=cpa&utm_medium=sravni_ru&utm_campaign=cpa&utm_term={transaction_id}",
+    "price": 49600,
+    "price_all": 49600,
+    "price_original": 70000,
+    "price_installment": 4133,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeManagement",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Искусственный интеллект",
+      "Нейросети",
+      "ChatGPT",
+      "gigaChat"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации, диплом о прохождении курса",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "На курсе научат автоматизировать рутину, персонализировать контакты и закрывать больше сделок, контролировать процессы, получать точные прогнозы и управлять командой через структурированные отчёты и AI-инструменты.",
+    "program": [],
+    "advertising": {
+      "cost": 150.46,
+      "costForFree": 24.81,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Популярное;Популярное",
+      "partnerPanelColor": "#fff9f0",
+      "partnerTextColor": "#ff9500",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "102214",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFH1WjjE"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1568&aff_id=2&dl=&erid=2W5zFH1WjjE",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1568&aff_id=2&dl=S&erid=2W5zFH1WjjE"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6900cecb6919ecc616ead6f9",
+    "name": "Как менеджеру маркетплейсов зарабатывать 5000 ₽ в день с нейросетями",
+    "tariff": "",
+    "school": "Eduson Academy",
+    "school_alias": "eduson-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a135ae56ab001d91f8c4.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 250,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6900cecb6919ecc616ead6f9/s_of6165lKEA974pv1W7-.png",
+    "course_url": "https://eduson.academy/marketplace-web-new?utm_source=cpa&utm_medium=sravni_ru&utm_campaign=cpa&utm_term={transaction_id}",
+    "price": 0,
+    "price_all": 0,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 0,
+    "learning_type": [
+      "typeMarketing",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "marketplace",
+      "Нейросети",
+      "ecom",
+      "Искусственный интеллект"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "schedule"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": true,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": false,
+    "portfolio_text": "",
+    "description": "На курсе помогут понять, как быстро стартовать в профессии менеджера маркетплейсов, расскажут про ИИ-инструменты и научат писать запросы к нейросетям.",
+    "program": [],
+    "advertising": {
+      "cost": 150.46,
+      "costForFree": 24.81,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Популярное;Популярное",
+      "partnerPanelColor": "#fff9f0",
+      "partnerTextColor": "#ff9500",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "113554",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFH1WjjE"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1568&aff_id=2&dl=&erid=2W5zFH1WjjE",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1568&aff_id=2&dl=S&erid=2W5zFH1WjjE"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68878a0b6cce74640619b6af",
+    "name": "Обработка естественного языка — NLP",
+    "tariff": "",
+    "school": "Яндекс Практикум",
+    "school_alias": "yandeks-praktikum",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767e5dae56ab001d91f821.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 1307,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68878a0b6cce74640619b6af/oOZlK6NvZOrl8mHwzFJfp.png",
+    "course_url": "https://practicum.yandex.ru/natural-language-processing/?utm_source=partners&utm_medium=cpc&utm_campaign=sravni_cpc_RF",
+    "price": 60000,
+    "price_all": 60000,
+    "price_original": 0,
+    "price_installment": 31000,
+    "time_installment": 2,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeAnalytics",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "Машинное обучение",
+      "Искусственный интеллект"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Продвинутый"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации / сертификат о прохождении курса / справка об обучении",
+    "mentor": true,
+    "portfolio_text": "4 проекта: решение задачи NER, дообучение языковой модели, retrieval‑система по статьям из arXiv, модель для поиска изображений",
+    "description": "Ключевые NLP‑архитектуры: от вариаций BERT до RAG и агентных систем. На курсе научат строить продвинутые NLP‑модели и решать с их помощью задачи из разных индустрий.Программа подойдёт тем, у кого есть опыт работы с данными, Machine Learning и Deep Learning.",
+    "program": [],
+    "advertising": {
+      "cost": 166.67,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Скидка 15%; Скидка 15%",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "light-blue",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1372&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1372&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68885f83bf9532d7b9a71842",
+    "name": "Компьютерное зрение — CV",
+    "tariff": "",
+    "school": "Яндекс Практикум",
+    "school_alias": "yandeks-praktikum",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767e5dae56ab001d91f821.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 1307,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68885f83bf9532d7b9a71842/M0NxKShxLza81WWYSaPZX.png",
+    "course_url": "https://practicum.yandex.ru/computer-vision/?utm_source=partners&utm_medium=cpc&utm_campaign=sravni_cpc_RF",
+    "price": 60000,
+    "price_all": 60000,
+    "price_original": 0,
+    "price_installment": 31000,
+    "time_installment": 2,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeAnalytics",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "computerVision",
+      "Нейросети",
+      "Машинное обучение"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Продвинутый"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации / сертификат о прохождении курса / справка об обучении",
+    "mentor": true,
+    "portfolio_text": "4 проекта: высокоточный детектор на кастомном наборе данных, модель сегментации для решения бизнес‑задачи, кастомизация генеративной сети под конкретный запрос, обучение классификационной модели на трансформерной архитектуре",
+    "description": "Детекция, сегментация, генерация и мультимодальные модели. Архитектуры, loss‑функции, метрики, принципы повышения качества.Курс подойдёт тем, у кого есть опыт работы с данными, Machine Learning и Deep Learning.",
+    "program": [],
+    "advertising": {
+      "cost": 166.67,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Скидка 15%; Скидка 15%",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "light-blue",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1372&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1372&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6824a84e016dd680496952bc",
+    "name": "Инженер по глубокому обучению нейросетей",
+    "tariff": "",
+    "school": "Яндекс Практикум",
+    "school_alias": "yandeks-praktikum",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767e5dae56ab001d91f821.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 1307,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6824a84e016dd680496952bc/2ym6gphs4xhbcuMmL8pfW.png",
+    "course_url": "https://practicum.yandex.ru/deep-learning/?utm_source=partners&utm_medium=cpc&utm_campaign=sravni_cpc_RF",
+    "price": 62000,
+    "price_all": 62000,
+    "price_original": 0,
+    "price_installment": 32000,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeAnalytics",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Глубокое обучение",
+      "Нейросети",
+      "Машинное обучение"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Продвинутый"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации / сертификат о прохождении курса / справка об обучении (по запросу)",
+    "mentor": true,
+    "portfolio_text": "4 проекта",
+    "description": "Обучение нейросетей на облачной инфраструктуре и фундаментальные основы Deep Learning.Программа для IT‑специалистов, которые уже работали с данными, машинным обучением и Python.",
+    "program": [],
+    "advertising": {
+      "cost": 166.67,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Скидка 15%; Скидка 15%",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "light-blue",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1372&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1372&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68877c9abf9532d7b9a6ba85",
+    "name": "Нейросети для работы",
+    "tariff": "",
+    "school": "Яндекс Практикум",
+    "school_alias": "yandeks-praktikum",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767e5dae56ab001d91f821.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 1307,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68877c9abf9532d7b9a6ba85/Xj6L8QnixdNYnvUFjCfEx.png",
+    "course_url": "https://practicum.yandex.ru/ai-for-work/?utm_source=partners&utm_medium=cpc&utm_campaign=sravni_cpc_RF",
+    "price": 66500,
+    "price_all": 66500,
+    "price_original": 0,
+    "price_installment": 34500,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeAnalytics",
+      "typeMarketing",
+      "typeManagement",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "Искусственный интеллект",
+      "ChatGPT",
+      "claude",
+      "perplexityAI",
+      "deepSeek"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации / сертификат о прохождении курса / справка об обучении",
+    "mentor": true,
+    "portfolio_text": "Промпт‑бук",
+    "description": "Курс научит использовать нейросети для решения рутинных задач: генерации идей, создания контента, анализа данных и результатов, автоматизации задач и пр.",
+    "program": [],
+    "advertising": {
+      "cost": 166.67,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Скидка 15%; Скидка 15%",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "light-blue",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1372&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1372&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68dbcf2ec69722c3ff43844b",
+    "name": "Нейросети для бизнеса",
+    "tariff": "",
+    "school": "Яндекс Практикум",
+    "school_alias": "yandeks-praktikum",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767e5dae56ab001d91f821.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 1307,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68dbcf2ec69722c3ff43844b/4XDHAbuG8As2EPgLryMDS.png",
+    "course_url": "https://practicum.yandex.ru/ai-for-business/?utm_source=partners&utm_medium=cpc&utm_campaign=sravni_cpc_RF",
+    "price": 80000,
+    "price_all": 80000,
+    "price_original": 0,
+    "price_installment": 41500,
+    "time_installment": 2,
+    "duration_days": 0,
+    "duration_months": 2.5,
+    "learning_type": [
+      "typeManagement",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "Искусственный интеллект",
+      "ChatGPT",
+      "claude",
+      "perplexityAI",
+      "yandexGPT",
+      "deepSeek"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации / сертификат о прохождении курса / справка об обучении",
+    "mentor": true,
+    "portfolio_text": "Пошаговый план внедрения ИИ в работу своего бизнеса/отдела и его анализ",
+    "description": "Курс поможет освоить нейросети, чтобы повысить эффективность бизнеса, оптимизировать расходы и увеличить прибыль.",
+    "program": [],
+    "advertising": {
+      "cost": 166.67,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Скидка 15%; Скидка 15%",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "light-blue",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1372&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1372&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "661010a9a0ec4d5f4e1d6993",
+    "name": "Нейросети для дизайна",
+    "tariff": "",
+    "school": "Яндекс Практикум",
+    "school_alias": "yandeks-praktikum",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767e5dae56ab001d91f821.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 1307,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/661010a9a0ec4d5f4e1d6993/rQTQOtqtlDBQNllFyfKnc.png",
+    "course_url": "https://practicum.yandex.ru/ai-tools-for-designers/?utm_source=partners&utm_medium=cpc&utm_campaign=sravni_cpc_RF_Dsgn_aiToFoDe_b2c_Other_None_None",
+    "price": 64000,
+    "price_all": 64000,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeDesign",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "neuralNetworksForCreativity",
+      "Нейросети",
+      "ChatGPT",
+      "Midjourney",
+      "runwayAI",
+      "yandexGPT",
+      "recraft",
+      "Stable Diffusion",
+      "sunoAI"
+    ],
+    "course_targets": [
+      "professionalDevelopment",
+      "upgradeSkills",
+      "findHobbyOfLearnNew"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Онлайн",
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации / сертификат о прохождении курса / справка об обучении (по запросу)",
+    "mentor": true,
+    "portfolio_text": "Презентация, обложка в музыкальном стриминговом сервисе, изображения, стартовая страница лендинга, комплексный итоговый кейс и другие проекты",
+    "description": "Курс поможет освоить 10 нейросетей для работы с изображениями, фото, видео и текстом.",
+    "program": [],
+    "advertising": {
+      "cost": 166.67,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Скидка 15%; Скидка 15%",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "light-blue",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1372&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1372&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "659e8fc241da9c5fa30d88c0",
+    "name": "Нейросети",
+    "tariff": "",
+    "school": "Contented",
+    "school_alias": "contented",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a245ae56ab001d91f8d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 622,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/659e8fc241da9c5fa30d88c0/Fq9X04M14dIJ3HiiKVl-o.png",
+    "course_url": "https://contented.ru/edu/neural-networks-for-designers?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni&utm_term={transaction_id}",
+    "price": 56304,
+    "price_all": 56304,
+    "price_original": 70380,
+    "price_installment": 4692,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeDesign",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "neuralNetworksForCreativity",
+      "Нейросети",
+      "ChatGPT",
+      "Midjourney",
+      "Stable Diffusion",
+      "klingAI",
+      "sunoAI",
+      "yandexGPT"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "findHobbyOfLearnNew"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": false,
+    "diploma_content": "",
+    "mentor": true,
+    "portfolio_text": "5 работ",
+    "description": "На курсе можно узнать, как работать в востребованных программах: ChatGPT, Midjourney, Dalle, Stable Diffusion, Adobe Firefly, Phygital+. После обучения студенты смогут с помощью ИИ и нейросетей создавать тексты, генерить изображения, логотипы, фирменные стили, прототипы лендингов, видео и аудио.Предоставляется бесплатный доступ в Midjourney на время обучения и курсам по Figma и Adobe Illustrator.",
+    "program": [],
+    "advertising": {
+      "cost": 42.85,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "partnerPanelColor": "#F3F2FC",
+      "partnerTextColor": "#5047D7",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "7240",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1386&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1386&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "685eb2e6f1fa3a8780206207",
+    "name": "Нейросети с 0 до PRO: для себя, работы и бизнеса",
+    "tariff": "",
+    "school": "УЦ МГУТУ",
+    "school_alias": "uc-mgutu",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/685e7133a1217ebaac56ae22.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 72,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/685eb2e6f1fa3a8780206207/wg66H8RDF-TGQ4vI4Qv8a.jpeg",
+    "course_url": "https://mgutu.ru/courses/advertising/neuronet/?utm_source=sravni",
+    "price": 29900,
+    "price_all": 29900,
+    "price_original": 33100,
+    "price_installment": 2492,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 1,
+    "learning_type": [
+      "typeCreativity",
+      "typeMarketing",
+      "typeDesign",
+      "typeManagement",
+      "typeNeuralNetworks",
+      "typePedagogy",
+      "typePsychology"
+    ],
+    "directions": [
+      "Нейросети",
+      "ChatGPT",
+      "Midjourney",
+      "perplexityAI",
+      "runwayAI",
+      "gammaAI",
+      "recraft",
+      "deepSeek",
+      "pikaAI",
+      "heyGenAI",
+      "sunoAI",
+      "gigaChat",
+      "yandexGPT",
+      "kandinskyAI",
+      "Stable Diffusion",
+      "shedevrumAI",
+      "klingAI"
+    ],
+    "course_targets": [
+      "professionalDevelopment",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "Проектная работа",
+    "description": "На курсе научат эффективно работать с текстовыми и визуальными нейросетями, создавать уникальные проекты и автоматизировать задачи. Студенты курса освоят инструменты для генерации контента, маркетинга и управления проектами, а также узнают, как зарабатывать на этом.Есть возможность пройти курс очно в г. Москве или в прямом эфире, виртуально присутствуя в аудитории очной группы.",
+    "program": [],
+    "advertising": {
+      "cost": 91.67,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2712&aff_id=2",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2712&aff_id=2"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "65d47838063cf3552e1572c4",
+    "name": "Онлайн-курсы AI-дизайна: нейросети для работы и творчества",
+    "tariff": "",
+    "school": "Международная Школа Профессий",
+    "school_alias": "mezhdunarodnaya-shkola-professiy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6193a9cbd0ba3a002135a158.png?v=0.96",
+    "school_rating": 4.7,
+    "school_reviews_count": 20,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65d47838063cf3552e1572c4/JUwoq7Wx6NURobVDgpzS1.png",
+    "course_url": "https://online.videoforme.ru/designschool/kursy-nejrosetej-web?utm_source=sravni&utm_medium=partners&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 19700,
+    "price_all": 19700,
+    "price_original": 32900,
+    "price_installment": 3300,
+    "time_installment": 0,
+    "duration_days": 35,
+    "duration_months": 0,
+    "learning_type": [
+      "typeDesign",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "neuralNetworksForCreativity",
+      "Midjourney",
+      "kandinskyAI",
+      "shedevrumAI",
+      "DALL-E 3",
+      "Нейросети"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "findHobbyOfLearnNew"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Онлайн",
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": true,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Персональный сертификат о прохождении курса",
+    "mentor": true,
+    "portfolio_text": "Итоговая работа и проекты по результатам прохождения модулей",
+    "description": "Курс по работе с промптами для начинающих копирайтеров, дизайнеров и предпринимателей.",
+    "program": [],
+    "advertising": {
+      "cost": 23.51,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "7969",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1403&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1403&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "687f307e02adbbb125251ded",
+    "name": "Нейросети: практический курс",
+    "tariff": "",
+    "school": "Skypro",
+    "school_alias": "skypro",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61769b74ae56ab001d91f88c.svg",
+    "school_rating": 4.9,
+    "school_reviews_count": 724,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/687f307e02adbbb125251ded/PWnxKtalXVjGmFA8EMez7.png",
+    "course_url": "https://sky.pro/offer/maraphone_ai?utm_source=sravni&utm_medium=cpa&utm_campaign=n_direct|mas_e180b2d0|ptn_1|ma_Agishev|own_b2c|cnt_RU|br_Skypro|chg_affiliate&utm_content={transaction_id}",
+    "price": 54990,
+    "price_all": 54990,
+    "price_original": 103490,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 2.5,
+    "learning_type": [
+      "typeNeuralNetworks",
+      "typeMarketing",
+      "typeDesign",
+      "typeCreativity",
+      "typeProgramming"
+    ],
+    "directions": [
+      "Нейросети",
+      "Искусственный интеллект"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": false,
+    "diploma_content": "",
+    "mentor": false,
+    "portfolio_text": "Чат-бот для обработки заказов",
+    "description": "На курсе помогут быстро автоматизировать рутину в быту и на работе с помощью ИИ, а также научат создавать тексты, видео и изображения.",
+    "program": [],
+    "advertising": {
+      "cost": 23.33,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "13814",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1380&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1380&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6880da6b02adbbb12525b11b",
+    "name": "Интенсив Умная аналитика",
+    "tariff": "",
+    "school": "Karpov.Courses",
+    "school_alias": "karpov-courses",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/627b75341cf641002243030e.svg?v=0.aa",
+    "school_rating": 4.7,
+    "school_reviews_count": 124,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6880da6b02adbbb12525b11b/v_DbuVIyv3023kHXyYIPI.png",
+    "course_url": "https://karpov.courses/dsintensai?utm_source=sravni&utm_medium=cpa&utm_campaign=all_all_sravni_cpa_aggregators_all_all_all_kc&click_id={transaction_id}",
+    "price": 59500,
+    "price_all": 59500,
+    "price_original": 59700,
+    "price_installment": 3479,
+    "time_installment": 24,
+    "duration_days": 0,
+    "duration_months": 1.5,
+    "learning_type": [
+      "typeAnalytics",
+      "typeManagement",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Искусственный интеллект",
+      "Нейросети",
+      "ChatGPT",
+      "claude",
+      "gemini",
+      "yandexGPT",
+      "gigaChat"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификаты на русском и английском языках",
+    "mentor": false,
+    "portfolio_text": "Проекты по результатам прохождения программы",
+    "description": "На курсе научат быстро и эффективно работать с данными и автоматизировать рутину при помощи ИИ. В рамках программы изучаются такие инструменты, как ChatGPT, Copilot, Claude, Gemini, YandexGPT, GigaChat.",
+    "program": [],
+    "advertising": {
+      "cost": 120.72,
+      "costForFree": 35.82,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "13816",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1565&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1565&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "661e90b508fae1066f63e9a9",
+    "name": "Deep Learning Engineer: Трек NLP",
+    "tariff": "",
+    "school": "Karpov.Courses",
+    "school_alias": "karpov-courses",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/627b75341cf641002243030e.svg?v=0.aa",
+    "school_rating": 4.7,
+    "school_reviews_count": 124,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/661e90b508fae1066f63e9a9/L_euQVf3RK6WAVUPKeHwQ.png",
+    "course_url": "https://karpov.courses/deep-learning?utm_source=sravni&utm_medium=cpa&utm_campaign=all_all_sravni_cpa_aggregators_all_all_all_kc&click_id={transaction_id}",
+    "price": 95000,
+    "price_all": 95000,
+    "price_original": 101500,
+    "price_installment": 5558,
+    "time_installment": 24,
+    "duration_days": 0,
+    "duration_months": 4,
+    "learning_type": [
+      "typeAnalytics",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Глубокое обучение",
+      "Нейросети",
+      "Искусственный интеллект"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Продвинутый"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификаты на русском и английском языках",
+    "mentor": true,
+    "portfolio_text": "Чат-бот с дообученной генеративной моделью",
+    "description": "Курс поможет освоить базовые и продвинутые инструменты глубокого обучения.Для прохождения программы необходимо знать основы математики, линейной алгебры, Python и машинного обучения.Стоимость указана по треку «NLP-инженер». Также можно выбрать трек «Computer vision-инженер» (5 месяцев).",
+    "program": [],
+    "advertising": {
+      "cost": 120.72,
+      "costForFree": 35.82,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "8858",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1565&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1565&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "676d602351b0b3209f85f77a",
+    "name": "Deep Learning Engineer: Трек CV",
+    "tariff": "",
+    "school": "Karpov.Courses",
+    "school_alias": "karpov-courses",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/627b75341cf641002243030e.svg?v=0.aa",
+    "school_rating": 4.7,
+    "school_reviews_count": 124,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/676d602351b0b3209f85f77a/plCt5p2H0wgBdttnuZyE6.png",
+    "course_url": "https://karpov.courses/deep-learning?utm_source=sravni&utm_medium=cpa&utm_campaign=all_all_sravni_cpa_aggregators_all_all_all_kc&click_id={transaction_id}",
+    "price": 95000,
+    "price_all": 95000,
+    "price_original": 101500,
+    "price_installment": 5558,
+    "time_installment": 24,
+    "duration_days": 0,
+    "duration_months": 5,
+    "learning_type": [
+      "typeAnalytics",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "computerVision",
+      "Глубокое обучение",
+      "Искусственный интеллект",
+      "Нейросети"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Продвинутый"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификаты на русском и английском языках",
+    "mentor": true,
+    "portfolio_text": "Система распознавания автомобильных номеров",
+    "description": "Курс поможет освоить базовые и продвинутые инструменты глубокого обучения.Для прохождения программы необходимо знать основы математики, линейной алгебры, Python и машинного обучения.Стоимость указана по треку «Computer vision-инженер». Также можно выбрать трек «NLP-инженер» (4 месяца).",
+    "program": [],
+    "advertising": {
+      "cost": 120.72,
+      "costForFree": 35.82,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "12857",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1565&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1565&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "689368d6c00ce3bd314f9da0",
+    "name": "Нейросети для управления проектами",
+    "tariff": "",
+    "school": "Stepik",
+    "school_alias": "stepik",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61768123ae56ab001d91f830.png",
+    "school_rating": null,
+    "school_reviews_count": 93,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/689368d6c00ce3bd314f9da0/AK42BDNy5HpbP_VdwZ5Xm.png",
+    "course_url": "https://stepik.org/course/222250/promo?utm_source=sravniru25&utm_medium=channel&utm_campaign=feed",
+    "price": 9900,
+    "price_all": 9900,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 0,
+    "learning_type": [
+      "typeManagement",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "Project-менеджмент",
+      "gigaChat",
+      "yandexGPT"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат, удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "Курс научит использовать ИИ для сокращения рутины, решения креативных задач и оптимизации рабочего времени.",
+    "program": [],
+    "advertising": {
+      "cost": 11.11,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2693&aff_id=2",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2693&aff_id=2x"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6904b0e0d27df2a885d5b5e2",
+    "name": "Vibe-coding: программирование с ИИ без глубоких знаний кода",
+    "tariff": "",
+    "school": "Stepik",
+    "school_alias": "stepik",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61768123ae56ab001d91f830.png",
+    "school_rating": null,
+    "school_reviews_count": 93,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6904b0e0d27df2a885d5b5e2/k8Guwl7WaJUxCyIJTg-s5.png",
+    "course_url": "https://stepik.org/course/214391/promo?utm_source=sravniru25&utm_medium=channel&utm_campaign=feed",
+    "price": 4900,
+    "price_all": 4900,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 0,
+    "learning_type": [
+      "typeProgramming",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "Искусственный интеллект"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "6 учебных проектов и 1 выпускной проект",
+    "description": "На курсе научат использовать AI для вайб-кодинга, чтобы быстро создавать сайты, чат-боты, сервисы и игры.",
+    "program": [],
+    "advertising": {
+      "cost": 11.11,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2693&aff_id=2",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2693&aff_id=2x"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6904b4a430587d035f07aa39",
+    "name": "ИИ-агенты и автоматизация с n8n: от рутины до AI контент-завода",
+    "tariff": "",
+    "school": "Stepik",
+    "school_alias": "stepik",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61768123ae56ab001d91f830.png",
+    "school_rating": null,
+    "school_reviews_count": 93,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6904b4a430587d035f07aa39/9DQorvfUebzdGXggAtaxp.png",
+    "course_url": "https://stepik.org/course/222232/promo?utm_source=sravniru25&utm_medium=channel&utm_campaign=feed",
+    "price": 14900,
+    "price_all": 14900,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 0,
+    "learning_type": [
+      "typeProgramming",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Искусственный интеллект",
+      "Нейросети",
+      "chatbot"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "6 учебных проектов и 1 выпускной проект",
+    "description": "Курс научит:использовать платформу n8n для быстрой автоматизации рутинных задач;интегрировать AI и LLM-модели в рабочие процессы;разрабатывать AI-агентов, чат-ботов без кода.",
+    "program": [],
+    "advertising": {
+      "cost": 11.11,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2693&aff_id=2",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2693&aff_id=2x"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68750640c39e9094890e5333",
+    "name": "Нейросети и AI: практические инструменты для современных специалистов",
+    "tariff": "",
+    "school": "НАДПО",
+    "school_alias": "nadpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/65e56f2a73f26500276eba40.svg?v=0.43",
+    "school_rating": 4.7,
+    "school_reviews_count": 77,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68750640c39e9094890e5333/sJBPPMYIEMNqFlwkDOGSC.png",
+    "course_url": "https://nadpo.ru/do/kurs-obuchenie-nejrosetyam-s-nulya/?utm_source=sravni&utm_medium=cpa&utm_campaign=strategy-cpa",
+    "price": 40950,
+    "price_all": 40950,
+    "price_original": 44400,
+    "price_installment": 3792,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeManagement",
+      "typeMarketing",
+      "typeCreativity",
+      "typeNeuralNetworks",
+      "typePedagogy",
+      "typePsychology"
+    ],
+    "directions": [
+      "Нейросети",
+      "ChatGPT",
+      "Midjourney",
+      "yandexGPT",
+      "Искусственный интеллект"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "Учебные кейсы",
+    "description": "На курсе научат использовать AI для решения реальных задач: от создания контента и анализа данных до автоматизации процессов и повышения личной эффективности.",
+    "program": [],
+    "advertising": {
+      "cost": 132.91,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": [
+            "2W5zFJTzgnk"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2190&aff_id=2&dl=&erid=2W5zFJTzgnk",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2190&aff_id=2&dl=&erid=2W5zFJTzgnk"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68df51a7ad14b931f1767aad",
+    "name": "Нейросети и AI: практические инструменты для современных специалистов",
+    "tariff": "",
+    "school": "НЦРДО",
+    "school_alias": "ncrdo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/676d35e2d1a7680027cf5107.svg",
+    "school_rating": null,
+    "school_reviews_count": 0,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68df51a7ad14b931f1767aad/tUxSbApz2hLRfeuRpc9JO.png",
+    "course_url": "https://ncrdo.ru/do/pk-neyroseti-kak-instrument-povysheniya-lichnoy-i-professionalnoy-effektivnosti/?utm_source=sravni&utm_medium=cpa&utm_campaign=strategy-cpa&utm_content={transaction_id}",
+    "price": 34200,
+    "price_all": 34200,
+    "price_original": 49500,
+    "price_installment": 950,
+    "time_installment": 36,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeNeuralNetworks",
+      "typePsychology",
+      "typePedagogy",
+      "typeManagement",
+      "typeMarketing",
+      "typeCreativity"
+    ],
+    "directions": [
+      "Нейросети",
+      "ChatGPT",
+      "yandexGPT",
+      "Midjourney",
+      "Искусственный интеллект"
+    ],
+    "course_targets": [
+      "professionalDevelopment",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Онлайн",
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации, сертификаты о прохождении вебинаров из базы знаний",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "Курс поможет освоить популярные нейросети (ChatGPT, YandexGPT, MidJourney) через решение практических задач. Студенты научатся использовать AI для всех типов контента: текстов, изображений, видео, а также для аналитики данных и автоматизации процессов.Курс включает специализированные модули по применению AI в конкретных областях: психологии, образовании, менеджменте, маркетинге и HR.",
+    "program": [],
+    "advertising": {
+      "cost": 40.44,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "137462",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGn9qfv"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2479&aff_id=2&erid=2W5zFGn9qfv",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2479&aff_id=2&erid=2W5zFGn9qfv"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6903422530587d035f069d3f",
+    "name": "Нейросети для дизайна",
+    "tariff": "",
+    "school": "НАрхСИ",
+    "school_alias": "narhsi",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/68fa133e1948f108696a9855.svg",
+    "school_rating": null,
+    "school_reviews_count": 0,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6903422530587d035f069d3f/IHXwiVu6oe8y1xoq-WU2i.jpeg",
+    "course_url": "https://corp.narhsi.ru/neiroseti-dlya-dizayna?utm_source=sravni&utm_medium=cpa&utm_campaign=0-4__sravni_cpa__all_0_0_all_all_&utm_content=&utm_term=&sravni",
+    "price": 17500,
+    "price_all": 17500,
+    "price_original": 21875,
+    "price_installment": 1458,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 4,
+    "learning_type": [
+      "typeDesign",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "Искусственный интеллект",
+      "ChatGPT",
+      "Midjourney",
+      "claude",
+      "perplexityAI",
+      "kandinskyAI",
+      "yandexGPT",
+      "recraft",
+      "pikaAI",
+      "sunoAI"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации / свидетельство о дополнительном образовании / справка об обучении, сертификаты за участие в онлайн-вебинарах",
+    "mentor": true,
+    "portfolio_text": "Учебные проекты",
+    "description": "Курс поможет:Узнать, как генерировать тексты и визуальный контент в нейросетях.Освоить инструменты для создания проектов без сложного софта.Научиться автоматизировать рутинные задачи.",
+    "program": [],
+    "advertising": {
+      "cost": 10,
+      "costForFree": 10,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=100483&aff_id=2",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=100483&aff_id=2"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68a46c674b881f28eb78a6b0",
+    "name": "Нейросети в работе бухгалтера: от первого промпта до незаменимого помощника",
+    "tariff": "",
+    "school": "Высшая школа Главбух",
+    "school_alias": "vishaya-shkola-glavbuh",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6439079c511f32002a59df66.svg",
+    "school_rating": null,
+    "school_reviews_count": 27,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68a46c674b881f28eb78a6b0/RbR1ou_nGfHEQL_u1_8DA.png",
+    "course_url": "https://school.glavbukh.ru/programs/226868?utm_source=sravni.ru&utm_medium=cpc&utm_campaign=sravni.ru_education_desktop&utm_content=textads",
+    "price": 7350,
+    "price_all": 7350,
+    "price_original": 17500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 1,
+    "learning_type": [
+      "typeFinance",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "Искусственный интеллект",
+      "Бухгалтерия"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Продвинутый"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "Курс поможет подобрать нейросеть под себя, научит писать эффективные промпты и решать бухгалтерские задачи с ИИ.",
+    "program": [],
+    "advertising": {
+      "cost": 183.33,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1875&aff_id=2",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1875&aff_id=2"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68f76c395815724631cb0484",
+    "name": "ИИ для бизнеса: от стратегии до внедрения",
+    "tariff": "",
+    "school": "Digital Skills Academy",
+    "school_alias": "digital-skills-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/66a209893a6f770028931523.svg",
+    "school_rating": null,
+    "school_reviews_count": 3,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68f76c395815724631cb0484/cxSFiH8ys6-v07IKg9wB4.png",
+    "course_url": "https://digitalskillsacademy.ru/ai?utm_campaign=sravniru&utm_term={transaction_id}&utm_medium=cpa&utm_source=partner",
+    "price": 41994,
+    "price_all": 41994,
+    "price_original": 83988,
+    "price_installment": 2333,
+    "time_installment": 18,
+    "duration_days": 0,
+    "duration_months": 1.5,
+    "learning_type": [
+      "typeManagement",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Искусственный интеллект",
+      "Нейросети",
+      "ChatGPT",
+      "claude",
+      "kandinskyAI",
+      "yandexGPT",
+      "heyGenAI",
+      "perplexityAI"
+    ],
+    "course_targets": [
+      "professionalDevelopment",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Онлайн",
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "2 онлайн-кейса, сквозной проект",
+    "description": "На курсе научат внедрять искусственный интеллект в бизнес: от идеи до рабочего ИИ-агента.",
+    "program": [],
+    "advertising": {
+      "cost": 71.98,
+      "costForFree": 45,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "106513",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGUMeor"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2320&aff_id=2&dl=&erid=2W5zFGUMeor",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2320&aff_id=2&dl=&erid=2W5zFGUMeor"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6943eee65936d2a6215106d1",
+    "name": "Искусственный интеллект в бизнесе: от хайпа к реальным результатам",
+    "tariff": "",
+    "school": "Moscow Business Academy",
+    "school_alias": "moscow-business-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/673ca4a6ad7a620027d9b357.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 14,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6943eee65936d2a6215106d1/C0tbJDS8BihOw4lOAMb_y.png",
+    "course_url": "https://moscow.mba/programs/course/online/iskusstviennyi-intielliekt-v-bizniesie-ot-khaipa-k-rieal-nym-riezul-tatam?utm_source=sravni.ru&utm_medium=cpa&utm_campaign=moscow-mba&click_id={transaction_id}",
+    "price": 40620,
+    "price_all": 40620,
+    "price_original": 73854,
+    "price_installment": 3385,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typeNeuralNetworks",
+      "typeManagement"
+    ],
+    "directions": [
+      "ChatGPT",
+      "claude",
+      "gigaChat",
+      "deepSeek",
+      "yandexGPT",
+      "perplexityAI",
+      "gemini",
+      "klingAI",
+      "heyGenAI"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Продвинутый"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации и сертификат",
+    "mentor": true,
+    "portfolio_text": "Индивидуальная дорожная карта внедрения ИИ в своей компании на 6 месяцев",
+    "description": "Программа для предпринимателей и менеджеров, которые хотят внедрять ИИ не на уровне теории, а в конкретных процессах бизнеса для роста прибыли, оптимизации затрат и повышения эффективности.",
+    "program": [],
+    "advertising": {
+      "cost": 63.21,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "146071",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGKxH3v"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2464&aff_id=2&erid=2W5zFGKxH3v",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2464&aff_id=2&erid=2W5zFGKxH3v"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "658581e9302475988a3678c0",
+    "name": "Нейросети для маркетолога",
+    "tariff": "",
+    "school": "MAED",
+    "school_alias": "maed",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a052ae56ab001d91f8b0.svg?v=0.4c",
+    "school_rating": 4.8,
+    "school_reviews_count": 305,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/658581e9302475988a3678c0/uDUp-q18KWQNR8PqJm3yu.png",
+    "course_url": "https://maed.ru/catalog/neural-network?utm_campaign=cpc&utm_medium=cpa&utm_source=sravni&utm_term={transaction_id}",
+    "price": 22000,
+    "price_all": 22000,
+    "price_original": 0,
+    "price_installment": 3666,
+    "time_installment": 6,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typeMarketing",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "ChatGPT",
+      "Midjourney",
+      "DALL-E 3",
+      "yandexGPT",
+      "Stable Diffusion",
+      "deepSeek"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": false,
+    "diploma_content": "",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "На курсе научат создавать контент под AI Overviews, генерировать семантические кластеры, автоматизировать техническую оптимизацию, анализировать SERP с помощью ИИ. Обучение также предусматривает создание визуального контента с помощью нейросетей и изучение этики использования ИИ в маркетинге.Стоимость указана по тарифу «Базовый». Можно выбрать другие тарифы:«Оптимальный» (2 месяца): дополнительно включает обратную связь и проекты от партнеров , 4 воркшопа , закрытый чат с AI-экспертом , 6 проектов, документ об окончании и 100+ промптов и шаблонов .«Нейросети + Telegram» (3 месяца): освоение сразу двух навыков для большего заработка. Предусматривает выдачу двух документов.",
+    "program": [],
+    "advertising": {
+      "cost": 191.67,
+      "costForFree": 45,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "144289",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1391&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1391&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "685ab56aef4b1ccb13c29922",
+    "name": "Как сэкономить 20 часов работы на любом проекте с помощью нейросетей",
+    "tariff": "",
+    "school": "MAED",
+    "school_alias": "maed",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a052ae56ab001d91f8b0.svg?v=0.4c",
+    "school_rating": 4.8,
+    "school_reviews_count": 305,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/685ab56aef4b1ccb13c29922/zLwiW4m5fnjZd0cqepRvq.png",
+    "course_url": "https://maed.ru/aw_kak-sekonomit-20-chasov-raboty-na-liubom-proekte-s-pomoshchiu?utm_campaign=cpc&utm_medium=cpa&utm_source=sravni&utm_term={transaction_id}",
+    "price": 0,
+    "price_all": 0,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 0,
+    "learning_type": [
+      "typeMarketing",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "ChatGPT",
+      "claude",
+      "perplexityAI"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "schedule"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": true,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": false,
+    "diploma_content": "",
+    "mentor": false,
+    "portfolio_text": "",
+    "description": "На вебинаре расскажут, как с помощью нейросетей сократить время на анализ конкурентов, изучение целевой аудитории и стратегическое планирование.",
+    "program": [],
+    "advertising": {
+      "cost": 191.67,
+      "costForFree": 45,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "144282",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1391&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1391&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "618cc443f96ff50f3596a308",
+    "name": "Нейронные сети",
+    "tariff": "",
+    "school": "Skillfactory",
+    "school_alias": "skillfactory",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61769cd0ae56ab001d91f896.svg?v=0.e5",
+    "school_rating": 4.5,
+    "school_reviews_count": 874,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/618cc443f96ff50f3596a308/dCobAs3apKGr1LqoirQZq.png",
+    "course_url": "https://skillfactory.ru/nejronnye-seti-deep-learning?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni&utm_term={transaction_id}",
+    "price": 35010,
+    "price_all": 35010,
+    "price_original": 77800,
+    "price_installment": 1081,
+    "time_installment": 36,
+    "duration_days": 0,
+    "duration_months": 2.5,
+    "learning_type": [
+      "typeAnalytics",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Продвинутый"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": false,
+    "portfolio_text": "Нейронные сети",
+    "description": "Применение алгоритмов deep learning для решения бизнес-задач. Углубленное изучение Data Science и обучение 7 нейронных сетей. Участие в командных соревнованиях на Kaggle.Для прохождения курса потребуется базовое понимание машинного обучения и знание языка Python.",
+    "program": [],
+    "advertising": {
+      "cost": 34.36,
+      "costForFree": 20.83,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "partnerPanelColor": "#FDF2F2",
+      "partnerTextColor": "#C11D1D",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "3460",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1382&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1382&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "63a05d68b839ea00289eaf03",
+    "name": "Специалист по нейронным сетям",
+    "tariff": "",
+    "school": "Skillfactory",
+    "school_alias": "skillfactory",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61769cd0ae56ab001d91f896.svg?v=0.e5",
+    "school_rating": 4.5,
+    "school_reviews_count": 874,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/63a05d68b839ea00289eaf03/7ekxpxgYBzTrYWwHxLPuL.png",
+    "course_url": "https://skillfactory.ru/kurs-po-nejronnim-setyam?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni&utm_term={transaction_id}",
+    "price": 199647,
+    "price_all": 199647,
+    "price_original": 362988,
+    "price_installment": 5546,
+    "time_installment": 36,
+    "duration_days": 0,
+    "duration_months": 24,
+    "learning_type": [
+      "typeAnalytics",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "Машинное обучение",
+      "computerVision",
+      "Python",
+      "SQL"
+    ],
+    "course_targets": [
+      "learnProfession",
+      "professionalRetraining"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат, диплом о профессиональной переподготовке",
+    "mentor": true,
+    "portfolio_text": "Модели для увеличения продаж в розничном бизнесе и предсказания кредитного рейтинга, система рекомендаций подходящих товаров при покупке",
+    "description": "Обучение навыкам профессии специалиста по нейронным сетям, созданию и тестированию моделей машинного обучения.Стоимость курса указана по тарифу «Базовый». Можно выбрать обучение на других тарифах:«Оптимальный»: все из «Базового» тарифа, а также 12 часов индивидуальных консультаций с ментором, дополнительная карьерная консультация, тестовое техническое собеседование, бонусные мини-курсы «SQL-pro» и «Data Engineer», курс «Английский для IT», ревью резюме.«VIP»: опции других тарифов, а также индивидуальные консультации с ментором каждую неделю, совместный проект с ментором.",
+    "program": [],
+    "advertising": {
+      "cost": 34.36,
+      "costForFree": 20.83,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "partnerPanelColor": "#FDF2F2",
+      "partnerTextColor": "#C11D1D",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "3774",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1382&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1382&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68774a238d27f2f2f026437a",
+    "name": "Нейросети для руководителей",
+    "tariff": "",
+    "school": "City Business School",
+    "school_alias": "city-business-school",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a1eeae56ab001d91f8ce.png",
+    "school_rating": 4.7,
+    "school_reviews_count": 81,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68774a238d27f2f2f026437a/YnbNk1t8wsIexzogGysgl.png",
+    "course_url": "https://lp.e-mba.ru/ai_for_manager",
+    "price": 29000,
+    "price_all": 29000,
+    "price_original": 58000,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 1,
+    "learning_type": [
+      "typeManagement",
+      "typeMarketing",
+      "typeFinance",
+      "typeNeuralNetworks"
+    ],
+    "directions": [
+      "Нейросети",
+      "Искусственный интеллект",
+      "Midjourney",
+      "yandexGPT",
+      "shedevrumAI",
+      "heyGenAI"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Электронный сертификат",
+    "mentor": false,
+    "portfolio_text": "6 проектов",
+    "description": "На курсе расскажут, как оптимизировать бизнес-процессы и быстрее достигать результатов, сократить расходы в бизнесе, повысить эффективность команды и ускорить принятие решений.Доступ к курсу предоставляется на 1 месяц.Стоимость указана по пакету «Лайт», в рамках которого для обучения можно выбрать 3 модуля из 6 предложенных. Есть возможность выбрать другие пакеты:«Стандарт»: 8 модулей обучения.«Расширенный»: дополнительно включает бонусные лекции.",
+    "program": [],
+    "advertising": {
+      "cost": 1,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "undefined",
+      "trackingType": "cpa",
+      "token": [
+        {
+          "token": [
+            "LdtCK3Dro"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1392&aff_id=2&dl=&erid=LdtCK3Dro",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1392&aff_id=2&dl=&erid=LdtCK3Dro"
+        },
+        "kind": "referral"
+      }
+    }
+  }
+]

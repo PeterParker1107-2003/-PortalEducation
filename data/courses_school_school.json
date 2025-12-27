@@ -1,0 +1,692 @@
+[
+  {
+    "id": "667ce46413fb8adf05a7dffc",
+    "name": "Индивидуальные занятия по подготовке к школе",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/667ce46413fb8adf05a7dffc/1tElp3u_6NltuSONHKfyg.png",
+    "course_url": "https://junior.foxford.ru/coach?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 31680,
+    "price_all": 31680,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Развитие",
+      "Математика",
+      "Литература",
+      "Русский язык",
+      "География"
+    ],
+    "reasons": [
+      "forSchool"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [],
+    "description": "Занятия для детей от 5 до 7 лет. Уроки ведут педагоги-психологи и практикующие логопеды.Репетиторы помогут в изучении математики, чтения, письма и окружающего мира, разовьют эмоциональный интеллект ребенка.Стоимость занятий указана по тарифу «Стандарт». Также доступен тариф «Премиум»: все, что в тарифе «Стандарт» + учет особенностей здоровья ребенка, педагоги с самым высоким рейтингом и общение с преподавателем в мессенджерах между занятиями.Можно выбрать пакеты занятий от 4 до 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "667ce46413fb8adf05a7e015",
+    "name": "Индивидуальные занятия по чтению для детей 4-7 лет",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/667ce46413fb8adf05a7e015/iTxK6cVnHVp2dyDDhvfpf.png",
+    "course_url": "https://coach.foxford.ru/reading?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 31680,
+    "price_all": 31680,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Развитие",
+      "Литература"
+    ],
+    "reasons": [
+      "forSchool"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [],
+    "description": "На уроках ребенок познакомится с буквами и звуками, запомнит словарные ударения, научится читать слитно с правильной интонацией и понимать текст, расширит словарный запас.Стоимость обучения указана по тарифу «Стандарт». Также доступен тариф «Премиум»: все, что в тарифе «Стандарт» + учет особенностей здоровья ребенка, педагоги с самым высоким рейтингом и общение с преподавателем в мессенджерах.Можно выбрать пакеты от 4 до 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "667ce46413fb8adf05a7e02e",
+    "name": "Индивидуальные занятия по математике для детей от 4 лет",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/667ce46413fb8adf05a7e02e/jWQJo5iuwd9E7S-RQcrN1.png",
+    "course_url": "https://foxford.ru/matematika-dlya-doshkolnikov?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 31680,
+    "price_all": 31680,
+    "price_original": 48000,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Математика",
+      "Развитие"
+    ],
+    "reasons": [
+      "forSchool"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [],
+    "description": "Занятия в игровой форме, которые помогут ребёнку подготовиться к школе, развить логическое мышление и полюбить математику. Репетитор подстроит уроки под уровень и темп ребёнка: объяснит азы или предложит более сложные задачи на логику и мышление. Стоимость курса зависит от выбранного пакета занятий (от 4 до 128 уроков).",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "667ce46413fb8adf05a7e033",
+    "name": "Подготовка к школе с логопедом для детей от 4 до 7 лет",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/667ce46413fb8adf05a7e033/D8QxgcIQzHPNHcAdiOFeK.png",
+    "course_url": "https://foxford.ru/coach/courses/451/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 38016,
+    "price_all": 38016,
+    "price_original": 57600,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Развитие",
+      "Математика",
+      "Литература",
+      "Русский язык"
+    ],
+    "reasons": [
+      "forSchool"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "speechTherapy"
+    ],
+    "description": "Занятия по комплексному развитию включают в себя обучение счету, чтению, письму, постепенную подготовку к школе, а также корректировку письменной и устной речи, постановку произношения.Стоимость обучения зависит от пакета занятий (от 4 до 128 уроков) и тарифа:«Стандарт» — занятия по 30 минут, до 3 отмен и переносов уроков в месяц;«Премиум» — занятия по 45 минут, репетиторы с самым высоким рейтингом, курс в подарок, поддержка ученика в мессенджерах вне занятий, безлимит на отмены и переносы уроков, индивидуальный подход с учетом особенностей ученика.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "68428ff2b0aa81101eb39bd4",
+    "name": "Курс подготовки к школе в группе",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68428ff2b0aa81101eb39bd4/oso7YbvzGHI0RV2K2ZmEw.png",
+    "course_url": "https://foxford.ru/mini_groups/14588/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 37696,
+    "price_all": 37696,
+    "price_original": 47120,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 60,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Развитие",
+      "Математика",
+      "Литература",
+      "Русский язык",
+      "География"
+    ],
+    "reasons": [
+      "forSchool"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [],
+    "description": "Курс для детей, которые пойдут в школу в 26/27 учебном году. Обучение проходит в игровой форме. В каждом занятии есть увлекательный сюжет, подвижные игры, интерактивные задачи и материалы для печати.В программу входят обучение счету и чтению, подготовка к письму, изучение окружающего мира и основ безопасного поведения, развитие мышления и психоэмоциональной готовности к школе.В группе занимается не больше 8 ребят, а уроки длятся по 40 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "684294bdd6033ee8aa23e8e6",
+    "name": "Курс подготовки к школе в группе за 2 года до 1 класса",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/684294bdd6033ee8aa23e8e6/8YXn8YqLNA-Az-ONuQ3C1.png",
+    "course_url": "https://foxford.ru/mini_groups/14593/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 37696,
+    "price_all": 37696,
+    "price_original": 47120,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 60,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Развитие",
+      "Математика",
+      "Литература",
+      "География"
+    ],
+    "reasons": [
+      "forSchool"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [],
+    "description": "Курс поможет освоить базовые математические навыки, основы чтения и письма, а также расширить представления об окружающем мире.В группе занимается не больше 8 ребят, а уроки длятся по 40 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "68516e0fb97642cfc496ed17",
+    "name": "Игровой курс по английскому языку для дошкольников. Let's learn English",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68516e0fb97642cfc496ed17/uIfVw7m8tRmRqPc0CBoFd.png",
+    "course_url": "https://foxford.ru/interactive-training/courses/11152/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 5490,
+    "price_all": 5490,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages",
+      "forSchool"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "Курс предлагает видеоуроки и интерактивные игры для знакомства с английским языком для самых маленьких. Ученики освоят базовые слова и фразы через увлекательные самостоятельные задания.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "68517c5738f1cfd795cd01d1",
+    "name": "Let's sing! Игровой курс по песням",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68517c5738f1cfd795cd01d1/Tdqm-gGolAb9BHEFKQGb-.png",
+    "course_url": "https://foxford.ru/interactive-training/courses/9818/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 990,
+    "price_all": 990,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages",
+      "forSchool"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "Каждый уровень курса состоит из детской песни и задач, которые помогут запомнить базовые английские слова.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6851cb9738f1cfd795cd423c",
+    "name": "Индивидуальное комплексное развитие для детей от 3,5 до 5,5 лет",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/667ce46413fb8adf05a7dffc/1tElp3u_6NltuSONHKfyg.png",
+    "course_url": "https://foxford.ru/coach/courses/386/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 31680,
+    "price_all": 31680,
+    "price_original": 48000,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Развитие",
+      "География",
+      "Русский язык",
+      "Математика"
+    ],
+    "reasons": [
+      "forSchool"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [],
+    "description": "Игровые уроки, на которых ребенок познакомится с окружающим миром, основами счета и чтения.Стоимость обучения зависит от пакета занятий (от 4 до 128 уроков) и тарифа:«Стандарт» — занятия по 30 минут, до 3 отмен и переносов уроков каждый месяц;«Премиум» — занятия по 45 минут, репетиторы с самым высоким рейтингом, курс в подарок, поддержка ученика в мессенджерах вне занятий, безлимит на отмены и переносы уроков, индивидуальный подход с учетом особенностей ученика.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6579755c6a414a5c8d7f41b9",
+    "name": "Логопедические занятия для детей от 4 лет",
+    "tariff": "",
+    "school": "Формула речи",
+    "school_alias": "formula-rechi",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/657872eb7847a3002a36a2de.svg",
+    "school_rating": null,
+    "school_reviews_count": 118,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6579755c6a414a5c8d7f41b9/u9TOakkLctzuNz9FFQG08.png",
+    "course_url": "https://formularechi.com?utm_source=sravni&utm_medium=cpl&utm_campaign=logoped_online&utm_content={transaction_id}",
+    "price": 7850,
+    "price_all": 7850,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 5,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forSchool"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "speechTherapy"
+    ],
+    "description": "Индивидуальные занятия с логопедом в игровой форме для чистой и правильной речи. Постановка звуков по авторской методике.Указана стоимость абонемента на 5 онлайн-занятий. Также есть возможность выбрать абонемент на 10, 15, 30, 60, 90 занятий.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "657976bf6a414a6eab7f452a",
+    "name": "Подготовка к школе для детей от 5 до 7 лет",
+    "tariff": "",
+    "school": "Формула речи",
+    "school_alias": "formula-rechi",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/657872eb7847a3002a36a2de.svg",
+    "school_rating": null,
+    "school_reviews_count": 118,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/657976bf6a414a6eab7f452a/kmS5sevkq4qlKpGPV5pDO.png",
+    "course_url": "https://formularechi.com/preparation-for-school?utm_source=sravni&utm_medium=cpl&utm_campaign=logoped_online&utm_content={transaction_id}",
+    "price": 36075,
+    "price_all": 36075,
+    "price_original": 48100,
+    "price_installment": 9019,
+    "time_installment": 4,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 37,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Русский язык",
+      "Математика",
+      "География",
+      "Развитие"
+    ],
+    "reasons": [
+      "forSchool"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [],
+    "description": "Комплексная подготовка детей к школе на базе программы «Школа России». Обучение математике, грамоте и окружающему миру, развитие логического мышления, а также подготовка руки к письму.Программа соответствует ФГОС.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6614e268eb6929fcf1aedcf5",
+    "name": "Подготовка к школе",
+    "tariff": "",
+    "school": "Тетрика",
+    "school_alias": "tetrika",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61e6849f26a23700216499cf.svg?v=0.0e",
+    "school_rating": 4.8,
+    "school_reviews_count": 3977,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6614e268eb6929fcf1aedcf5/7EuIhW0SKUQNnyFJtUZL0.png",
+    "course_url": "https://tetrika-school.ru/preschool?utm_source=sravni&utm_medium=cpa&utm_campaign=affiliate&utm_content=id&click_id={transaction_id}",
+    "price": 10792,
+    "price_all": 10792,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Русский язык",
+      "Математика",
+      "Литература",
+      "Развитие"
+    ],
+    "reasons": [
+      "forSchool"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [],
+    "description": "Подготовка к 1 классу по направлениям:грамота;математика;чтение;навыки письма;логика и мышление.Стоимость обучения указана за уроки по 30 минут. Также можно выбрать занятия по 60 минут. Доступны пакеты по 8, 16, 24, 32, 48 или 64 урока.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {}
+  },
+  {
+    "id": "66151c1ad3d0579909ff75d8",
+    "name": "Подготовка к школе",
+    "tariff": "",
+    "school": "Тетрика",
+    "school_alias": "tetrika",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61e6849f26a23700216499cf.svg?v=0.0e",
+    "school_rating": 4.8,
+    "school_reviews_count": 3977,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66151c1ad3d0579909ff75d8/gLC-hePP9kCkvYn488snu.png",
+    "course_url": "https://tetrika-school.ru/preschool?utm_source=sravni&utm_medium=cpa&utm_campaign=affiliate&utm_content=id&click_id={transaction_id}",
+    "price": 11872,
+    "price_all": 11872,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Развитие",
+      "Русский язык",
+      "Математика",
+      "Литература"
+    ],
+    "reasons": [
+      "forSchool"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [],
+    "description": "Подготовка к 1 классу по направлениям:грамота;математика;чтение;навыки письма;логика и мышление.Стоимость обучения указана за уроки по 30 минут. Также можно выбрать занятия по 60 минут. Доступны пакеты по 8, 16, 24, 32, 48 или 64 урока.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {}
+  }
+]

@@ -1,0 +1,5176 @@
+[
+  {
+    "id": "61f25baa6b8ce46a0b9e7d84",
+    "name": "Школьный английский язык. 8 класс",
+    "tariff": "Домашняя школа",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/61f25baa6b8ce46a0b9e7d84/zCY70NM5-9kywJ_6Mnzwl.png",
+    "course_url": "https://foxford.ru/courses/14910/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 5720,
+    "price_all": 5720,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 60,
+    "time_all_hour": 0,
+    "grades": "8-8 класс",
+    "directions": [
+      "Английский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "elementary",
+      "languageEnglish"
+    ],
+    "description": "Курс поможет пройти всю программу 8 класса по английскому языку и подготовиться к аттестации в школе. Ученики узнают, как писать имейлы и открытки, общаться на английском в повседневных ситуациях и составлять истории.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "61f25baa6b8ce46a0b9e7d95",
+    "name": "Школьный английский язык. 7 класс",
+    "tariff": "Домашняя школа",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/61f25baa6b8ce46a0b9e7d95/-RuxRYjtQzv22N5sY_DJP.png",
+    "course_url": "https://foxford.ru/courses/14909/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 5720,
+    "price_all": 5720,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 60,
+    "time_all_hour": 0,
+    "grades": "7-7 класс",
+    "directions": [
+      "Английский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "elementary",
+      "languageEnglish"
+    ],
+    "description": "Курс поможет пройти всю программу 7 класса по английскому языку и подготовиться к аттестации в школе. Ученики узнают, как писать имейлы и тексты для открыток, общаться на английском в повседневных ситуациях и создавать истории.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "61f25baa6b8ce46a0b9e7d9c",
+    "name": "Школьный английский язык. 6 класс",
+    "tariff": "Домашняя школа",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/61f25baa6b8ce46a0b9e7d9c/DQWlWgewWq_1DuAARcgLw.png",
+    "course_url": "https://foxford.ru/courses/14908/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 5720,
+    "price_all": 5720,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 60,
+    "time_all_hour": 0,
+    "grades": "6-6 класс",
+    "directions": [
+      "Английский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "beginner",
+      "languageEnglish"
+    ],
+    "description": "Курс поможет пройти всю программу 6 класса по английскому языку и подготовиться к аттестации в школе. Ученики узнают, как писать сообщения и комментарии в дискуссиях, приглашения и электронные письма, а также научатся рассказывать о себе и общаться на английском в повседневных ситуациях.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "620ce3552d4c270023f6e69f",
+    "name": "Курс по немецкому языку",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/620ce3552d4c270023f6e69f/AP4OLVRt-XO_13wA9yrUh.png",
+    "course_url": "https://foxford.ru/courses/15972/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 5720,
+    "price_all": 5720,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 60,
+    "time_all_hour": 0,
+    "grades": "5-9 класс",
+    "directions": [
+      "Немецкий язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageGerman"
+    ],
+    "description": "Основа курса — УМК Horizonte для 5-го класса, а также авторские разработки преподавателя. Курс для тех, кто начинает учить немецкий язык как второй иностранный.На уроках ученики познакомятся с грамматикой и лексикой, достаточной для овладения языком на уровне А1 с переходом на А2. Курс соответствует ФГОС и позволяет заложить прочную базу для подготовки к экзаменам.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "620ce79d2d4c270023f6e759",
+    "name": "Курс по французскому языку",
+    "tariff": "первый год обучения",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/620ce79d2d4c270023f6e759/e9KNvgK_N8y1GA4qegBJI.png",
+    "course_url": "https://foxford.ru/courses/15974/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 5720,
+    "price_all": 5720,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 60,
+    "time_all_hour": 0,
+    "grades": "5-9 класс",
+    "directions": [
+      "Французский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageFrench"
+    ],
+    "description": "Курс для тех, кто начинает учить французский язык как второй иностранный. На уроках слушатели познакомятся с грамматикой и лексикой, достаточной для овладения языком на уровне А1 с переходом на А2. Основа программы — УМК «Синяя птица 5», а также авторские разработки преподавателя. Курс соответствует ФГОС и позволяет заложить прочную базу для подготовки к экзаменам.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "620cf3e97cf1ce00251ac66a",
+    "name": "Курс по немецкому языку",
+    "tariff": "второй год обучения",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/620cf3e97cf1ce00251ac66a/fKTeNZsGX8lKojtw4qYD7.png",
+    "course_url": "https://foxford.ru/courses/15975/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 5720,
+    "price_all": 5720,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 60,
+    "time_all_hour": 0,
+    "grades": "6-9 класс",
+    "directions": [
+      "Немецкий язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageGerman"
+    ],
+    "description": "Курс для тех, кто продолжает учить немецкий язык как второй иностранный. Основа программы — УМК Horizonte, а также авторские разработки преподавателя. Курс соответствует ФГОС и позволяет заложить прочную базу для подготовки к экзаменам.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "620cf4b17cf1ce00251ac6a0",
+    "name": "Курс по французскому языку",
+    "tariff": "второй год обучения",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/620cf4b17cf1ce00251ac6a0/tkNWGN0rfC5WV8cp58fBe.png",
+    "course_url": "https://foxford.ru/courses/15977/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 5720,
+    "price_all": 5720,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 60,
+    "time_all_hour": 0,
+    "grades": "6-9 класс",
+    "directions": [
+      "Французский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageFrench"
+    ],
+    "description": "Основа — УМК «Синяя птица», а также авторские разработки преподавателя. Программа соответствует ФГОС и позволяет заложить прочную базу для подготовки к экзаменам.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "665022ffb19a5516dab3458f",
+    "name": "Репетитор по английскому языку для школьников",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/665022ffb19a5516dab3458f/s_Hn4daHF54LJvHGirrp3.png",
+    "course_url": "https://foxford.ru/repetitor-angliyskiy-5-11-klass?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 38016,
+    "price_all": 38016,
+    "price_original": 57600,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "5-11 класс",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "Занятия с репетитором по программе, сформированной под уровень и цели ученика: заговорить на языке, сдать международный экзамен, улучшить оценки или достичь желаемого уровня.Обучение проходит на онлайн-платформе с видеосвязью и интерактивной доской.Стоимость обучения зависит от пакета занятий (от 4 до 128 уроков) и тарифа:«Стандарт» — занятия по 45 минут, до 3 отмен и переносов уроков каждый месяц;«Премиум» — занятия по 55 минут, репетиторы с самым высоким рейтингом, курс в подарок, поддержка ученика в мессенджерах вне занятий, безлимит на отмены и переносы уроков, индивидуальный подход с учетом особенностей ученика.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6673fd6ea3991fb8965d0202",
+    "name": "Курс по английскому языку в группе, уровень Pre-intermediate",
+    "tariff": "6-8 классы",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6673fd6ea3991fb8965d0202/9nmPc1rHZ9-SSwgFeFjoN.png",
+    "course_url": "https://foxford.ru/mini_groups/14797/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 42176,
+    "price_all": 42176,
+    "price_original": 52720,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "6-8 класс",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages",
+      "forLearning"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "elementary",
+      "intermediate",
+      "languageEnglish"
+    ],
+    "description": "Курс для школьников с начальным уровнем английского. На уроках дети будут заниматься разговорной практикой, изучать грамматику и новую лексику. Уроки проходят в группах до 12 человек, длительность занятия — 50 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "667ce46313fb8adf05a7dfbf",
+    "name": "Репетитор по немецкому языку",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/667ce46313fb8adf05a7dfbf/LCf4e0NqvNuqLeEcG7NKB.png",
+    "course_url": "https://foxford.ru/coach/courses/110/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 43296,
+    "price_all": 43296,
+    "price_original": 65600,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "5-11 класс",
+    "directions": [
+      "Немецкий язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageGerman"
+    ],
+    "description": "Курс дает основные знания по немецкому языку — от алфавита до сложной грамматики. С репетитором можно пройти школьную программу или углубленно изучить немецкий, в зависимости от потребностей и уровня ученика.Стоимость обучения зависит от пакета занятий (от 4 до 128 уроков) и тарифа:«Стандарт» — занятия по 45 минут, до 3 отмен и переносов уроков в месяц.«Премиум» — занятия по 55 минут, репетиторы с самым высоким рейтингом, курс в подарок, поддержка ученика в мессенджерах вне занятий, безлимит на отмены и переносы уроков, индивидуальный подход с учетом особенностей ученика.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "667ce46313fb8adf05a7dfc4",
+    "name": "Репетитор по французскому языку",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/667ce46313fb8adf05a7dfc4/iKwphM5C62h4DIj3QiF_O.png",
+    "course_url": "https://foxford.ru/coach/courses/131/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 43296,
+    "price_all": 43296,
+    "price_original": 65600,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "5-11 класс",
+    "directions": [
+      "Французский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageFrench"
+    ],
+    "description": "Курс направлен на изучение основ французского языка. Ученики познакомятся с базовой грамматикой, правилами письма и пополнят свой словарный запас. При необходимости подготовятся к сдаче TCF и TEFL.Стоимость обучения зависит от пакета занятий (от 4 до 128 уроков) и тарифа:«Стандарт» — занятия по 45 минут, до 3 отмен и переносов уроков в месяц.«Премиум» — занятия по 55 минут, репетиторы с самым высоким рейтингом, курс в подарок, поддержка ученика в мессенджерах вне занятий, безлимит на отмены и переносы уроков, индивидуальный подход с учетом особенностей ученика.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "667ce46413fb8adf05a7dff7",
+    "name": "Репетитор по английскому языку: носитель языка",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/667ce46413fb8adf05a7dff7/5qa_6QlRaZ4pyIPgAmVuL.png",
+    "course_url": "https://foxford.ru/coach/courses/152/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 101376,
+    "price_all": 101376,
+    "price_original": 153600,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "5-11 класс",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "native",
+      "languageEnglish"
+    ],
+    "description": "Занятия с репетиторами из Великобритании, Канады, Америки и ЮАР помогут погрузиться в культуру, лучше узнать нюансы языка и научиться отличать оттенки речи. Ученики смогут воспринимать английский на слух и разговаривать с нужным акцентом.Стоимость курса зависит от выбранного пакета занятий (от 4 до 128 уроков).",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "667ce46413fb8adf05a7e001",
+    "name": "Репетитор по английскому языку для детей 4-7 лет",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/667ce46413fb8adf05a7e001/zatWQsRYsf_HcaW1IC3Dg.png",
+    "course_url": "https://foxford.ru/coach/courses/163/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 31680,
+    "price_all": 31680,
+    "price_original": 48000,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Развитие",
+      "Английский язык"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "Занятия по программе, которая составлена с учетом возрастных особенностей. Для обучения репетиторы используют интерактивные задания с персонажами, игры и песенки. Учителя мягко вовлекают в процесс, чтобы постепенно заинтересовать языком, помочь освоить новые слова и использовать их в речи.Стоимость обучения зависит от пакета занятий (от 4 до 128 уроков) и тарифа:«Стандарт» — занятия по 30 минут, до 3 отмен и переносов уроков в месяц.«Премиум» — занятия по 45 минут, репетиторы с самым высоким рейтингом, курс в подарок, поддержка ученика в мессенджерах вне занятий, безлимит на отмены и переносы уроков, индивидуальный подход с учетом особенностей здоровья ученика.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "667ce46413fb8adf05a7e010",
+    "name": "Подготовка к международным экзаменам по английскому языку",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/667ce46413fb8adf05a7e010/IX8qYkCaIju5tAGtXxmjS.png",
+    "course_url": "https://foxford.ru/coach/courses/224/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 63360,
+    "price_all": 63360,
+    "price_original": 96000,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "5-11 класс",
+    "directions": [
+      "Английский язык"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "ket",
+      "pet",
+      "fce",
+      "toefl",
+      "languageEnglish"
+    ],
+    "description": "Занятия с репетитором помогут подготовиться к сдаче Кембриджских экзаменов и TOEFL. Ребенок узнает, какие задания могут встретиться, потренируется отвечать на вопросы по тексту и аудио и выполнять письменную часть экзамена.Стоимость курса зависит от выбранного пакета занятий (от 4 до 128 уроков).",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "667ce46413fb8adf05a7e01a",
+    "name": "Репетитор по немецкому языку для учеников 1-4 классов",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/667ce46413fb8adf05a7e01a/D6gm94YbhOq7mpnw78SQc.png",
+    "course_url": "https://foxford.ru/coach/courses/244/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 43296,
+    "price_all": 43296,
+    "price_original": 65600,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "1-4 класс",
+    "directions": [
+      "Немецкий язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages",
+      "forLearning"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageGerman"
+    ],
+    "description": "Индивидуальные занятия с игровыми элементами, которые вовлекут ребёнка, помогут полюбить немецкий и постепенно начать говорить на нёмСтоимость обучения зависит от пакета занятий (от 4 до 128 уроков) и тарифа:«Стандарт» — занятия по 45 минут, до 3 отмен и переносов уроков в месяц;«Премиум» — занятия по 55 минут, репетиторы с самым высоким рейтингом, курс в подарок, поддержка ученика в мессенджерах вне занятий, безлимит на отмены и переносы уроков, индивидуальный подход с учетом особенностей ученика.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "667ce46413fb8adf05a7e01f",
+    "name": "Репетитор по французскому языку для учеников 1-4 классов",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/667ce46413fb8adf05a7e01f/HNcm6gsc-hu-km72VHrWG.png",
+    "course_url": "https://foxford.ru/coach/courses/245/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 43296,
+    "price_all": 43296,
+    "price_original": 65600,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "1-4 класс",
+    "directions": [
+      "Французский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageFrench"
+    ],
+    "description": "Занятия проходят по индивидуальной программе в зависимости от целей ученика — начать свободно говорить на французском, подтянуть школьную программу, поступить в лицей или гимназию.Стоимость обучения зависит от пакета занятий (от 4 до 128 уроков) и тарифа:«Стандарт» — занятия по 45 минут, до 3 отмен и переносов уроков в месяц;«Премиум» — занятия по 55 минут, репетиторы с самым высоким рейтингом, курс в подарок, поддержка ученика в мессенджерах вне занятий, безлимит на отмены и переносы уроков, индивидуальный подход с учетом особенностей ученика.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "667ce46413fb8adf05a7e024",
+    "name": "Индивидуальные занятия по английскому языку с носителем языка",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/667ce46413fb8adf05a7e024/CtLV4BPRP3I3GtPVbezNz.png",
+    "course_url": "https://foxford.ru/coach/courses/313/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 101376,
+    "price_all": 101376,
+    "price_original": 153600,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "1-4 класс",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "native",
+      "languageEnglish"
+    ],
+    "description": "Занятия с носителем языка помогут ребенку заговорить на английском уверенно, а интерактивные задания, обучающие игры, песни на английском и комиксы с персонажами разовьют интерес к учебе.Стоимость курса зависит от выбранного пакета занятий (от 4 до 128 уроков).",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "667ce46413fb8adf05a7e029",
+    "name": "Репетитор по английскому языку для детей 7-10 лет",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/667ce46413fb8adf05a7e029/c1DdiQb9PEIVAE1bFPtf9.png",
+    "course_url": "https://foxford.ru/coach/courses/411/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 38016,
+    "price_all": 38016,
+    "price_original": 57600,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "1-4 класс",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "Занятия помогут ребенку заговорить на английском уверенно, а интерактивные задания, обучающие игры, песни на английском и комиксы с персонажами разовьют интерес к учебе.Стоимость обучения зависит от пакета занятий (от 4 до 128 уроков) и тарифа:«Стандарт» — занятия по 45 минут, до 3 отмен и переносов уроков в месяц;«Премиум» — занятия по 55 минут, репетиторы с самым высоким рейтингом, курс в подарок, поддержка ученика в мессенджерах вне занятий, безлимит на отмены и переносы уроков, индивидуальный подход с учетом особенностей ученика.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "683ece438b6e6b65f21be995",
+    "name": "Курс по английскому языку в группе, уровень Pre-intermediate",
+    "tariff": "3-5 классы",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/683ece438b6e6b65f21be995/NSEiSSEe_qgXnFa7uZmgH.png",
+    "course_url": "https://foxford.ru/mini_groups/14798/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 57992,
+    "price_all": 57992,
+    "price_original": 72490,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 11,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "3-5 класс",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages",
+      "forLearning"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "elementary",
+      "intermediate",
+      "languageEnglish"
+    ],
+    "description": "Курс поможет усвоить ключевые понятия и темы английского языка уровня Pre-Intermediate. Подойдет для учеников 9–11 лет, которые продолжают изучение английского языка.На уроках дети будут заниматься разговорной практикой, изучать грамматические правила и слова в игровой форме.Уроки проходят в группах до 10 человек, длительность занятия — 50 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "683ed049d6033ee8aa214289",
+    "name": "Курс по английскому языку в группе, уровень Elementary",
+    "tariff": "3-4 классы",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/683ed049d6033ee8aa214289/Ku3ghmhD0BD541mK3xBST.png",
+    "course_url": "https://foxford.ru/mini_groups/14624/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 57992,
+    "price_all": 57992,
+    "price_original": 72490,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 11,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "3-4 класс",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages",
+      "forLearning"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "elementary",
+      "languageEnglish"
+    ],
+    "description": "Курс поможет расширить словарный запас и изучить новые грамматические конструкции. Подойдет для учеников 8–10 лет, которые продолжают изучение английского языка.На уроках дети будут заниматься разговорной практикой, изучать грамматические правила и слова в игровой форме.Уроки проходят в группах до 10 человек, длительность занятия — 50 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "683ed477d6033ee8aa214487",
+    "name": "Курс по английскому языку в группе, уровень Elementary",
+    "tariff": "5-7 классы",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/683ed477d6033ee8aa214487/i-5TlVfOKXRg1kpCUZLzK.png",
+    "course_url": "https://foxford.ru/mini_groups/14630/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 42176,
+    "price_all": 42176,
+    "price_original": 52720,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "5-7 класс",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages",
+      "forLearning"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "elementary",
+      "languageEnglish"
+    ],
+    "description": "Курс подойдет школьникам с базовыми знаниями английского.На уроках ученики будут заниматься разговорной практикой, изучать грамматические правила и новую лексику для уверенного общения в простых повседневных ситуациях.Уроки проходят в группах до 12 человек, длительность занятия — 50 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "683fabc78b6e6b65f21c4639",
+    "name": "Курс по английскому языку в группе, уровень Beginner",
+    "tariff": "2–4 классы",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/683fabc78b6e6b65f21c4639/4hRRw073TDsBW4GKoxEVl.png",
+    "course_url": "https://foxford.ru/mini_groups/14623/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 57992,
+    "price_all": 57992,
+    "price_original": 72490,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 10,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "2-4 класс",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages",
+      "forLearning"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "beginner",
+      "languageEnglish"
+    ],
+    "description": "Курс подойдет ученикам 8–10 лет, которые начинают изучение английского языка.На уроках дети будут заниматься разговорной практикой, изучать грамматические правила и слова в игровой форме.Уроки проходят в группах до 10 человек, длительность занятия — 50 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "683fadf1b0aa81101eb14b93",
+    "name": "Курс по английскому языку в группе, уровень Beginner",
+    "tariff": "5–6 классы",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/683fadf1b0aa81101eb14b93/QP4iltTg7RGSVbsjEwbDx.png",
+    "course_url": "https://foxford.ru/mini_groups/14629/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 21088,
+    "price_all": 21088,
+    "price_original": 26360,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 4,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "5-6 класс",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages",
+      "forLearning"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "beginner",
+      "languageEnglish"
+    ],
+    "description": "Курс подойдет школьникам, которые изучают английский с нуля.На уроках дети будут заниматься разговорной практикой, изучать грамматические правила и новую лексику, освоят алфавит и числа, научатся читать и составлять простые предложения.Уроки проходят в группах до 12 человек, длительность занятия — 50 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "683faf2db0aa81101eb14c49",
+    "name": "Курс по английскому языку в группе для 7-9 классов, уровень Intermediate",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/683fadf1b0aa81101eb14b93/QP4iltTg7RGSVbsjEwbDx.png",
+    "course_url": "https://foxford.ru/mini_groups/16746/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 35990,
+    "price_all": 35990,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 5,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "7-9 класс",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages",
+      "forLearning"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "intermediate",
+      "languageEnglish"
+    ],
+    "description": "Курс подойдет школьникам со средним уровнем английского.На уроках ученики будут заниматься разговорной практикой, изучать грамматические правила и новую лексику, разовьют все языковые навыки и существенно расширят словарный запас.Уроки проходят в группах до 12 человек, длительность занятия — 90 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "683fb4c2d6033ee8aa21a374",
+    "name": "Курс по китайскому языку в группе для начальной школы для продолжающих",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/683fb352b0aa81101eb14ea1/mazZ5hoPWwI-GODOqPnjZ.png",
+    "course_url": "https://foxford.ru/mini_groups/14627/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 43456,
+    "price_all": 43456,
+    "price_original": 54320,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "3-5 класс",
+    "directions": [
+      "Китайский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages",
+      "forLearning"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageChinese"
+    ],
+    "description": "Курс подойдет школьникам, которые продолжают изучение китайского языка.На уроках ученики будут заниматься разговорной практикой, изучать грамматические правила и слова в игровой форме, узнают много новых иероглифов по разным темам.Уроки проходят в группах до 10 человек, длительность занятия — 50 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "683fb53cd6033ee8aa21a3b5",
+    "name": "Курс по китайскому языку в группе с нуля",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/683fb352b0aa81101eb14ea1/mazZ5hoPWwI-GODOqPnjZ.png",
+    "course_url": "https://foxford.ru/mini_groups/14635/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 43456,
+    "price_all": 43456,
+    "price_original": 54320,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "5-8 класс",
+    "directions": [
+      "Китайский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages",
+      "forLearning"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageChinese"
+    ],
+    "description": "Курс подойдет школьникам, которые начинают изучение китайского языка.Ученики изучат основы грамматики, разовьют навыки иероглифического письма и восприятия речи на слух.Уроки проходят в группах до 12 человек, длительность занятия — 50 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "683fb61d8b6e6b65f21c4b3a",
+    "name": "Курс по китайскому языку в группе для начальной школы с нуля",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/683fb61d8b6e6b65f21c4b3a/cHFo4k4Fr9mobb3ntXvHT.png",
+    "course_url": "https://foxford.ru/mini_groups/14626/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 43456,
+    "price_all": 43456,
+    "price_original": 54320,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "2-4 класс",
+    "directions": [
+      "Китайский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages",
+      "forLearning"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageChinese"
+    ],
+    "description": "Курс подойдет школьникам, которые начинают изучение китайского языка.Ученики будут заниматься разговорной практикой, изучат основы грамматики, разовьют навыки иероглифического письма и восприятия речи на слух.Уроки проходят в группах до 10 человек, длительность занятия — 50 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "684111928b6e6b65f21dbcd5",
+    "name": "Курс по английскому языку в группе для продолжающих",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/684111928b6e6b65f21dbcd5/bEJ0oksGF88uStu58zodC.png",
+    "course_url": "https://foxford.ru/mini_groups/14622/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 18848,
+    "price_all": 18848,
+    "price_original": 23560,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 4,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "Курс для дошкольников и первоклассников, которые уже знают английский алфавит.На занятиях ребята будут заниматься разговорной практикой, запоминать новые слова через песенки и стихи, играть в подвижные игры.Ребёнок станет увереннее говорить на английском, научится читать и писать слова.Уроки проходят в группе до 8 человек. Длительность одного занятия — 30 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6841131b3fb651a37970ce74",
+    "name": "Курс по английскому языку в группе с нуля",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/684111928b6e6b65f21dbcd5/bEJ0oksGF88uStu58zodC.png",
+    "course_url": "https://foxford.ru/mini_groups/14621/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 37696,
+    "price_all": 37696,
+    "price_original": 47120,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "Курс для дошкольников и первоклассников без опыта в английском языке.На занятиях ребята будут заниматься разговорной практикой, запоминать новые слова через песенки и стихи, играть в подвижные игры.Ребёнок выучит алфавит, освоит правила чтения и письма.Уроки проходят в группе до 8 человек. Длительность одного занятия — 30 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6841154fb0aa81101eb2cfa2",
+    "name": "Курс по немецкому языку в группе с нуля",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6841154fb0aa81101eb2cfa2/pNWbt0MIlmY1daWEWx7EP.png",
+    "course_url": "https://foxford.ru/mini_groups/14638/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 42176,
+    "price_all": 42176,
+    "price_original": 52720,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "5-8 класс",
+    "directions": [
+      "Развитие",
+      "Немецкий язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageGerman"
+    ],
+    "description": "Курс для учеников, которые только начинают изучение немецкого языка.На занятиях школьники будут изучать основы грамматики и лексику, заниматься разговорной практикой, чтобы уверенно общаться в простых повседневных ситуациях.Уроки проходят в группе до 12 человек. Длительность одного занятия — 50 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6846bd8bb0aa81101eb5c092",
+    "name": "Репетитор по китайскому языку",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6846bd8bb0aa81101eb5c092/q0_I7dAPUB3o6CO0Fn_W5.png",
+    "course_url": "https://foxford.ru/languages/repetitor-kitayskiy-5-11-klass?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 46464,
+    "price_all": 46464,
+    "price_original": 70400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "5-11 класс",
+    "directions": [
+      "Китайский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageChinese"
+    ],
+    "description": "Репетитор сформирует программу под уровень и цели ученика: заговорить на языке, сдать международный экзамен, улучшить оценки или достичь желаемого уровня.Обучение проходит на онлайн-платформе с видеосвязью и интерактивной доской.Стоимость обучения зависит от пакета занятий (от 4 до 128 уроков) и тарифа:«Стандарт» — занятия по 45 минут, до 3 отмен и переносов уроков каждый месяц;«Премиум» — занятия по 55 минут, репетиторы с самым высоким рейтингом, курс в подарок, поддержка ученика в мессенджерах вне занятий, безлимит на отмены и переносы уроков, индивидуальный подход с учетом особенностей ученика.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6846c0288b6e6b65f220a576",
+    "name": "Репетитор по китайскому языку для учеников 1-4 классов",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6846c0288b6e6b65f220a576/rB1TKyur1mcwdaNwi0Aky.png",
+    "course_url": "https://foxford.ru/coach/courses/243/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 46464,
+    "price_all": 46464,
+    "price_original": 70400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "1-4 класс",
+    "directions": [
+      "Китайский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageChinese"
+    ],
+    "description": "Занятия с репетитором по индивидуальной программе, составленной под уровень и цели ученика: начать свободно говорить на иностранном языке, подтянуть школьную программу, поступить в лицей или гимназию.Ребенок будет изучать язык через интерактивные задания, игры, песни, комиксы с персонажами.Стоимость обучения зависит от пакета занятий (от 4 до 128 уроков) и тарифа:«Стандарт» — занятия по 45 минут, до 3 отмен и переносов уроков каждый месяц;«Премиум» — занятия по 55 минут, репетиторы с самым высоким рейтингом, курс в подарок, поддержка ученика в мессенджерах вне занятий, безлимит на отмены и переносы уроков, индивидуальный подход с учетом особенностей ученика.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6846c0c8d6033ee8aa2611e9",
+    "name": "Репетитор по испанскому языку",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6846c0c8d6033ee8aa2611e9/DGBlEJwBbBI-k3-hzi1UR.png",
+    "course_url": "https://foxford.ru/coach/courses/158/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 43296,
+    "price_all": 43296,
+    "price_original": 65600,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "5-11 класс",
+    "directions": [
+      "Испанский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageSpanish"
+    ],
+    "description": "Курс направлен на изучение основ грамматики и лексики испанского языка. Репетиторы подберут программу как для начального уровня владения языком, так и для сдачи международного экзамена DELE.Обучение проходит на онлайн-платформе с видеосвязью и интерактивной доской.Стоимость обучения зависит от пакета занятий (от 4 до 128 уроков) и тарифа:«Стандарт» — занятия по 45 минут, до 3 отмен и переносов уроков каждый месяц;«Премиум» — занятия по 55 минут, репетиторы с самым высоким рейтингом, курс в подарок, поддержка ученика в мессенджерах вне занятий, безлимит на отмены и переносы уроков, индивидуальный подход с учетом особенностей ученика.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6846c285b0aa81101eb5c8dd",
+    "name": "Репетитор по испанскому языку для учеников 1-4 классов",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6846c285b0aa81101eb5c8dd/0W2H6nV4FlinScgKEnJsP.png",
+    "course_url": "https://foxford.ru/coach/courses/253/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 43296,
+    "price_all": 43296,
+    "price_original": 65600,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "1-4 класс",
+    "directions": [
+      "Испанский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageSpanish"
+    ],
+    "description": "Репетитор поможет школьнику улучшить знания по испанскому языку. Научит читать, писать и говорить по-испански. Ученик приобретёт базовые знания, сможет общаться на простые темы в школе, интернете или путешествии.Обучение проходит на онлайн-платформе с видеосвязью и интерактивной доской.Стоимость обучения зависит от пакета занятий (от 4 до 128 уроков) и тарифа:«Стандарт» — занятия по 45 минут, до 3 отмен и переносов уроков каждый месяц;«Премиум» — занятия по 55 минут, репетиторы с самым высоким рейтингом, курс в подарок, поддержка ученика в мессенджерах вне занятий, безлимит на отмены и переносы уроков, индивидуальный подход с учетом особенностей ученика.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6846c2c33fb651a37973a41b",
+    "name": "Репетитор по корейскому языку",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6846c2c33fb651a37973a41b/t598v-ngpzkgDrV-jNfxJ.png",
+    "course_url": "https://foxford.ru/coach/courses/533/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 46464,
+    "price_all": 46464,
+    "price_original": 70400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "1-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageKorean"
+    ],
+    "description": "Курс направлен на восполнение пробелов в знаниях по корейскому языку, а также на систематизацию знаний. Ученик повысит общую грамотность, сможет общаться на корейском языке на простые темы в школе, интернете или путешествии.Обучение проходит на онлайн-платформе с видеосвязью и интерактивной доской.Стоимость обучения зависит от пакета занятий (от 4 до 128 уроков).",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "68516e0fb97642cfc496ed17",
+    "name": "Игровой курс по английскому языку для дошкольников. Let's learn English",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68516e0fb97642cfc496ed17/uIfVw7m8tRmRqPc0CBoFd.png",
+    "course_url": "https://foxford.ru/interactive-training/courses/11152/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 5490,
+    "price_all": 5490,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages",
+      "forSchool"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "Курс предлагает видеоуроки и интерактивные игры для знакомства с английским языком для самых маленьких. Ученики освоят базовые слова и фразы через увлекательные самостоятельные задания.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "685177b81d0cfe506c49244f",
+    "name": "Игровой курс по английскому языку. Уровень Elementary. Часть 1",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/685177b81d0cfe506c49244f/AZK0KssOKHNS9AC4wHYC1.png",
+    "course_url": "https://foxford.ru/interactive-training/courses/8992/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 2490,
+    "price_all": 2490,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "2-4 класс",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "beginner",
+      "languageEnglish"
+    ],
+    "description": "Ребята узнают новые слова и отработают их на практике в игровой форме вместе с персонажами-зверятами.Обучение проходит в формате квеста с сюжетом. Ребенок решает загадки и выполняет интерактивные задания. Через игру он закрепит темы, которые проходил в школе или на дополнительных занятиях.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "68517aca38f1cfd795cd00a5",
+    "name": "Игровой курс по английскому языку. Вокруг света за 12 дней",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68517aca38f1cfd795cd00a5/kiqbOHNoaDdsuCgtA1JOY.png",
+    "course_url": "https://foxford.ru/interactive-training/courses/11149/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 990,
+    "price_all": 990,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 12,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "2-4 класс",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "На курсе ребенок совершит кругосветное путешествие, узнает интересные факты про разные страны, выучит новые английские слова.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "68517c5738f1cfd795cd01d1",
+    "name": "Let's sing! Игровой курс по песням",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68517c5738f1cfd795cd01d1/Tdqm-gGolAb9BHEFKQGb-.png",
+    "course_url": "https://foxford.ru/interactive-training/courses/9818/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 990,
+    "price_all": 990,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages",
+      "forSchool"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "Каждый уровень курса состоит из детской песни и задач, которые помогут запомнить базовые английские слова.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "688a25784d7c71cdcd3c2aee",
+    "name": "Курс занятий по английскому языку для 2 класса",
+    "tariff": "Домашняя школа",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/688a25784d7c71cdcd3c2aee/BjXhsHN-xZ_ZqXb77nEZT.png",
+    "course_url": "https://foxford.ru/courses/15932/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 3490,
+    "price_all": 3490,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 30,
+    "time_all_hour": 0,
+    "grades": "2-2 класс",
+    "directions": [
+      "Английский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "Курс поможет пройти всю программу 2 класса по английскому языку и подготовиться к аттестации.Ученики познакомятся с английским алфавитом, научатся читать, а также изучат базовые лексические и грамматические темы, которые заложат основу для дальнейшего изучения языка.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "688a271e4d7c71cdcd3c2bc3",
+    "name": "Курс занятий по английскому языку для 3 класса",
+    "tariff": "Домашняя школа",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/688a271e4d7c71cdcd3c2bc3/pqRI1pR4OfxnGXbpTfS4H.png",
+    "course_url": "https://foxford.ru/courses/15933/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 3490,
+    "price_all": 3490,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 30,
+    "time_all_hour": 0,
+    "grades": "3-3 класс",
+    "directions": [
+      "Английский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "Курс поможет пройти всю программу 3 класса по английскому языку и подготовиться к аттестации.Для закрепления знаний после урока предусмотрены домашние задания — письменная работа и интерактивные задания на платформе. Ко всем заданиям прилагаются ответы.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "689c5c0d04a034f7f5a9aaeb",
+    "name": "Школьный английский язык. 5 класс",
+    "tariff": "Домашняя школа",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/689c5c0d04a034f7f5a9aaeb/EaobgTfDY_lPHVs8Yv5Ds.png",
+    "course_url": "https://foxford.ru/courses/14907/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 5720,
+    "price_all": 5720,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 60,
+    "time_all_hour": 0,
+    "grades": "5-5 класс",
+    "directions": [
+      "Английский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "beginner",
+      "languageEnglish"
+    ],
+    "description": "Курс поможет пройти всю программу 5 класса по английскому языку и подготовиться к аттестации в школе. Ученики узнают, как применять полученные знания в жизни — писать открытки и приглашения, рассказывать о себе и общаться на английском в повседневных ситуациях.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "689eec0216999d0252ccf5a6",
+    "name": "Школьный английский язык. 9 класс",
+    "tariff": "Домашняя школа",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/689eec0216999d0252ccf5a6/apv3Nyq66CJVCcCt3DcLF.png",
+    "course_url": "https://foxford.ru/courses/14911/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 8590,
+    "price_all": 8590,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 60,
+    "time_all_hour": 0,
+    "grades": "9-9 класс",
+    "directions": [
+      "Английский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "intermediate",
+      "languageEnglish"
+    ],
+    "description": "Курс поможет пройти всю программу 9 класса по английскому языку и подготовиться к аттестации в школе. Ученики узнают, как писать имейлы и эссе, участвовать в обсуждении, выражать своё мнение, аргументировать и строить логичные высказывания.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "68a7286f8b509e5a2ac56ad1",
+    "name": "Школьный английский язык. 11 класс",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68a7286f8b509e5a2ac56ad1/MAd7ErBGGF49aVvGS7R8-.png",
+    "course_url": "https://foxford.ru/courses/15990/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 7150,
+    "price_all": 7150,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 15,
+    "time_all_hour": 0,
+    "grades": "11-11 класс",
+    "directions": [
+      "Английский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "Курс поможет пройти всю программу 11 класса по английскому языку и подготовиться к аттестации. Ученики научатся писать электронные письма и эссе, участвовать в дискуссии, выражать свое мнение, аргументировать, строить логичные высказывания.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "68a72cca23ad701c26696849",
+    "name": "Курс занятий по английскому языку для 4 класса",
+    "tariff": "Домашняя школа",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68a72cca23ad701c26696849/rYtfdupbpKX3BoXtHxl1t.png",
+    "course_url": "https://foxford.ru/courses/15778/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 3650,
+    "price_all": 3650,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 30,
+    "time_all_hour": 0,
+    "grades": "4-4 класс",
+    "directions": [
+      "Английский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "Курс поможет изучить всю программу 4 класса по английскому языку и подготовиться к аттестации. На уроках ученики узнают новые грамматические конструкции, слова и словосочетания, которые смогут сразу отработать на практике.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "68a72df923ad701c266968f6",
+    "name": "Школьный английский язык. 10 класс",
+    "tariff": "Домашняя школа",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68a72df923ad701c266968f6/L4Iut-7Rbg7A5D4kqQ3oy.png",
+    "course_url": "https://foxford.ru/courses/15672/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 8590,
+    "price_all": 8590,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 30,
+    "time_all_hour": 0,
+    "grades": "10-10 класс",
+    "directions": [
+      "Английский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "intermediate",
+      "languageEnglish"
+    ],
+    "description": "Курс поможет пройти всю программу 10 класса по английскому языку и подготовиться к аттестации. Ученики научатся писать электронные письма и эссе, участвовать в дискуссии, выражать свое мнение, аргументировать, строить логичные высказывания.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "68ae91dd966bb2b0392d10f4",
+    "name": "Страноведение. Первый год обучения",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68ae91dd966bb2b0392d10f4/5Qu-VYP_3BQMbVafHIMkq.png",
+    "course_url": "https://foxford.ru/courses/15971/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 4290,
+    "price_all": 4290,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 96,
+    "time_all_hour": 0,
+    "grades": "5-9 класс",
+    "directions": [
+      "Французский язык",
+      "Немецкий язык",
+      "Испанский язык",
+      "География"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageFrench",
+      "languageGerman",
+      "languageSpanish"
+    ],
+    "description": "Страноведческий курс по европейским направлениям (немецкий, испанский, французский языки).",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "68ae9588966bb2b0392d12c3",
+    "name": "Страноведение. Второй год обучения",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68ae91dd966bb2b0392d10f4/5Qu-VYP_3BQMbVafHIMkq.png",
+    "course_url": "https://foxford.ru/courses/15978/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 4290,
+    "price_all": 4290,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 86,
+    "time_all_hour": 0,
+    "grades": "6-9 класс",
+    "directions": [
+      "Китайский язык",
+      "Японский язык",
+      "courseArabian",
+      "География"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageChinese",
+      "languageJapanese",
+      "languageArabiс"
+    ],
+    "description": "Страноведческий курс по азиатским направлениям (китайский, японский, арабский языки).",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "61f25baa6b8ce46a0b9e7e3b",
+    "name": "Английский язык. 1-4 класс",
+    "tariff": "",
+    "school": "Skysmart",
+    "school_alias": "skysmart",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6193a8c6f8b4000025fd69fb.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 701,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/61f25baa6b8ce46a0b9e7e3b/BtZ5ytsBVoP442AmDB3aO.png",
+    "course_url": "https://english.skysmart.ru/1-4-klass",
+    "price": 30210,
+    "price_all": 30210,
+    "price_original": 0,
+    "price_installment": 11077,
+    "time_installment": 3,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 16,
+    "time_all_hour": 0,
+    "grades": "1-4 класс",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "beginner",
+      "elementary",
+      "intermediate",
+      "languageEnglish"
+    ],
+    "description": "Изучение английского через сюжетные уроки, игры, песни и видео — разные программы в зависимости от начального уровня ребёнка.Стоимость указана за индивидуальные занятия. Можно выбрать пакеты от 16 до 144 уроков.Также доступны групповые уроки, пакеты от 16 до 96 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "63ef960e3857ac0027eccdd4",
+    "name": "Английский язык с носителем",
+    "tariff": "",
+    "school": "Skysmart",
+    "school_alias": "skysmart",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6193a8c6f8b4000025fd69fb.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 701,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/63ef960e3857ac0027eccdd4/Wj34RHQTEjwHE0heK3erx.png",
+    "course_url": "https://english.skysmart.ru/s-nositelem",
+    "price": 18688,
+    "price_all": 18688,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 4,
+    "time_all_hour": 0,
+    "grades": "1-11 класс",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "beginner",
+      "elementary",
+      "intermediate",
+      "native",
+      "languageEnglish"
+    ],
+    "description": "Полное погружение в живую английскую речь и культуру англоязычных стран. Коммуникативный подход: ученик говорит по-английски 60% времени урока.Программа подбирается под уровень ученика: Starter + Beginner, Elementary, Pre-Intermediate, Intermediate.Стоимость указана за 4 занятия. Доступные пакеты от 4 до 64 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "68db596ca79b17f381e6ce52",
+    "name": "Английский язык. Для дошкольников",
+    "tariff": "",
+    "school": "Skysmart",
+    "school_alias": "skysmart",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6193a8c6f8b4000025fd69fb.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 701,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68db596ca79b17f381e6ce52/tQXbTF-9rqSd2EPsXSCLB.png",
+    "course_url": "https://english.skysmart.ru/podgotovka-k-shkole",
+    "price": 17808,
+    "price_all": 17808,
+    "price_original": 0,
+    "price_installment": 6471,
+    "time_installment": 3,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 16,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "Уроки английского языка для детей от 4 до 7 лет. Изучение разговорного английского через сюжетные уроки, игры, упражнения, песни и видео.Стоимость указана за уроки по 25 минут. Также доступны стандартные занятия по 50 минут. Можно выбрать пакеты от 16 до 144 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "62e7c3c07aa1260023da2473",
+    "name": "Английский для маленьких",
+    "tariff": "",
+    "school": "Тетрика",
+    "school_alias": "tetrika",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61e6849f26a23700216499cf.svg?v=0.0e",
+    "school_rating": 4.8,
+    "school_reviews_count": 3977,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/62e7c3c07aa1260023da2473/oYmkVNSfhLYxB6HMuqQWi.png",
+    "course_url": "https://tetrika-school.ru/english_kids?utm_source=sravni&utm_medium=cpa&utm_campaign=affiliate&utm_content=id&click_id={transaction_id}",
+    "price": 10792,
+    "price_all": 10792,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "Уроки английского языка с репетитором для детей от 4 до 10 лет. Учитель составит индивидуальную программу с учётом возраста, уровня знаний и потребностей ребёнка.Занятия проходят на интерактивной платформе с видеосвязью, виртуальной доской и текстовым редактором.Стоимость обучения указана за уроки по 30 минут. Также можно выбрать занятия по 60 минут. Доступны пакеты по 8, 16, 24, 32, 48 или 64 урока.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {}
+  },
+  {
+    "id": "64ddd9b1f2fd4a002ad31ca6",
+    "name": "Английский для маленьких",
+    "tariff": "",
+    "school": "Тетрика",
+    "school_alias": "tetrika",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61e6849f26a23700216499cf.svg?v=0.0e",
+    "school_rating": 4.8,
+    "school_reviews_count": 3977,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/64ddd9b1f2fd4a002ad31ca6/Grka3OErY8WWNnvobLXPZ.png",
+    "course_url": "https://tetrika-school.ru/english_kids?utm_source=sravni&utm_medium=cpa&utm_campaign=affiliate&utm_content=id&click_id={transaction_id}",
+    "price": 11872,
+    "price_all": 11872,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "Уроки английского языка с репетитором для детей от 4 до 10 лет. Учитель составит индивидуальную программу с учётом возраста, уровня знаний и потребностей ребёнка.Занятия проходят на интерактивной платформе с видеосвязью, виртуальной доской и текстовым редактором.Стоимость обучения указана за уроки по 30 минут. Также можно выбрать занятия по 60 минут. Доступны пакеты по 8, 16, 24, 32, 48 или 64 урока.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {}
+  },
+  {
+    "id": "61fad23a5eaa7d00230aa839",
+    "name": "Английский для детей",
+    "tariff": "",
+    "school": "Инглекс",
+    "school_alias": "ingleks",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61e5840a26a23700216499ca.svg?v=0.24",
+    "school_rating": 4.7,
+    "school_reviews_count": 42,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/61fad23a5eaa7d00230aa839/xHmGdIGULTbizsnBy8Vkr.png",
+    "course_url": "https://englex.ru/kids-courses/children/?promocode=sravni&utm_source=partners_website&utm_medium=sravniru",
+    "price": 12900,
+    "price_all": 12900,
+    "price_original": 21600,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 10,
+    "time_all_hour": 0,
+    "grades": "2-5 класс",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "Занятия с фокусом на живом языке и разговорной практике вместо однотипных упражнений. Ребенок научится не просто читать, но и понимать и пересказывать тексты своими словами, натренирует аудирование, сможет сразу применять грамматику благодаря понятным примерам.Стоимость обучения указана за 10 уроков по 45 минут. Также доступны занятия по 60 минут и пакеты по 20, 40 и 80 уроков.Можно выбрать тариф «Премиальный»: репетиторы с опытом от 10 лет, сопровождение методиста-наставника, безлимитный доступ к разговорному клубу, отмены и переносы уроков без ограничений.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6889f4504d7c71cdcd3c13a6",
+    "name": "Английский для школьников",
+    "tariff": "",
+    "school": "Инглекс",
+    "school_alias": "ingleks",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61e5840a26a23700216499ca.svg?v=0.24",
+    "school_rating": 4.7,
+    "school_reviews_count": 42,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6889f4504d7c71cdcd3c13a6/dXO9OyhL4VZxZUOQymDvA.png",
+    "course_url": "https://englex.ru/kids-courses/pupils/?promocode=sravni&utm_source=partners_website&utm_medium=sravniru",
+    "price": 12900,
+    "price_all": 12900,
+    "price_original": 21600,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 10,
+    "time_all_hour": 0,
+    "grades": "2-11 класс",
+    "directions": [
+      "Английский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "На уроках преподаватель понятно объяснит школьные темы, поможет с домашними заданиями, подготовкой к контрольным и тестам с опорой на учебник, по которому ребенок учится в школе.Стоимость обучения указана за 10 уроков по 45 минут. Также доступны занятия по 60 минут и пакеты по 20, 40 и 80 уроков.Можно выбрать тариф «Премиальный»: репетиторы с опытом от 10 лет, сопровождение методиста-наставника, безлимитный доступ к разговорному клубу, отмены и переносы уроков без ограничений.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "688b44f94d7c71cdcd3c995a",
+    "name": "Английский для подростков",
+    "tariff": "",
+    "school": "Инглекс",
+    "school_alias": "ingleks",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61e5840a26a23700216499ca.svg?v=0.24",
+    "school_rating": 4.7,
+    "school_reviews_count": 42,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/688b44f94d7c71cdcd3c995a/7IIj5imrTpD91GjRbtv4P.png",
+    "course_url": "https://englex.ru/kids-courses/teen/?promocode=sravni&utm_source=partners_website&utm_medium=sravniru",
+    "price": 12900,
+    "price_all": 12900,
+    "price_original": 21600,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 10,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "beginner",
+      "elementary",
+      "intermediate",
+      "upintermediate",
+      "languageEnglish"
+    ],
+    "description": "Онлайн-обучение 1 на 1 с преподавателем для школьников 12‑17 лет. Занятия помогут развить навык общения и сформировать надежную базу для сдачи экзаменов.Стоимость обучения указана за 10 уроков по 45 минут. Также доступны занятия по 60 минут и пакеты по 20, 40 и 80 уроков.Можно выбрать тариф «Премиальный»: репетиторы с опытом от 10 лет, сопровождение методиста-наставника, безлимитный доступ к разговорному клубу, отмены и переносы уроков без ограничений.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a33a9f9d246d595c087d80",
+    "name": "Английский для подготовки к экзаменам",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66a33a9f9d246d595c087d80/WbhST4tdBGVpX6nf1_zZd.png",
+    "course_url": "https://anecole.com/english-exams?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Английский язык"
+    ],
+    "reasons": [
+      "forUnifiedExam",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "toefl",
+      "ket",
+      "pet",
+      "fce",
+      "cae",
+      "cpe",
+      "languageEnglish"
+    ],
+    "description": "Индивидуальные занятия с преподавателем для тех, кто готовится к ЕГЭ или международным экзаменам.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6552fa0fa7e2a9002ae03a6b",
+    "name": "Французский для детей",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6552fa0fa7e2a9002ae03a6b/MABFuJexc98YPWHFwxsCF.png",
+    "course_url": "https://anecole.com/french/kids?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Французский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageFrench"
+    ],
+    "description": "Изучение французского языка по индивидуальному плану: преподаватели помогут разобраться в школьной программе, начать с нуля или погрузиться в разговорный язык для поездок, международных лагерей и общения с новыми друзьями.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6552fbbecc1d3800261fed36",
+    "name": "Французский для подготовки к экзаменам",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6552fbbecc1d3800261fed36/H-8fb9umkpf224LbkLKWY.png",
+    "course_url": "https://anecole.com/french-exams?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Французский язык"
+    ],
+    "reasons": [
+      "forUnifiedExam",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageFrench"
+    ],
+    "description": "Курс для тех, кто хочет подготовиться к DELF Prim, DALF Junior или ЕГЭ по французскому языку.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6552fea9705f142443c3d729",
+    "name": "Французский язык. Индивидуальные занятия",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6552fea9705f142443c3d729/8RiwP2Vhp4ZY6eYJ4LDZi.png",
+    "course_url": "https://anecole.com/french/individual?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие",
+      "Французский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageFrench"
+    ],
+    "description": "Изучение языка по персональной программе в зависимости от целей и уровня ученика.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6553212b705f142f67c4304a",
+    "name": "Испанский язык. Индивидуальные занятия",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6553212b705f142f67c4304a/TV1Iy0btb1njqjrI8uwQv.png",
+    "course_url": "https://anecole.com/spanish/individual?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие",
+      "Испанский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageSpanish"
+    ],
+    "description": "Изучение языка по персональной программе в зависимости от целей и уровня ученика.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "655321ff4ea276002a2b248c",
+    "name": "Испанский для детей",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/655321ff4ea276002a2b248c/rHhXt0T1N7hqRs9IQGT6C.png",
+    "course_url": "https://anecole.com/spanish/kids?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Испанский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageSpanish"
+    ],
+    "description": "Курс поможет закрыть пробелы и сделать испанский частью повседневной жизни.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "655333fca7e2a9002ae3804e",
+    "name": "Английский для детей",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/655333fca7e2a9002ae3804e/9OrJQMaoaas9x-0jSYziq.png",
+    "course_url": "https://anecole.com/english/kids?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Английский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages",
+      "forMainExam"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "spokenEnglish",
+      "languageEnglish"
+    ],
+    "description": "Курс поможет закрыть пробелы и сделать английский частью повседневной жизни.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65533742bfda635eb2fc5bfc",
+    "name": "Английский язык. Индивидуальные занятия",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65533742bfda635eb2fc5bfc/bIUHrCX9EwDoiqVPVnxjR.png",
+    "course_url": "https://anecole.com/english/individual?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие",
+      "Английский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "beginner",
+      "elementary",
+      "intermediate",
+      "upintermediate",
+      "spokenEnglish",
+      "languageEnglish"
+    ],
+    "description": "Изучение языка по персональной программе в зависимости от целей и уровня ученика.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65533f37705f14431cc48b5b",
+    "name": "Немецкий язык. Индивидуальные занятия",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65533f37705f14431cc48b5b/8P40alWfEiHrOwEH6Ho4k.png",
+    "course_url": "https://anecole.com/german/individual?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Немецкий язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageGerman"
+    ],
+    "description": "Изучение языка по персональной программе в зависимости от целей и уровня ученика.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65a8e82a011739011df5d85f",
+    "name": "Итальянский язык. Индивидуальные занятия",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65a8e82a011739011df5d85f/oGoEJALhrXYldDpyl3I6d.png",
+    "course_url": "https://anecole.com/italian/individual?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие",
+      "courseItalian"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageItalian"
+    ],
+    "description": "Изучение языка по персональной программе в зависимости от целей и уровня ученика.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65a8ebeefc169a614fe3de31",
+    "name": "Китайский язык. Индивидуальные занятия",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65a8ebeefc169a614fe3de31/wgJwZb9sbKfmtUNrbsSLG.png",
+    "course_url": "https://anecole.com/chinese/individual?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие",
+      "Китайский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageChinese"
+    ],
+    "description": "Изучение языка по персональной программе в зависимости от целей и уровня ученика.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65a8effc30f748a50dbbd80b",
+    "name": "Итальянский для детей",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65a8effc30f748a50dbbd80b/H4GNYoLrjhiIXykUo2R2O.png",
+    "course_url": "https://anecole.com/italian/kids?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "courseItalian",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageItalian"
+    ],
+    "description": "Изучение итальянского языка по индивидуальному плану: преподаватели помогут разобраться в школьной программе, начать с нуля или погрузиться в разговорный язык для поездок, международных лагерей и общения с новыми друзьями.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65a8f13577e1467a923dccfa",
+    "name": "Китайский для детей",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65a8f13577e1467a923dccfa/FAMOxKDpMAScSvnqJ4KOW.png",
+    "course_url": "https://anecole.com/chinese/kids?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Развитие",
+      "Китайский язык"
+    ],
+    "reasons": [
+      "forLearnLanguages",
+      "forLearning"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageChinese"
+    ],
+    "description": "Курс поможет закрыть пробелы в знаниях и сделать китайский частью повседневной жизни.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65a8f3df30f74808e9bbe04f",
+    "name": "Португальский язык. Индивидуальные занятия",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65a8f3df30f74808e9bbe04f/ZSJqHQjyrK7kjz9Cc7J11.png",
+    "course_url": "https://anecole.com/portuguese/individual?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие",
+      "coursePortuguese"
+    ],
+    "reasons": [
+      "forLearnLanguages",
+      "forLearning"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languagePortu"
+    ],
+    "description": "Изучение языка по персональной программе в зависимости от целей и уровня ученика.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a3383a9fcac77f00af303e",
+    "name": "Испанский для подготовки к экзаменам",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66a3383a9fcac77f00af303e/cq0ntmgw-szBS-Hsi2TJc.png",
+    "course_url": "https://anecole.com/spanish-exams?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Испанский язык"
+    ],
+    "reasons": [
+      "forUnifiedExam",
+      "forLearnLanguages",
+      "forMainExam"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageSpanish"
+    ],
+    "description": "Индивидуальные занятия с преподавателем для тех, кто готовится к DELE Escolar, SIELE или школьным экзаменам.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a33de6ab466507ad1a4c90",
+    "name": "Немецкий для детей",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66a33de6ab466507ad1a4c90/rP69UkXTzD04ZeWtC62UB.png",
+    "course_url": "https://anecole.com/german/kids?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Немецкий язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages",
+      "forLearning"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageGerman"
+    ],
+    "description": "Курс поможет закрыть пробелы и сделать немецкий частью повседневной жизни.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a33e56ab466507ad1a4caa",
+    "name": "Немецкий для подготовки к экзаменам",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66a33e56ab466507ad1a4caa/le3jVXQ_KLgFKdyvGHpxY.png",
+    "course_url": "https://anecole.com/german-exams?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Немецкий язык"
+    ],
+    "reasons": [
+      "forUnifiedExam",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageGerman"
+    ],
+    "description": "Курс для тех, кто хочет подготовиться к Goethe-Zertifikat, Fit in Deutsch и другим уровням или ЕГЭ по немецкому языку.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a365c1e3502a6d6590f6a5",
+    "name": "Португальский для детей",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65a8f3df30f74808e9bbe04f/ZSJqHQjyrK7kjz9Cc7J11.png",
+    "course_url": "https://anecole.com/portuguese/kids?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Развитие",
+      "coursePortuguese"
+    ],
+    "reasons": [
+      "forLearnLanguages",
+      "forLearning"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languagePortu"
+    ],
+    "description": "Курс поможет закрыть пробелы и сделать португальский частью повседневной жизни.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a36f939d246d595c088843",
+    "name": "Китайский для путешествий",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66a36f939d246d595c088843/vO0Atm13WhsGHce6FU5Nk.png",
+    "course_url": "https://anecole.com/chinese-travel?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие",
+      "Китайский язык"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageChinese"
+    ],
+    "description": "Курс поможет изучить китайский, чтобы чувствовать себя уверенно во время поездок и заводить новые знакомства в путешествиях.Обучение проходит 1 на 1 с преподавателем на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a370d49fcac77f00af3a90",
+    "name": "Французский для путешествий",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66a370d49fcac77f00af3a90/m2nkGP3tpi8s2Wilk_x0q.png",
+    "course_url": "https://anecole.com/french-travel?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие",
+      "Французский язык"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageFrench"
+    ],
+    "description": "Курс поможет изучить французский, чтобы чувствовать себя уверенно во время поездок и заводить новые знакомства в путешествиях.Обучение проходит 1 на 1 с преподавателем на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a37152ab466507ad1a564e",
+    "name": "Немецкий для путешествий",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65533f37705f14431cc48b5b/8P40alWfEiHrOwEH6Ho4k.png",
+    "course_url": "https://anecole.com/german-travel?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Немецкий язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageGerman"
+    ],
+    "description": "Курс поможет изучить немецкий, чтобы чувствовать себя уверенно во время поездок и заводить новые знакомства в путешествиях.Обучение проходит 1 на 1 с преподавателем на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a372339fcac77f00af3af3",
+    "name": "Итальянский для путешествий",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65a8e82a011739011df5d85f/oGoEJALhrXYldDpyl3I6d.png",
+    "course_url": "https://anecole.com/italian-travel?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "courseItalian",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageItalian"
+    ],
+    "description": "Курс поможет изучить итальянский, чтобы чувствовать себя уверенно во время поездок и заводить новые знакомства в путешествиях.Обучение проходит 1 на 1 с преподавателем на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a3728de3502a6d6590f934",
+    "name": "Испанский для путешествий",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6553212b705f142f67c4304a/TV1Iy0btb1njqjrI8uwQv.png",
+    "course_url": "https://anecole.com/spanish-travel?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие",
+      "Испанский язык"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageSpanish"
+    ],
+    "description": "Курс поможет изучить испанский, чтобы чувствовать себя уверенно во время поездок и заводить новые знакомства в путешествиях.Обучение проходит 1 на 1 с преподавателем на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a373119d246d595c088906",
+    "name": "Английский для путешествий",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66a373119d246d595c088906/LJtJZwd1rw-Zm20yXeMSA.png",
+    "course_url": "https://anecole.com/english-travel?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие",
+      "Английский язык"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "forTravel",
+      "languageEnglish"
+    ],
+    "description": "Курс поможет изучить английский, чтобы чувствовать себя уверенно во время поездок и заводить новые знакомства в путешествиях.Обучение проходит 1 на 1 с преподавателем на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a373c19fcac77f00af3b49",
+    "name": "Португальский для путешествий",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65a8f3df30f74808e9bbe04f/ZSJqHQjyrK7kjz9Cc7J11.png",
+    "course_url": "https://anecole.com/portuguese-travel?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие",
+      "coursePortuguese"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languagePortu"
+    ],
+    "description": "Курс поможет изучить португальский, чтобы чувствовать себя уверенно во время поездок и заводить новые знакомства в путешествиях.Обучение проходит 1 на 1 с преподавателем на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a37606ab466507ad1a5731",
+    "name": "Китайский для подготовки к экзаменам",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66a37606ab466507ad1a5731/9_b2YnRyW8Da52P_rv04R.png",
+    "course_url": "https://anecole.com/chinese-exams?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Китайский язык"
+    ],
+    "reasons": [
+      "forLearnLanguages",
+      "forUnifiedExam"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageChinese"
+    ],
+    "description": "Индивидуальные занятия с преподавателем для тех, кто готовится к YCT, HSK и школьным экзаменам.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a3798dab466507ad1a585a",
+    "name": "Итальянский для подготовки к экзаменам",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65a8e82a011739011df5d85f/oGoEJALhrXYldDpyl3I6d.png",
+    "course_url": "https://anecole.com/italian-exams?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "courseItalian"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageItalian"
+    ],
+    "description": "Курс для тех, кто хочет подготовиться к CELI, CILS или школьным экзаменам по итальянскому языку.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a37ed09fcac77f00af3e86",
+    "name": "Португальский для подготовки к экзаменам",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65a8f3df30f74808e9bbe04f/ZSJqHQjyrK7kjz9Cc7J11.png",
+    "course_url": "https://anecole.com/portuguese-exams?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "coursePortuguese"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languagePortu"
+    ],
+    "description": "Индивидуальные занятия с преподавателем для тех, кто готовится к международным экзаменам.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a38139e3502a6d6590fcdd",
+    "name": "Китайский для переезда и жизни",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66a38139e3502a6d6590fcdd/JomKBLi82m0vJEum5SnvM.png",
+    "course_url": "https://anecole.com/chinese-move?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие",
+      "Китайский язык"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageChinese"
+    ],
+    "description": "Курс поможет уверенно овладеть китайским языком для жизни и учебы за рубежом.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a38206e3502a6d6590fd44",
+    "name": "Французский для переезда и жизни",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6552fea9705f142443c3d729/8RiwP2Vhp4ZY6eYJ4LDZi.png",
+    "course_url": "https://anecole.com/french-move?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие",
+      "Французский язык"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageFrench"
+    ],
+    "description": "Курс поможет уверенно овладеть французским языком для жизни и учебы за рубежом.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a38274e3502a6d6590fd69",
+    "name": "Немецкий для переезда и жизни",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65533f37705f14431cc48b5b/8P40alWfEiHrOwEH6Ho4k.png",
+    "course_url": "https://anecole.com/german-move?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Немецкий язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageGerman"
+    ],
+    "description": "Курс поможет уверенно овладеть немецким языком для жизни и учебы за рубежом.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a382deab466507ad1a5d01",
+    "name": "Итальянский для переезда и жизни",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65a8e82a011739011df5d85f/oGoEJALhrXYldDpyl3I6d.png",
+    "course_url": "https://anecole.com/italian-move?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "courseItalian",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageItalian"
+    ],
+    "description": "Курс поможет уверенно овладеть итальянским языком для жизни и учебы за рубежом.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a3831de3502a6d6590fda8",
+    "name": "Испанский для переезда и жизни",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6553212b705f142f67c4304a/TV1Iy0btb1njqjrI8uwQv.png",
+    "course_url": "https://anecole.com/spanish-move?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие",
+      "Испанский язык"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageSpanish"
+    ],
+    "description": "Курс поможет уверенно овладеть испанским языком для жизни и учебы за рубежом.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a3837e9fcac77f00af4024",
+    "name": "Английский для переезда и жизни",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65533742bfda635eb2fc5bfc/bIUHrCX9EwDoiqVPVnxjR.png",
+    "course_url": "https://anecole.com/english-move?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие",
+      "Английский язык"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "spokenEnglish",
+      "languageEnglish"
+    ],
+    "description": "Курс поможет уверенно овладеть английским языком для жизни и учебы за рубежом.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66a3846b9d246d595c088e80",
+    "name": "Португальский для переезда и жизни",
+    "tariff": "",
+    "school": "Anecole",
+    "school_alias": "anecole",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6543840429857700260b8d22.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 38,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65a8f3df30f74808e9bbe04f/ZSJqHQjyrK7kjz9Cc7J11.png",
+    "course_url": "https://anecole.com/portuguese-move?utm_source=sravni",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 8,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие",
+      "coursePortuguese"
+    ],
+    "reasons": [
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languagePortu"
+    ],
+    "description": "Курс поможет уверенно овладеть португальским языком для жизни и учебы за рубежом.Уроки проходят на интерактивной платформе с геймифицированными упражнениями, встроенной видеосвязью и тренажёром для запоминания слов.Стоимость указана за пакет из 8 занятий. Также доступны пакеты по 32, 64, 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65bba97b35c4ec2f66498db5",
+    "name": "Английский онлайн — разговорные клубы для детей",
+    "tariff": "",
+    "school": "ILS",
+    "school_alias": "ils",
+    "school_logo": "https://s37498.cos.ngenix.net/organizations/logotypes/square/65ba3ed329fdc6002af3bda4.svg?v=0.71",
+    "school_rating": 4.7,
+    "school_reviews_count": 63,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65bba97b35c4ec2f66498db5/rpUP2KUeZZ5o_YsUfIr3s.png",
+    "course_url": "https://ils-school.com/razgovornye-kluby?utm_source=sravni&utm_medium=cpa",
+    "price": 12240,
+    "price_all": 12240,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 3,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Английский язык",
+      "Развитие"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "beginner",
+      "elementary",
+      "intermediate",
+      "upintermediate",
+      "advanced",
+      "spokenEnglish",
+      "languageEnglish"
+    ],
+    "description": "Английский разговорный клуб онлайн для практики разговорной речи и совершенствования грамматики.Стоимость обучения указана за абонемент на 3 месяца. Также можно приобрести абонементы на 1 неделю, 1 или 9 месяцев.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65bceccf3416260fad9d1766",
+    "name": "Английский онлайн для школьников 7-17 лет",
+    "tariff": "",
+    "school": "ILS",
+    "school_alias": "ils",
+    "school_logo": "https://s37498.cos.ngenix.net/organizations/logotypes/square/65ba3ed329fdc6002af3bda4.svg?v=0.71",
+    "school_rating": 4.7,
+    "school_reviews_count": 63,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65bceccf3416260fad9d1766/n_p0bXNuSgjKwXYvjHUZ2.png",
+    "course_url": "https://ils-school.com/anglijskij-yazyk-onlajn-dlya-shkolnikov?utm_source=sravni&utm_medium=cpa",
+    "price": 47520,
+    "price_all": 47520,
+    "price_original": 79200,
+    "price_installment": 4285,
+    "time_installment": 0,
+    "time_months": 9,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "1-11 класс",
+    "directions": [
+      "Английский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forUnifiedExam",
+      "forMainExam",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageEnglish"
+    ],
+    "description": "Курс поможет подтянуть английский в школе на 5+, сдать ЕГЭ и ОГЭ на высокие баллы, а также научит делать домашнее задание самостоятельно без помощи взрослых. Учебные группы рассчитаны на три возрастные категории учеников: младший, средний и старший возраст. Обучение проходит в группах от 4 до 6 человек.Стоимость курса указана за 9 месяцев обучения в группе. Также можно выбрать пакеты на 1 и 3 месяца. Возможно индивидуальное обучение.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65bcf2bc81a32d5442e2f5d5",
+    "name": "Китайский онлайн для детей",
+    "tariff": "",
+    "school": "ILS",
+    "school_alias": "ils",
+    "school_logo": "https://s37498.cos.ngenix.net/organizations/logotypes/square/65ba3ed329fdc6002af3bda4.svg?v=0.71",
+    "school_rating": 4.7,
+    "school_reviews_count": 63,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65bcf2bc81a32d5442e2f5d5/QRqddcFmBwWE_IyowIhKO.png",
+    "course_url": "https://ils-school.com/online-kursy-yazykov/kitayskiy-online/detyam?utm_source=sravni&utm_medium=cpa",
+    "price": 47520,
+    "price_all": 47520,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 18,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "1-9 класс",
+    "directions": [
+      "Развитие",
+      "Китайский язык"
+    ],
+    "reasons": [
+      "forLearning",
+      "forLearnLanguages"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageChinese"
+    ],
+    "description": "Занятия по изучению китайского языка для детей 7-16 лет в группе по 4-10 человек.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Skyeng",
+    "slug": "skyeng",
+    "rating": 4.68,
+    "reviews_count": 1568,
+    "logo": "https://cdn.sravni.ru/education/organization/logo/skyeng.svg",
+    "website": "https://skyeng.ru",
+    "url": "/school/skyeng/"
+  },
+  {
+    "id": 2,
+    "name": "Skillbox",
+    "slug": "skillbox",
+    "rating": 4.82,
+    "reviews_count": 2881,
+    "logo": "https://cdn.sravni.ru/education/organization/logo/skillbox.svg",
+    "website": "https://skillbox.ru",
+    "url": "/school/skillbox/"
+  },
+  {
+    "id": 3,
+    "name": "Тетрика",
+    "slug": "tetrika",
+    "rating": 4.81,
+    "reviews_count": 3762,
+    "logo": "",
+    "website": "https://tetrika.ru",
+    "url": "/school/tetrika/"
+  },
+  {
+    "id": 4,
+    "name": "Учи.ру",
+    "slug": "uchi-ru",
+    "rating": 4.61,
+    "reviews_count": 2100,
+    "logo": "https://cdn.sravni.ru/education/organization/logo/uchi.svg",
+    "website": "https://uchi.ru",
+    "url": "/school/uchi-ru/"
+  },
+  {
+    "id": 5,
+    "name": "Нетология",
+    "slug": "netology",
+    "rating": 4.75,
+    "reviews_count": 1856,
+    "logo": "https://cdn.sravni.ru/education/organization/logo/netology.svg",
+    "website": "https://netology.ru",
+    "url": "/school/netology/"
+  },
+  {
+    "id": 6,
+    "name": "GeekBrains",
+    "slug": "geekbrains",
+    "rating": 4.52,
+    "reviews_count": 1423,
+    "logo": "https://cdn.sravni.ru/education/organization/logo/geekbrains.svg",
+    "website": "https://geekbrains.ru",
+    "url": "/school/geekbrains/"
+  },
+  {
+    "id": 7,
+    "name": "Яндекс Практикум",
+    "slug": "yandex-practicum",
+    "rating": 4.91,
+    "reviews_count": 3421,
+    "logo": "https://cdn.sravni.ru/education/organization/logo/practicum.svg",
+    "website": "https://practicum.yandex.ru",
+    "url": "/school/yandex-practicum/"
+  },
+  {
+    "id": 8,
+    "name": "OTUS",
+    "slug": "otus",
+    "rating": 4.67,
+    "reviews_count": 876,
+    "logo": "https://cdn.sravni.ru/education/organization/logo/otus.svg",
+    "website": "https://otus.ru",
+    "url": "/school/otus/"
+  }
+]

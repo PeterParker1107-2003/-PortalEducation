@@ -1,0 +1,4643 @@
+[
+  {
+    "id": "66d9a7d74f2137907986df63",
+    "name": "Онлайн-колледж: Графический дизайнер на базе 9 класса",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66d9a7d74f2137907986df63/3dBn6oeD5Tn19fO3IK7XF.png",
+    "course_url": "https://spo.skillbox.ru/graph-design?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&skb_cpa_transaction_id={transaction_id}",
+    "price": 283500,
+    "price_all": 283500,
+    "price_original": 405000,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 34,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "10-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "designGraphic"
+    ],
+    "description": "Изучение дизайна и графики — с самых основ до продвинутых знаний. Курс поможет освоить не только графический, но и веб- и UX-дизайн, научит понимать тренды и сочетать в работе разные востребованные технологии.Также доступен очный формат обучения.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "685405c7bfc268b585f16e8d",
+    "name": "Онлайн-колледж: Веб-разработчик на базе 9 класса",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/685405c7bfc268b585f16e8d/3EF-JjdhAhQNAi2vhHjnA.png",
+    "course_url": "https://spo.skillbox.ru/web-development?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&skb_cpa_transaction_id={transaction_id}",
+    "price": 453600,
+    "price_all": 453600,
+    "price_original": 648000,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 46,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "10-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "programmingWeb",
+      "languageJavaScript",
+      "languageTypeScript",
+      "languagePython",
+      "django",
+      "languageHTML",
+      "languagePHP",
+      "sql",
+      "laravel",
+      "flask",
+      "react"
+    ],
+    "description": "Обучение созданию сайтов, витрин интернет-магазинов, интерфейсов сервисов и приложений, проектированию автоматизированных систем. Освоение нескольких языков программирования: Pyhon, JavaScript, TypeScript, PHP, SQL.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "61f3cb7b9810fb00223f6fd8",
+    "name": "Программирование на Python",
+    "tariff": "",
+    "school": "Geekbrains",
+    "school_alias": "geekbrains",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767c3eae56ab001d91f80d.png",
+    "school_rating": 4.1,
+    "school_reviews_count": 2415,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/61f3cb7b9810fb00223f6fd8/Jx0mxnx1_iKZkAc08q35X.png",
+    "course_url": "https://gb.ru/courses/geek-school/python-pro",
+    "price": 94000,
+    "price_all": 94000,
+    "price_original": 94534,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 9,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "5-8 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languagePython",
+      "programmingGameDev",
+      "programmingWeb",
+      "chatbot"
+    ],
+    "description": "Python — это язык программирования, который используют в различных отраслях: от разработки сайтов до работы с искусственным интеллектом. У языка простой код и понятный синтаксис, ребятам легко работать с переменными, алгоритмами, функциями, командами. После обучения у детей останется фундамент знаний по программированию.Стоимость указана за обучение на базовой программе. Также доступна расширенная программа, состоящая из трех модулей (25 месяцев).",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "61f3e2aecc84730024d18488",
+    "name": "Программирование и создание игр на Scratch",
+    "tariff": "",
+    "school": "Geekbrains",
+    "school_alias": "geekbrains",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767c3eae56ab001d91f80d.png",
+    "school_rating": 4.1,
+    "school_reviews_count": 2415,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/61f3e2aecc84730024d18488/ItnqUcsxziL5Zgy1VrRcu.png",
+    "course_url": "https://gb.ru/courses/geek-school/scratch",
+    "price": 55526,
+    "price_all": 55526,
+    "price_original": 79324,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "2-3 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageScratch",
+      "programmingGameDev"
+    ],
+    "description": "На курсе ребенок сможет развиваться с нескольких сторон: научится программировать, раскроет творческий потенциал и станет увереннее. Уроки ведут ИТ-специалисты с педагогическим опытом. Они отвечают на вопросы ребят и бережно дают обратную связь.Стоимость указана за обучение на базовой программе в группе. Также доступна расширенная программа, состоящая из трех модулей (24 месяца).",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6272682c87a9b800245cf67d",
+    "name": "Веб-дизайн",
+    "tariff": "",
+    "school": "Geekbrains",
+    "school_alias": "geekbrains",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767c3eae56ab001d91f80d.png",
+    "school_rating": 4.1,
+    "school_reviews_count": 2415,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6272682c87a9b800245cf67d/hSlpVdGzmYVZK7tQgEaQm.png",
+    "course_url": "https://gb.ru/courses/geek-school/web-design",
+    "price": 74400,
+    "price_all": 74400,
+    "price_original": 79324,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "4-8 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "designWeb",
+      "figma"
+    ],
+    "description": "На курсе расскажут об основах дизайна, научат создавать красивые, удобные и функциональные сайты, помогут освоить профессиональные программы.Стоимость указана за обучение на базовой программе. Также доступна расширенная программа, состоящая из трех модулей (24 месяца).",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "627283e987a9b800245d0126",
+    "name": "Minecraft: программирование на Python",
+    "tariff": "",
+    "school": "Geekbrains",
+    "school_alias": "geekbrains",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767c3eae56ab001d91f80d.png",
+    "school_rating": 4.1,
+    "school_reviews_count": 2415,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/627283e987a9b800245d0126/OPVXHCP-w2FHF13kxn1oF.png",
+    "course_url": "https://gb.ru/courses/geek-school/minecraft-python",
+    "price": 74400,
+    "price_all": 74400,
+    "price_original": 79324,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "4-5 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languagePython",
+      "programmingGameDev",
+      "minecraft"
+    ],
+    "description": "Курс научит ребенка писать код в любимой игре с помощью специальных программ-модификаций, а также делить большую задачу на части, планировать нагрузку и добиваться результата.Стоимость указана за обучение на базовой программе. Также доступна расширенная программа, состоящая из трех модулей (25 месяцев).",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6332d5f9411ae3002379bd21",
+    "name": "Создание сайтов",
+    "tariff": "",
+    "school": "Geekbrains",
+    "school_alias": "geekbrains",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767c3eae56ab001d91f80d.png",
+    "school_rating": 4.1,
+    "school_reviews_count": 2415,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6332d5f9411ae3002379bd21/x3O6-COh1jU2XBLCFt1fq.png",
+    "course_url": "https://gb.ru/courses/geek-school/website-development",
+    "price": 74400,
+    "price_all": 74400,
+    "price_original": 79324,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "4-8 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "programmingWeb",
+      "languageHTML",
+      "languageJavaScript"
+    ],
+    "description": "Веб-разработка — это процесс создания и поддержания работы сайтов и веб-приложений. В рамках курса ребенок не только попробует себя в профессии, но и разовьет навыки программирования и логического мышления.Стоимость указана за обучение на базовой программе в группе. Также доступна расширенная программа, состоящая из трех модулей (25 месяцев).",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6332d75c6d18d900237f35f1",
+    "name": "3D-моделирование в Blender",
+    "tariff": "",
+    "school": "Geekbrains",
+    "school_alias": "geekbrains",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767c3eae56ab001d91f80d.png",
+    "school_rating": 4.1,
+    "school_reviews_count": 2415,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6332d75c6d18d900237f35f1/CooMkxL4EIPE1JM1p3FAC.png",
+    "course_url": "https://gb.ru/courses/geek-school/3d",
+    "price": 74400,
+    "price_all": 74400,
+    "price_original": 79324,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "6-8 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "2dModel",
+      "blender"
+    ],
+    "description": "На курсе ребенок освоит программу Blender, улучшит пространственное и творческое мышление, потренируется работать в команде.Стоимость указана за обучение на базовой программе в группе. Также доступна расширенная программа, состоящая из трех модулей (25 месяцев).",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6332d8f16d18d900237f3654",
+    "name": "Анимация",
+    "tariff": "",
+    "school": "Geekbrains",
+    "school_alias": "geekbrains",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767c3eae56ab001d91f80d.png",
+    "school_rating": 4.1,
+    "school_reviews_count": 2415,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6332d8f16d18d900237f3654/-JbsveZfl8zMVpwyyAjDS.png",
+    "course_url": "https://gb.ru/courses/geek-school/animation-pro",
+    "price": 74400,
+    "price_all": 74400,
+    "price_original": 79324,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "4-5 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "cartoon",
+      "3dAnim"
+    ],
+    "description": "На курсе научат придумывать идеи и эскизы, писать сценарии и диалоги, прорабатывать персонажей и локации, создавать озвучку и монтировать мультфильм.Стоимость указана за обучение на базовой программе в группе. Также доступна расширенная программа, состоящая из трех модулей (24 месяца).",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6332db42411ae3002379be38",
+    "name": "Компьютерная грамотность",
+    "tariff": "",
+    "school": "Geekbrains",
+    "school_alias": "geekbrains",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767c3eae56ab001d91f80d.png",
+    "school_rating": 4.1,
+    "school_reviews_count": 2415,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6332db42411ae3002379be38/zygN3A743GmRz6_zB3l-Q.png",
+    "course_url": "https://gb.ru/courses/geek-school/literacy",
+    "price": 26433,
+    "price_all": 26433,
+    "price_original": 37762,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 4,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "2-3 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "computer_literacy"
+    ],
+    "description": "В рамках курса ребенок познакомится с IT-профессиями, разовьет критическое мышление, научится осознанно работать в интернете.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "63430ee7b5bc2200287158c5",
+    "name": "Программирование и 3D-моделирование в Minecraft",
+    "tariff": "",
+    "school": "Geekbrains",
+    "school_alias": "geekbrains",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767c3eae56ab001d91f80d.png",
+    "school_rating": 4.1,
+    "school_reviews_count": 2415,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/63430ee7b5bc2200287158c5/_h8kNuFUEROsuZA0zJN-Q.png",
+    "course_url": "https://gb.ru/courses/geek-school/minecraft-for-kids",
+    "price": 74400,
+    "price_all": 74400,
+    "price_original": 79324,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "2-3 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "programmingGameDev",
+      "2dModel",
+      "minecraft"
+    ],
+    "description": "Курс научит управлять поведением персонажей, изменять игровой мир и даже сделать свой сервер — все это с помощью сложных алгоритмов и визуального программирования.Стоимость указана за обучение на базовой программе в группе. Также доступна расширенная программа, состоящая из трех модулей (24 месяца).",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "63431043aa03b900273e90aa",
+    "name": "Разработка игр на Unity",
+    "tariff": "",
+    "school": "Geekbrains",
+    "school_alias": "geekbrains",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767c3eae56ab001d91f80d.png",
+    "school_rating": 4.1,
+    "school_reviews_count": 2415,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/63431043aa03b900273e90aa/Wdlw4eLmaxlerEEyZikvb.png",
+    "course_url": "https://gb.ru/courses/geek-school/gamedev",
+    "price": 74400,
+    "price_all": 74400,
+    "price_original": 79324,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "6-8 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "unity",
+      "programmingGameDev",
+      "languageCSharp"
+    ],
+    "description": "Ребёнок научится работать с функциями, алгоритмами, переменными, циклами, закрепит навыки на языке программирования С# и начнёт работать с искусственным интеллектом.Стоимость указана за обучение на базовой программе в группе. Также доступна расширенная программа, состоящая из трех модулей (24 месяца).",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6344704b0c7d070027c74baa",
+    "name": "Графический дизайн",
+    "tariff": "",
+    "school": "Geekbrains",
+    "school_alias": "geekbrains",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767c3eae56ab001d91f80d.png",
+    "school_rating": 4.1,
+    "school_reviews_count": 2415,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6344704b0c7d070027c74baa/sexNDR3d2K3LI2LnDdEPx.png",
+    "course_url": "https://gb.ru/courses/geek-school/graphic-design",
+    "price": 74400,
+    "price_all": 74400,
+    "price_original": 79324,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "6-8 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "designGraphic"
+    ],
+    "description": "Курс научит ребенка создавать коммерческие продукты, анализировать запросы клиентов, понимать их проблемы и тестировать разные решения, а также поможет освоить профессиональные программы для дизайнера — Adobe Photoshop, Illustrator, InDesign.Стоимость указана за обучение на базовой программе в группе. Также доступна расширенная программа, состоящая из трех модулей (24 месяца).",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "63a40a8ac477da002873644a",
+    "name": "Кибербезопасность и приложения на Python",
+    "tariff": "",
+    "school": "Geekbrains",
+    "school_alias": "geekbrains",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767c3eae56ab001d91f80d.png",
+    "school_rating": 4.1,
+    "school_reviews_count": 2415,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/63a40a8ac477da002873644a/MZOPXi7_B6_sW9um_mvaQ.png",
+    "course_url": "https://gb.ru/courses/geek-school/python-security",
+    "price": 74400,
+    "price_all": 74400,
+    "price_original": 79324,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "5-8 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languagePython",
+      "adminIb",
+      "administration"
+    ],
+    "description": "На курсе можно узнать, как устранять компьютерные уязвимости, запускать виртуальные машины, противостоять хакерским атакам и защищать пароли и сети. Также в процессе обучения предусмотрена работа с библиотеками и приложениями на Python.Стоимость указана за обучение на базовой программе в группе. Также доступна расширенная программа, состоящая из трех модулей (25 месяцев).",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "61fbe0b03ddf950024825809",
+    "name": "Создание игр в Unity",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/61fbe0b03ddf950024825809/Lzn0sFBP8sTa1EaNnL5HC.png",
+    "course_url": "https://foxford.ru/courses/11531/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 17100,
+    "price_all": 17100,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 25,
+    "time_all_hour": 0,
+    "grades": "7-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "unity",
+      "programmingGameDev",
+      "languageCSharp"
+    ],
+    "description": "Курс о создании игр на Unity, включающий темы: сцена, объекты, прототипирование, физика в Unity, частицы, Unity Bolt, работа с ассетами.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6385eb3a1767a300263826ee",
+    "name": "3D-моделирование в Blender",
+    "tariff": "в записи",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6385eb3a1767a300263826ee/Vym83XGzVH1oeINZYq5Da.png",
+    "course_url": "https://foxford.ru/courses/11532/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 17100,
+    "price_all": 17100,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 24,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "2dModel",
+      "blender",
+      "3D_character_creation"
+    ],
+    "description": "Курс позволит изучить основы создания персонажей в разных программах и освоить принципы моделирования на интересных примерах.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6385ec5d1767a30026382718",
+    "name": "Дизайн сайтов и приложений в Figma",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6385ec5d1767a30026382718/CnT2k_s4RPABSFDPkQnQ6.png",
+    "course_url": "https://foxford.ru/courses/11533/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 17100,
+    "price_all": 17100,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 24,
+    "time_all_hour": 0,
+    "grades": "7-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "designWeb",
+      "figma",
+      "designUX"
+    ],
+    "description": "Курс посвящен знакомству с ключевыми инструментами Figma. Включает работу с плагинами, шрифтами, палитрами, основными формами и цветовым кругом. Ученики узнают, в чём заключается работа веб-дизайнера, что такое UI и UX, чем они отличаются.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "645891e41fc23a002a3c58c0",
+    "name": "Программирование на Python. Базовый уровень",
+    "tariff": "в записи",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/645891e41fc23a002a3c58c0/r-Et6A1_FiWtTcc_SFfWG.png",
+    "course_url": "https://foxford.ru/courses/14775/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 17100,
+    "price_all": 17100,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 25,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languagePython",
+      "chatbot"
+    ],
+    "description": "Курс поможет начать изучать Python и почувствовать себя настоящим разработчиком. Ученики освоят базовые алгоритмы, научатся создавать ботов для перевода текста в речь, создадут первые серьезные проекты.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "645895eed27d9f002870c01b",
+    "name": "Администрирование сервера в Minecraft",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/645895eed27d9f002870c01b/Acf_4-Xyva2ybDAx8nXnl.png",
+    "course_url": "https://foxford.ru/courses/11529/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 17100,
+    "price_all": 17100,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 25,
+    "time_all_hour": 0,
+    "grades": "6-10 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "adminServer",
+      "minecraft"
+    ],
+    "description": "Курс о создании собственного сервера в Minecraft. Включает темы:основы обращения с хостингом и его настройка;установка ядра сервера на хостинг;установка и настройка плагинов для сервера;настройка и разбор BungeeCord.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66b051f539c178b2ab8193c9",
+    "name": "Индивидуальные занятия по программированию для детей 12-17 лет",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b051f539c178b2ab8193c9/KhL_dnY1lqsVbyujsiBdK.png",
+    "course_url": "https://foxford.ru/coach/courses/428/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 51744,
+    "price_all": 51744,
+    "price_original": 78400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languagePython",
+      "unity",
+      "languageJavaScript",
+      "languageHTML",
+      "languageCPlusPlus"
+    ],
+    "description": "Изучение Python, Unity, JavaScript, HTML, C++ и других языков программирования на выбор. Преподаватели из IT помогут разобраться в теме и воплотить задумки ученика в реальные проекты.Стоимость указана по тарифу «Стандарт» за 32 урока по 45 минут. Также можно выбрать тариф «Премиум»:уроки по 55 минут;репетиторы с лучшим рейтингом;курс в подарок;поддержка от преподавателя вне занятий;индивидуальный подход с учетом особенностей ученика.Можно выбрать пакеты от 4 до 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66b0592c39c178b2ab819440",
+    "name": "Индивидуальные занятия по программированию для детей 7-11 лет",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b0592c39c178b2ab819440/5X09nHyRBEm_N9EcwQDBE.png",
+    "course_url": "https://foxford.ru/coach/courses/388/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 51744,
+    "price_all": 51744,
+    "price_original": 78400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "1-5 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "computer_literacy",
+      "minecraft",
+      "languageScratch",
+      "languagePython"
+    ],
+    "description": "Изучение компьютерной грамотности, Minecraft, Scratch, Python и других направлений на выбор.Стоимость указана по тарифу «Стандарт» за 32 урока по 45 минут. Также можно выбрать тариф «Премиум»:уроки по 55 минут;репетиторы с лучшим рейтингом;курс в подарок;поддержка от преподавателя вне занятий;индивидуальный подход с учетом особенностей ученика.Можно выбрать пакеты от 4 до 128 уроков.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66b05a4fa5ba56552545dac8",
+    "name": "Компьютерная грамотность и кибербезопасность",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b05a4fa5ba56552545dac8/gxeQ9NKDrW3osVN6d6oki.png",
+    "course_url": "https://foxford.ru/courses/15376/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 7900,
+    "price_all": 7900,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 24,
+    "time_all_hour": 0,
+    "grades": "3-6 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "computer_literacy"
+    ],
+    "description": "Курс для тех, кто хочет научиться уверенно работать с компьютером и любит волшебные истории. В рамках программы ребёнок освоит работу с текстом, таблицами, презентациями и получит базовые цифровые навыки.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66b05c6139c178b2ab8194a0",
+    "name": "Курс Scratch для детей Начальный уровень",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b05c6139c178b2ab8194a0/Czs9KvuHClBdJWOUOon2R.png",
+    "course_url": "https://foxford.ru/courses/14776/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 12500,
+    "price_all": 12500,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 30,
+    "time_all_hour": 0,
+    "grades": "2-5 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageScratch",
+      "programmingGameDev"
+    ],
+    "description": "Курс для тех, кто хочет узнать, как создавать собственные компьютерные игры, интерактивные открытки и мультфильмы с помощью языка программирования Scratch.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66b05e3939c178b2ab8194d3",
+    "name": "Курс Алгоритмики и основ программирования",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b05e3939c178b2ab8194d3/aVjxl1pfERaIzibP8qvB9.png",
+    "course_url": "https://foxford.ru/courses/14773/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 9900,
+    "price_all": 9900,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 30,
+    "time_all_hour": 0,
+    "grades": "3-5 класс",
+    "directions": [
+      "Развитие",
+      "Информатика"
+    ],
+    "reasons": [
+      "forLearning",
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [],
+    "description": "Курс подготовит к изучению алгебры, геометрии и программирования, поможет развить логическое и абстрактное мышление, научиться моделировать сложные алгоритмы.Учеников ждут задачи на комбинаторику, причинно-следственные связи и переменные, а также работа над собственным проектом.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66b05fba39c178b2ab8194f3",
+    "name": "Основы компьютерной грамотности",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b05fba39c178b2ab8194f3/6gmRqI0kHmmuEIfTXR6zV.png",
+    "course_url": "https://foxford.ru/courses/14771/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 7900,
+    "price_all": 7900,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 24,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "computer_literacy"
+    ],
+    "description": "Курс для ребят, которые хотят научиться работать за компьютерами, пользоваться мышкой и клавиатурой, играть, рисовать и создавать творческие цифровые работы.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66b06190fed43456569de2d5",
+    "name": "Курс алгоритмики и основ информатики",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b06190fed43456569de2d5/YzJnaTqQwRxj6dxtgSVb4.png",
+    "course_url": "https://foxford.ru/courses/14772/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 9900,
+    "price_all": 9900,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 30,
+    "time_all_hour": 0,
+    "grades": "1-2 класс",
+    "directions": [
+      "Развитие",
+      "Информатика"
+    ],
+    "reasons": [
+      "forLearning",
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [],
+    "description": "Курс поможет подготовить базу для изучения информатики и математики в средней школе, развить логическое и абстрактное решение. Ребенок изучит дроби и доли, научится решать задачи на алгоритмы и сортировку, построение блок-схем и решение ребусов.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66b19983fed43456569e12b8",
+    "name": "Курс Scratch для детей Базовый уровень",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b19983fed43456569e12b8/swmHTIYvc5hzW2n1xXzrW.png",
+    "course_url": "https://foxford.ru/courses/14777/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 12500,
+    "price_all": 12500,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 30,
+    "time_all_hour": 0,
+    "grades": "3-6 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageScratch",
+      "programmingGameDev"
+    ],
+    "description": "Курс для ребят, уже умеющих программировать в Scratch. В уроках затрагиваются темы и навыки, которые помогут сделать игры ещё более интересными и красочными. Дети познакомятся с продвинутым инструментом работы с графикой, узнают секреты геймдизайна, сделают для игр режим мультиплеера и даже попробуют себя в 3D-пространстве.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66b19bf8a5ba5655254603d6",
+    "name": "Игровой курс по программированию: условия и логические операторы",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b19bf8a5ba5655254603d6/gzh_Zqi2iXmZ6NPE16Vpv.png",
+    "course_url": "https://foxford.ru/interactive-training/courses/9521/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 7000,
+    "price_all": 7000,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "2-5 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [],
+    "description": "На курсе дети в игровой форме пройдут по пути начинающего программиста от простых команд до алгоритмов с условиями, а также при помощи интересных загадок и головоломок познакомятся и научатся работать с логическими операторами И, ИЛИ и НЕ.Курс объясняет логику работы алгоритмов, не привязан к какому-либо языку программирования и подходит для тех, кто никогда не сталкивался с программированием раньше.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66b1a1916195711bad9c6750",
+    "name": "Игровой курс по программированию: переменные и списки",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b1a1916195711bad9c6750/Y5xsNu30yJXROEjflVjG8.png",
+    "course_url": "https://foxford.ru/interactive-training/courses/9520/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 3360,
+    "price_all": 3360,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "2-5 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [],
+    "description": "Ученики на примере загадок, ребусов и игровых ситуаций познакомятся с одним из важнейших понятий в программировании — переменной. Результатом прохождения курса станет понимание того, что такое переменные и списки, а также умение проводить различные операции.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66b1a375a5ba56552546045c",
+    "name": "Игровой курс по программированию: алгоритмы и циклы",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b1a375a5ba56552546045c/oo5fmsEOtf3QMOSsVr7fr.png",
+    "course_url": "https://foxford.ru/interactive-training/courses/10327/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 4200,
+    "price_all": 4200,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "2-5 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [],
+    "description": "Ученики через разнообразные сюжетные задачки и головоломки научатся читать, выполнять и самостоятельно создавать алгоритмы — от самых простых до более сложных с использованием циклов.Курс объясняет основы логики программирования, не привязан к какому-либо языку и подходит для тех, кто никогда не сталкивался с программированием раньше.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66b1a4bba5ba56552546048a",
+    "name": "Игровой курс по программированию: алгоритмы с координатами",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b1a4bba5ba56552546048a/DIjVbk-FILLrX-hGbINgV.png",
+    "course_url": "https://foxford.ru/interactive-training/courses/10329/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 4200,
+    "price_all": 4200,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "2-5 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [],
+    "description": "Курс в игровой форме знакомит ребенка с понятиями алгоритма и координат через сюжетные задания, головоломки и игры.Алгоритмы не привязаны к какому-либо языку программирования, и курс подходит для тех, кто никогда не сталкивался с программированием раньше.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66b2f50d36a71b21feaf7a33",
+    "name": "3D-моделирование в Blender",
+    "tariff": "в мини-группе",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b2f50d36a71b21feaf7a33/3VMkVkCsgldyTmg-8Tm5e.png",
+    "course_url": "https://foxford.ru/mini_groups/14770/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 46350,
+    "price_all": 46350,
+    "price_original": 51500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "2dModel",
+      "blender"
+    ],
+    "description": "Погружаясь в роль моделлера вымышленной компании, ребята научатся создавать 3D-модели, а также прокачают пространственное мышление и креативность.Занятия проходят в группах до 12 человек. Длительность занятия — 90 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66b2fa8983221aa7213baaba",
+    "name": "Программирование в Minecraft",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b2fa8983221aa7213baaba/CeXxB_BvZVwmycyM_pr91.png",
+    "course_url": "https://foxford.ru/mini_groups/14760/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 43920,
+    "price_all": 43920,
+    "price_original": 48800,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "3-7 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "minecraft",
+      "languageLua"
+    ],
+    "description": "Ребёнок изучит основы кодинга и команды для языка Lua. Научится работать с консолью, создавать файлы и удалённые сети. Курс — основа для изучения других языков программирования или углубления в Lua.Уроки проходят раз в неделю в группах до 6 человек. Длительность занятия — 45 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66b2ff9145e4891042d193a9",
+    "name": "Курс Unity для детей",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b2ff9145e4891042d193a9/G1jKa5WXBsX-41hmwniIP.png",
+    "course_url": "https://foxford.ru/mini_groups/14769/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 46350,
+    "price_all": 46350,
+    "price_original": 51500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "unity",
+      "programmingGameDev"
+    ],
+    "description": "Курс для ребят, которые любят придумывать свои миры и сюжеты и мечтают создавать игры. На занятиях ученики погрузятся в роль гейм-дизайнера вымышленной компании, научатся создавать собственные игры с нуля, работать в команде и доводить дело до конца.Уроки проходят в группах до 12 человек. Длительность занятия — 90 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66b301ed36a71b21feaf7b37",
+    "name": "Программирование на Python Продвинутый уровень",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b301ed36a71b21feaf7b37/9lOveHtUWH-lriSA2lxhi.png",
+    "course_url": "https://foxford.ru/mini_groups/14767/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 46350,
+    "price_all": 46350,
+    "price_original": 51500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languagePython",
+      "chatbot"
+    ],
+    "description": "Курс для ребят, которые хотят углубиться в изучение Python или планируют поступить в профильный ИТ-класс в школе. За время обучения ученики создадут реальные проекты IT-компаний, разработают до 20 чат-ботов для учебы и жизни.Занятия проходят в группах до 12 человек. Длительность урока — 90 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66b3062c83221aa7213babcf",
+    "name": "Курс Scratch для детей",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b3062c83221aa7213babcf/b5t06NoYMdUvNIFWZzXST.png",
+    "course_url": "https://foxford.ru/mini_groups/14764/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 46350,
+    "price_all": 46350,
+    "price_original": 51500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "2-5 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageScratch",
+      "programmingGameDev"
+    ],
+    "description": "Курс для ребят, которые хотят начать свой путь в программировании, любят игры и мультфильмы и мечтают создавать свои. На занятиях ребенок узнает, что такое переменные и координаты, создаст анимированные открытки и несколько игр.Уроки проходят в группах до 12 человек. Длительность занятия — 90 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66b30d4036a71b21feaf7c18",
+    "name": "Основы программирования в Minecraft",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b30d4036a71b21feaf7c18/H4gCU758aUMNRFHGMxxNQ.png",
+    "course_url": "https://foxford.ru/mini_groups/14755/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 43920,
+    "price_all": 43920,
+    "price_original": 48800,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "minecraft"
+    ],
+    "description": "На занятиях ученики подключаются к серверу и оказываются внутри огромного 3D-компьютера, где вместе решают логические задания и головоломки. Ребёнок создаст город в Minecraft, разберётся с устройством компьютера, разовьёт логику и креативность.Обучение проходит в группах до 6 человек. Длительность занятия — 45 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6846ba52b0aa81101eb5bad2",
+    "name": "Игровой курс по программированию: Схемы и программы",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66b1a375a5ba56552546045c/oo5fmsEOtf3QMOSsVr7fr.png",
+    "course_url": "https://foxford.ru/interactive-training/courses/10328/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 5600,
+    "price_all": 5600,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "2-5 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [],
+    "description": "Курс предназначен для развития аналитического и абстрактного мышления. Ребенок научится работать с информацией: анализировать ее, группировать, находить и обозначать различные связи, читать и понимать разнообразные схемы.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": false,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6846ca433fb651a37973b11a",
+    "name": "Программирование на Python Начальный уровень",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6846ca433fb651a37973b11a/VZgy5mWzm3ao53yC1-QLn.png",
+    "course_url": "https://foxford.ru/mini_groups/14765/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 46350,
+    "price_all": 46350,
+    "price_original": 51500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "3-5 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languagePython"
+    ],
+    "description": "Курс для ребят, которые любят задачки и креатив, а ещё для тех, кто хочет поступить в профильный IT-класс в школе. В игровом формате ученики освоят основы Python и создадут несложные программы.Занятия проходят в группах до 12 человек. Длительность урока — 90 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6846f179b0aa81101eb60f1c",
+    "name": "Нейросети и работа с данными",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6846f179b0aa81101eb60f1c/oWw8U_yNAauQ9M5I4phqB.png",
+    "course_url": "https://foxford.ru/mini_groups/14763/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 35721,
+    "price_all": 35721,
+    "price_original": 39690,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "5-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "analyticsNn",
+      "analyticsAi"
+    ],
+    "description": "На курсе ребёнок поймёт основные принципы работы с ИИ, научится писать запросы, разрабатывать стратегии взаимодействия с нейросетями и обучать модели под свои задачи.Обучение проходит в группах до 12 человек. Длительность занятия — 45 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6851cdf0d523c14a8be4ad04",
+    "name": "Программирование на Python Базовый уровень",
+    "tariff": "",
+    "school": "Фоксфорд",
+    "school_alias": "foksford",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61a9e2d6af876b00216b12d3.svg?v=0.3c",
+    "school_rating": 4.8,
+    "school_reviews_count": 182,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6851cdf0d523c14a8be4ad04/bHrTFyIvT7jyp4-sAkTAb.png",
+    "course_url": "https://foxford.ru/mini_groups/14766/landing?utm_source=sravni&utm_medium=cpa&utm_campaign=gen_all_all_common-regular&sr_click_id={transaction_id}",
+    "price": 46350,
+    "price_all": 46350,
+    "price_original": 51500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 8,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 0,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languagePython"
+    ],
+    "description": "Курс для ребят, которые любят задачки и креатив или ходят поступить в профильный IT-класс в школе. Во время обучения ученики попадут в вымышленную компанию: будут писать код, разрабатывать программы и игры, а также создадут до 12 проектов на Python.Уроки проходят в группе до 12 человек, длительность занятия — 90 минут.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6749892e6cdc0e4caf7c7bfb",
+    "name": "Основы Python для детей и подростков",
+    "tariff": "",
+    "school": "EasyPro Academy",
+    "school_alias": "easypro-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6749857b271d73002925b8a4.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 2,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6749892e6cdc0e4caf7c7bfb/BQ-XIfEBgBjq8Z8PZa8vu.png",
+    "course_url": "https://easypro.academy/courses/python?utm_source=sravni&utm_medium=cpl&utm_campaign=courses&click_id={transaction_id}",
+    "price": 31680,
+    "price_all": 31680,
+    "price_original": 0,
+    "price_installment": 7920,
+    "time_installment": 4,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "3-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languagePython"
+    ],
+    "description": "Курс научит синтаксису языка, созданию основных конструкций и принципам работы программ.Стоимость указана за индивидуальные уроки: полный курс из 32 занятий по 50 минут.Также доступно обучение в группах до 5 человек.Можно купить пакет занятий (4, 8, 16 или 32 урока) или оплачивать каждое отдельное занятие.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {}
+  },
+  {
+    "id": "67498fc50377d3a96e41e26a",
+    "name": "Создаем свои игры с нуля: Scratch",
+    "tariff": "",
+    "school": "EasyPro Academy",
+    "school_alias": "easypro-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6749857b271d73002925b8a4.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 2,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/67498fc50377d3a96e41e26a/hWfsRwhVvdY04H1fMT1MK.png",
+    "course_url": "https://easypro.academy/courses/scratch?utm_source=sravni&utm_medium=cpl&utm_campaign=courses&click_id={transaction_id}",
+    "price": 31680,
+    "price_all": 31680,
+    "price_original": 0,
+    "price_installment": 7920,
+    "time_installment": 4,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "1-6 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageScratch",
+      "programmingGameDev"
+    ],
+    "description": "Курс научит основам программирования через создание игр: блочный код, анимация и логика игровых механик.Стоимость указана за полный курс из 32 индивидуальных уроков по 50 минут. Также доступны уроки в группах до 5 человек.Можно купить пакет занятий (4, 8, 16 или 32 урока) или оплачивать каждое отдельное занятие.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {}
+  },
+  {
+    "id": "674995826cdc0e4caf7c8341",
+    "name": "Разработка в Minecraft на Python",
+    "tariff": "",
+    "school": "EasyPro Academy",
+    "school_alias": "easypro-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6749857b271d73002925b8a4.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 2,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/674995826cdc0e4caf7c8341/HOeeAdUcDj3sM65zOH-4C.png",
+    "course_url": "https://easypro.academy/courses/minecraft-python?utm_source=sravni&utm_medium=cpl&utm_campaign=courses&click_id={transaction_id}",
+    "price": 31680,
+    "price_all": 31680,
+    "price_original": 0,
+    "price_installment": 7920,
+    "time_installment": 4,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "3-7 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "minecraft",
+      "languagePython",
+      "programmingGameDev"
+    ],
+    "description": "Курс научит автоматизировать игру, создавать моды и управлять миром через Python-скрипты.Стоимость указана за индивидуальные уроки: полный курс из 32 занятий по 50 минут.Также доступно обучение в группах до 5 человек.Можно купить пакет занятий (4, 8, 16 или 32 урока) или оплачивать каждое отдельное занятие.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {}
+  },
+  {
+    "id": "6749990b0377d3a96e41ead2",
+    "name": "Создание 3D-игр в Unity + C#",
+    "tariff": "",
+    "school": "EasyPro Academy",
+    "school_alias": "easypro-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6749857b271d73002925b8a4.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 2,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6749990b0377d3a96e41ead2/ATcxRbugkzgvzefKy4PxS.png",
+    "course_url": "https://easypro.academy/courses/unity?utm_source=sravni&utm_medium=cpl&utm_campaign=courses&click_id={transaction_id}",
+    "price": 60800,
+    "price_all": 60800,
+    "price_original": 0,
+    "price_installment": 7600,
+    "time_installment": 8,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 64,
+    "time_all_hour": 0,
+    "grades": "5-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "programmingGameDev",
+      "unity",
+      "languageCSharp"
+    ],
+    "description": "Курс поможет погрузиться в геймдев: работа с движком Unity, C#-скриптинг и создание полноценных 3D-игр.Стоимость указана за индивидуальные уроки: полный курс из 64 занятий по 50 минут.Также доступно обучение в группах до 5 человек.Можно купить пакет занятий (8, 16, 32 или 64 урока) или оплачивать каждое отдельное занятие.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {}
+  },
+  {
+    "id": "67499af67da2fdc6089681c6",
+    "name": "Обучение в Minecraft Education",
+    "tariff": "",
+    "school": "EasyPro Academy",
+    "school_alias": "easypro-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6749857b271d73002925b8a4.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 2,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/67499af67da2fdc6089681c6/_ZMj8t_KcFMTNqnSR7xPI.png",
+    "course_url": "https://easypro.academy/courses/minecraft-education-edition?utm_source=sravni&utm_medium=cpl&utm_campaign=courses&click_id={transaction_id}",
+    "price": 31680,
+    "price_all": 31680,
+    "price_original": 0,
+    "price_installment": 7920,
+    "time_installment": 4,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "1-4 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "minecraft"
+    ],
+    "description": "Курс поможет изучить программирование и логику через образовательные проекты в Minecraft.Стоимость указана за индивидуальные уроки: полный курс из 32 занятий по 50 минут.Также доступно обучение в группах до 5 человек.Можно купить пакет занятий (4, 8, 16 или 32 урока) или оплачивать каждое отдельное занятие.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {}
+  },
+  {
+    "id": "67499fe3ecb68a0cb24c1894",
+    "name": "Web-разработка на JavaScript",
+    "tariff": "",
+    "school": "EasyPro Academy",
+    "school_alias": "easypro-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6749857b271d73002925b8a4.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 2,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/67499fe3ecb68a0cb24c1894/wi7Cim5CqeOXAKHg5CLFG.png",
+    "course_url": "https://easypro.academy/courses/javascript?utm_source=sravni&utm_medium=cpl&utm_campaign=courses&click_id={transaction_id}",
+    "price": 31680,
+    "price_all": 31680,
+    "price_original": 0,
+    "price_installment": 7920,
+    "time_installment": 4,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "4-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "programmingWeb",
+      "languageJavaScript",
+      "languageHTML",
+      "front"
+    ],
+    "description": "Курс научит создавать интерактивные сайты: верстка, динамический контент и основы frontend-разработки.Стоимость указана за индивидуальные уроки: полный курс из 32 занятий по 50 минут.Также доступно обучение в группах до 5 человек.Можно купить пакет занятий (4, 8, 16 или 32 урока) или оплачивать каждое отдельное занятие.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {}
+  },
+  {
+    "id": "6749a4536cdc0e4caf7c8daf",
+    "name": "Основы языка C++",
+    "tariff": "",
+    "school": "EasyPro Academy",
+    "school_alias": "easypro-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6749857b271d73002925b8a4.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 2,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6749a4536cdc0e4caf7c8daf/jfltnhJb1nqAaKgzgXpP9.png",
+    "course_url": "https://easypro.academy/courses/c-plus-plus?utm_source=sravni&utm_medium=cpl&utm_campaign=courses&click_id={transaction_id}",
+    "price": 31680,
+    "price_all": 31680,
+    "price_original": 0,
+    "price_installment": 7920,
+    "time_installment": 4,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "5-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "languageCPlusPlus"
+    ],
+    "description": "Курс поможет изучить синтаксис C++, принципы ООП и создание консольных приложений.Стоимость указана за индивидуальные уроки: полный курс из 32 занятий по 50 минут.Также доступно обучение в группах до 5 человек.Можно купить пакет занятий (4, 8, 16 или 32 урока) или оплачивать каждое отдельное занятие.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {}
+  },
+  {
+    "id": "6734b5004737a081bc04afed",
+    "name": "Онлайн-курсы программирования для детей и подростков",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6734b5004737a081bc04afed/A2JzqcFaYfSRA4leWWQ9C.png",
+    "course_url": "https://pixel.study/coding-for-children?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 36000,
+    "price_all": 36000,
+    "price_original": 43200,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 36,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "2dModel",
+      "designUX",
+      "designWeb",
+      "languagePython",
+      "languageScratch",
+      "minecraft",
+      "programmingGameDev",
+      "programmingWeb",
+      "gameDesign",
+      "front",
+      "full"
+    ],
+    "description": "Обучение программированию, созданию игр, 3D-моделированию и веб-дизайну на современных платформах. Курсы подойдут новичкам и продвинутым ученикам.Занятия проводятся в группе. Есть возможность заниматься индивидуально с преподавателем.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "63d2267760c4b5002ac32c7b",
+    "name": "Программирование для дошкольников",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/63d2267760c4b5002ac32c7b/rDtk23p80u1sOW4C0_Noc.png",
+    "course_url": "https://clubpixel.ru/programmirovanie-dlya-mladshikh-shkolnikov?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 12000,
+    "price_all": 12000,
+    "price_original": 13500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "programmingGameDev",
+      "languageScratch"
+    ],
+    "description": "Обучение работе в визуальных средах программирования Scratch Junior и Kodu Game Lab.Курс рассчитан на детей в возрасте от 5 до 7 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6525245d30c85bb771202a67",
+    "name": "Программирование для дошкольников",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6525245d30c85bb771202a67/uTSTlCuGNbnpmhIsSiZlj.png",
+    "course_url": "https://clubpixel.ru/programmirovanie-dlya-mladshikh-shkolnikov?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 15600,
+    "price_all": 15600,
+    "price_original": 17400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "programmingGameDev",
+      "languageScratch"
+    ],
+    "description": "Обучение работе в визуальных средах программирования Scratch Junior и Kodu Game Lab.Курс рассчитан на детей в возрасте от 5 до 7 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6525266330c85ba4f5202adc",
+    "name": "Python",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6525266330c85ba4f5202adc/31P3_1AdMNK5B6GlJ-1qg.png",
+    "course_url": "https://clubpixel.ru/python?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 15600,
+    "price_all": 15600,
+    "price_original": 17400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "4-8 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "languagePython",
+      "chatbot",
+      "programmingGameDev"
+    ],
+    "description": "Изучение языка программирования Python.Курс рассчитан на детей и подростков в возрасте от 10 до 14 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6502f65e58b4a2002bcb4e05",
+    "name": "Робототехника для дошкольников",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6502f65e58b4a2002bcb4e05/UYOyObQKxyieOVr_3BwLa.png",
+    "course_url": "https://clubpixel.ru/robototekhnika-dlya-doshkolnikov?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 12000,
+    "price_all": 12000,
+    "price_original": 13500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "robotics"
+    ],
+    "description": "Знакомство с робототехникой и блочным программированием. Дети познакомятся с конструированием с помощью наборов Lego WeDo 2.0 и овладеют начальными навыками программирования.Курс рассчитан на детей в возрасте 5-7 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6331b1d761381200231c6765",
+    "name": "Python в Minecraft",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6331b1d761381200231c6765/Jk0-e71njTIB-sQCrj3C8.png",
+    "course_url": "https://clubpixel.ru/minecraft?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 12000,
+    "price_all": 12000,
+    "price_original": 13500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "3-7 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "languagePython",
+      "minecraft"
+    ],
+    "description": "Обучение программированию на языке Python в увлекательной игре Minecraft.Курс рассчитан на детей и подростков в возрасте от 9 до 13 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6331b4c25433ba0024fe2ecb",
+    "name": "Python",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6331b4c25433ba0024fe2ecb/LpFRG7HSC6L0XDOFp1ldb.png",
+    "course_url": "https://clubpixel.ru/python?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 12000,
+    "price_all": 12000,
+    "price_original": 13500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "4-8 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "languagePython",
+      "chatbot",
+      "programmingGameDev"
+    ],
+    "description": "Изучение языка программирования Python.Курс рассчитан на детей и подростков в возрасте от 10 до 14 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6331b75961381200231c682e",
+    "name": "Веб-дизайн для старших школьников",
+    "tariff": "очно",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6331b75961381200231c682e/3SXEHFnxxuDdzjKOkfi9j.png",
+    "course_url": "https://clubpixel.ru/webdesign?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 15600,
+    "price_all": 15600,
+    "price_original": 17400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "designWeb",
+      "figma",
+      "tilda"
+    ],
+    "description": "Курс по развитию навыков веб-дизайна в Figma и Tilda, создания сайтов с нуля. Рассчитан на детей и подростков в возрасте от 12 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "63a980694770ee002716bc5f",
+    "name": "3D-моделирование в Blender",
+    "tariff": "очно",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/63a980694770ee002716bc5f/PNxj4gnmVdeAQcN8yRBs_.png",
+    "course_url": "https://clubpixel.ru/3d-modelirovanie-blender?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 12000,
+    "price_all": 12000,
+    "price_original": 13500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "7-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "blender",
+      "2dModel"
+    ],
+    "description": "Изучение основ компьютерной графики, моделирования трехмерных объектов, цифрового скульптинга.Курс рассчитан на детей и подростков в возрасте от 13 до 17 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "63d22ee2e5aeac0028d9ad9a",
+    "name": "Компьютерная грамотность",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/63d22ee2e5aeac0028d9ad9a/DlpYbKnwp8iJ_pyQO_RZ8.png",
+    "course_url": "https://clubpixel.ru/kompyuternaya-gramotnost-dlya-detej?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 15600,
+    "price_all": 15600,
+    "price_original": 17400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "1-4 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "computer_literacy"
+    ],
+    "description": "Курс обучает основам устройства компьютера и Интернета, техникам быстрой печати, работе с текстом, электронными таблицами и презентациями. Рассчитан на детей в возрасте от 7 до 10 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6502fbf158b4a2002bcb4e74",
+    "name": "Робототехника для школьников",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6502fbf158b4a2002bcb4e74/5c3XhQMjSkvLY2LbGV-ZP.png",
+    "course_url": "https://clubpixel.ru/robototekhnika-dlya-shkolnikov?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 12000,
+    "price_all": 12000,
+    "price_original": 13500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "1-4 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "robotics"
+    ],
+    "description": "Программирование роботов с помощью блоков визуального программирования среды Lego Education WeDo. Курс рассчитан на детей в возрасте 7-10 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6503051e393a44002945832d",
+    "name": "Веб-дизайн для младших школьников",
+    "tariff": "очно",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6503051e393a44002945832d/6jZ4z-wFgyI9WBuk4GCta.png",
+    "course_url": "https://clubpixel.ru/webdesign-mladshie-shkolniki?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 15600,
+    "price_all": 15600,
+    "price_original": 17400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "3-7 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "designWeb",
+      "figma",
+      "tilda"
+    ],
+    "description": "Курс погрузит в мир графического дизайна, поможет создать макет сайта, визуальное оформление, научит работать с изображениями, шрифтами и другими элементами веб-страницы. Рассчитан на детей в возрасте 9-13 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65044d82656a53002accdd5c",
+    "name": "Робототехника для школьников",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65044d82656a53002accdd5c/SWx4Ng0hXFXhIG94cVIMV.png",
+    "course_url": "https://clubpixel.ru/robototekhnika-dlya-shkolnikov?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 15600,
+    "price_all": 15600,
+    "price_original": 17400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "1-4 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "robotics"
+    ],
+    "description": "Программирование роботов с помощью блоков визуального программирования среды Lego Education WeDo.Курс рассчитан на детей в возрасте 7-10 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65045604daf0f3002b42c954",
+    "name": "Робототехника для дошкольников",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65045604daf0f3002b42c954/oRGz-8redCGnHf2_XwzqY.png",
+    "course_url": "https://clubpixel.ru/robototekhnika-dlya-doshkolnikov?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 15600,
+    "price_all": 15600,
+    "price_original": 17400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "robotics"
+    ],
+    "description": "Знакомство с робототехникой и блочным программированием. Дети познакомятся с конструированием с помощью наборов Lego WeDo 2.0 и овладеют начальными навыками программирования.Курс рассчитан на детей в возрасте 5-7 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6524038752c2d1002b17c6d7",
+    "name": "Веб-дизайн для младших школьников",
+    "tariff": "очно",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6524038752c2d1002b17c6d7/B0mVNkzY7Bg9eeoUSxvI4.png",
+    "course_url": "https://clubpixel.ru/webdesign-mladshie-shkolniki?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 12000,
+    "price_all": 12000,
+    "price_original": 13500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "3-7 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "designWeb",
+      "figma",
+      "tilda"
+    ],
+    "description": "Курс погрузит в мир графического дизайна, поможет создать макет сайта и визуальное оформление, научит работать с изображениями, шрифтами и другими элементами веб-страницы. Рассчитан на детей в возрасте 9-13 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6524050a52c2d1002b17c70b",
+    "name": "Веб-дизайн для старших школьников",
+    "tariff": "очно",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6524050a52c2d1002b17c70b/4LCvVwao32e75Rsz6mhfI.png",
+    "course_url": "https://clubpixel.ru/webdesign?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 12000,
+    "price_all": 12000,
+    "price_original": 13500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "designWeb",
+      "figma",
+      "tilda"
+    ],
+    "description": "Развитие навыков веб-дизайна в Figma и Tilda, создания сайтов с нуля.Курс рассчитан на детей и подростков в возрасте от 12 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "652501f1053b3c0027ffaffe",
+    "name": "Компьютерная грамотность",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/652501f1053b3c0027ffaffe/uKr9ET3pdC8TRFCrv0KdZ.png",
+    "course_url": "https://clubpixel.ru/kompyuternaya-gramotnost-dlya-detej?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 12000,
+    "price_all": 12000,
+    "price_original": 13500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "1-4 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "computer_literacy"
+    ],
+    "description": "Курс обучает основам устройства компьютера и Интернета, техникам быстрой печати, работе с текстом, электронными таблицами и презентациями. Рассчитан на детей в возрасте от 7 до 10 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6525255c67c1100374f02a60",
+    "name": "3D-моделирование в Blender",
+    "tariff": "очно",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6525255c67c1100374f02a60/zxWCwQ3aiA-MG3xiDR45W.png",
+    "course_url": "https://clubpixel.ru/3d-modelirovanie-blender?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 15600,
+    "price_all": 15600,
+    "price_original": 17400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "7-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "blender",
+      "2dModel"
+    ],
+    "description": "Курс по изучению основ компьютерной графики, моделирования трехмерных объектов, цифрового скульптинга.Рассчитан на детей и подростков в возрасте от 13 до 17 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "6525274230c85b56d5202afd",
+    "name": "Python в Minecraft",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6525274230c85b56d5202afd/RjzlcID1OYKkxdqZ5cBdB.png",
+    "course_url": "https://clubpixel.ru/minecraft?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 15600,
+    "price_all": 15600,
+    "price_original": 17400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "3-7 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "languagePython",
+      "minecraft"
+    ],
+    "description": "Обучение программированию на языке Python в увлекательной игре Minecraft.Курс рассчитан на детей и подростков в возрасте от 9 до 13 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65ed8352a3a45e002a4aed83",
+    "name": "Веб-дизайн для старших школьников",
+    "tariff": "онлайн",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65ed8352a3a45e002a4aed83/u_BN_Zs3243RrpvLcKvQG.png",
+    "course_url": "https://clubpixel.ru/webdesign?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 14400,
+    "price_all": 14400,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "designWeb",
+      "figma",
+      "tilda"
+    ],
+    "description": "Курс по развитию навыков веб-дизайна в Figma и Tilda, создания сайтов с нуля. Рассчитан на детей и подростков в возрасте от 12 лет.Занятия проводятся в группе. Есть возможность заниматься индивидуально с преподавателем.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65ed853542b8ab002aae9ae5",
+    "name": "3D-моделирование в Blender",
+    "tariff": "онлайн",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65ed853542b8ab002aae9ae5/Gq8rCQJem-14Rdwp-n0KY.png",
+    "course_url": "https://clubpixel.ru/3d-modelirovanie-blender?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 14400,
+    "price_all": 14400,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "7-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "blender",
+      "2dModel"
+    ],
+    "description": "Изучение основ компьютерной графики, моделирования трехмерных объектов, цифрового скульптинга.Курс рассчитан на детей и подростков в возрасте от 13 до 17 лет.Занятия проводятся в группе. Есть возможность заниматься индивидуально с преподавателем.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65ed879ea3a45e002a4aee52",
+    "name": "Веб-дизайн для младших школьников",
+    "tariff": "онлайн",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/65ed879ea3a45e002a4aee52/OqAQrs8vMTadUHC6d6mrh.png",
+    "course_url": "https://clubpixel.ru/webdesign-mladshie-shkolniki?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 14400,
+    "price_all": 14400,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "3-7 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "designWeb",
+      "figma",
+      "tilda"
+    ],
+    "description": "Курс погрузит в мир графического дизайна, поможет создать макет сайта и визуальное оформление, научит работать с изображениями, шрифтами и другими элементами веб-страницы. Рассчитан на детей в возрасте 9-13 лет.Занятия проводятся в группе. Есть возможность заниматься индивидуально с преподавателем.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65ed8b6b42b8ab002aae9c1a",
+    "name": "Unity",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6331b394203ecd0024e82d38/53dHE2pcuc2wshd5ny-25.png",
+    "course_url": "https://clubpixel.ru/unity?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 12000,
+    "price_all": 12000,
+    "price_original": 13500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "4-8 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "unity",
+      "programmingGameDev",
+      "languageCSharp"
+    ],
+    "description": "Курс по созданию игр в Unity и программированию на языке C#. Рассчитан на детей и подростков в возрасте от 10 до 14 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65ed8bbe7955ee0027d5c9f9",
+    "name": "Unity",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6331b394203ecd0024e82d38/53dHE2pcuc2wshd5ny-25.png",
+    "course_url": "https://clubpixel.ru/unity?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 15600,
+    "price_all": 15600,
+    "price_original": 17400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "4-8 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "unity",
+      "programmingGameDev",
+      "languageCSharp"
+    ],
+    "description": "Курс по созданию игр в Unity и программированию на языке C#. Рассчитан на детей и подростков в возрасте от 10 до 14 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65ed8c27a3a45e002a4aef41",
+    "name": "HTML, CSS и JavaScript",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6331b56161381200231c67de/cj1xZ00Iad6Hd5r69OEd3.png",
+    "course_url": "https://clubpixel.ru/htmlcss?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 12000,
+    "price_all": 12000,
+    "price_original": 13500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "languageHTML",
+      "languageJavaScript",
+      "programmingWeb"
+    ],
+    "description": "Изучение основ веб-разработки и создания сайтов, языков HTML, CSS и JavaScript.Курс рассчитан на детей и подростков в возрасте от 12 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65ed8ca742b8ab002aae9c4a",
+    "name": "HTML, CSS и JavaScript",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6331b56161381200231c67de/cj1xZ00Iad6Hd5r69OEd3.png",
+    "course_url": "https://clubpixel.ru/htmlcss?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 15600,
+    "price_all": 15600,
+    "price_original": 17400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "languageHTML",
+      "languageJavaScript",
+      "programmingWeb"
+    ],
+    "description": "Изучение основ веб-разработки и создания сайтов, языков HTML, CSS и JavaScript.Курс рассчитан на детей и подростков в возрасте от 12 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65ed8dae7955ee0027d5ca7c",
+    "name": "Scratch",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6331b8e061381200231c686c/gDd9ieL2oTVhkhDuSvQXA.png",
+    "course_url": "https://clubpixel.ru/scratch?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 12000,
+    "price_all": 12000,
+    "price_original": 13500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "2-6 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "languageScratch",
+      "programmingGameDev"
+    ],
+    "description": "Обучение работе в визуальной среде программирования Scratch.Курс рассчитан на детей и подростков в возрасте от 8 до 12 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "65ed8e1242b8ab002aae9c9d",
+    "name": "Scratch",
+    "tariff": "",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6331b8e061381200231c686c/gDd9ieL2oTVhkhDuSvQXA.png",
+    "course_url": "https://clubpixel.ru/scratch?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 15600,
+    "price_all": 15600,
+    "price_original": 17400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "2-6 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "languageScratch",
+      "programmingGameDev"
+    ],
+    "description": "Обучение работе в визуальной среде программирования Scratch.Курс рассчитан на детей и подростков в возрасте от 8 до 12 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "660c0e3a78d9209e9c59773c",
+    "name": "Графический дизайн для младших школьников",
+    "tariff": "онлайн",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/660c0e3a78d9209e9c59773c/rGiYLgq_BgcS-1BOtdOkd.png",
+    "course_url": "https://clubpixel.ru/graficheskij-dizajn-mladshie-shkolniki?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 14400,
+    "price_all": 14400,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "2-6 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "designGraphic",
+      "illustrator",
+      "photoshop"
+    ],
+    "description": "Курс поможет изучить основы в программах для графического дизайна Adobe Photoshop и Illustrator.Предназначен для детей и подростков от 8 до 13 лет.Занятия проводятся в группе. Есть возможность заниматься индивидуально с преподавателем.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "660c1099e7aa8fd5d4eff4df",
+    "name": "Графический дизайн для младших школьников",
+    "tariff": "очно",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/660c1099e7aa8fd5d4eff4df/bDIvSIwTUZuhTRqq38fqd.jpeg",
+    "course_url": "https://clubpixel.ru/graficheskij-dizajn-mladshie-shkolniki?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 12000,
+    "price_all": 12000,
+    "price_original": 13500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "2-6 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "designGraphic",
+      "illustrator",
+      "photoshop"
+    ],
+    "description": "Курс поможет изучить основы в программах для графического дизайна Adobe Photoshop и Illustrator.Предназначен для детей и подростков от 8 до 13 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "660c11af78d9209e9c5978eb",
+    "name": "Графический дизайн для младших школьников",
+    "tariff": "очно",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/660c11af78d9209e9c5978eb/X1c5LelOHCsQzR4WlAS6n.jpeg",
+    "course_url": "https://clubpixel.ru/graficheskij-dizajn-mladshie-shkolniki?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 15600,
+    "price_all": 15600,
+    "price_original": 17400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "2-6 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "designGraphic",
+      "illustrator",
+      "photoshop"
+    ],
+    "description": "Курс поможет изучить основы в программах для графического дизайна Adobe Photoshop и Illustrator.Предназначен для детей и подростков от 8 до 13 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "660c15e4170940fae31e3cab",
+    "name": "Графический дизайн для старших школьников",
+    "tariff": "онлайн",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/660c15e4170940fae31e3cab/LaDPT898842AiaOZWhsJg.png",
+    "course_url": "https://clubpixel.ru/graficheskij-dizajn-starshie-shkolniki?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 14400,
+    "price_all": 14400,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "designGraphic",
+      "illustrator",
+      "photoshop"
+    ],
+    "description": "Курс поможет приобрести навыки графического дизайна: познакомит с редакторами Adobe Illustrator и Photoshop и научит создавать логотипы и стилистику для брендов.Программа предназначена для подростков от 12 лет.Занятия проводятся в группе. Есть возможность заниматься индивидуально с преподавателем.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": true,
+    "is_free_lesson": false,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": true,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "660c171f672ebf20394b96d3",
+    "name": "Графический дизайн для старших школьников",
+    "tariff": "очно",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/660c15e4170940fae31e3cab/u0nS7XNMG7dRYlni7evJL.jpeg",
+    "course_url": "https://clubpixel.ru/graficheskij-dizajn-starshie-shkolniki?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 12000,
+    "price_all": 12000,
+    "price_original": 13500,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "designGraphic",
+      "illustrator",
+      "photoshop"
+    ],
+    "description": "Курс поможет приобрести навыки графического дизайна: познакомит с редакторами Adobe Illustrator и Photoshop и научит создавать логотипы и стилистику для брендов.Программа предназначена для подростков от 12 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "660c176b465180c1306b4d10",
+    "name": "Графический дизайн для старших школьников",
+    "tariff": "очно",
+    "school": "Pixel",
+    "school_alias": "pixel",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6331a3d5c0eb6d0024228218.svg?v=0.4e",
+    "school_rating": 4.8,
+    "school_reviews_count": 467,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/660c15e4170940fae31e3cab/u0nS7XNMG7dRYlni7evJL.jpeg",
+    "course_url": "https://clubpixel.ru/graficheskij-dizajn-starshie-shkolniki?utm_source=sravni&utm_campaign=course&utm_content={transaction_id}",
+    "price": 15600,
+    "price_all": 15600,
+    "price_original": 17400,
+    "price_installment": 0,
+    "time_installment": 0,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 12,
+    "time_all_hour": 0,
+    "grades": "6-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOffline"
+    ],
+    "courses_thematics": [
+      "designGraphic",
+      "illustrator",
+      "photoshop"
+    ],
+    "description": "Курс поможет приобрести навыки графического дизайна: познакомит с редакторами Adobe Illustrator и Photoshop и научит создавать логотипы и стилистику для брендов.Программа предназначена для подростков от 12 лет.",
+    "is_tutor": false,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": true,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "64d6126cd6feb0002bf5021e",
+    "name": "Графический дизайн",
+    "tariff": "",
+    "school": "Easydesi",
+    "school_alias": "easydesi",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/64d4b61a2f57ae0026d39cc8.svg?v=0.31",
+    "school_rating": 4.7,
+    "school_reviews_count": 28,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/64d6126cd6feb0002bf5021e/xaQp0X0jYNZPUh2g-zXV5.png",
+    "course_url": "https://easydesi.ru/?utm_source=sravni&utm_medium=cpc",
+    "price": 82800,
+    "price_all": 82800,
+    "price_original": 102000,
+    "price_installment": 6900,
+    "time_installment": 12,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "3-8 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forIt",
+      "forHobby"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "designGraphic"
+    ],
+    "description": "Курс научит ребенка принципам композиции, работе с текстом, рисованию логотипов, афиш и иллюстраций.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "64d63de330803d0029d8224b",
+    "name": "Веб-дизайн",
+    "tariff": "",
+    "school": "Easydesi",
+    "school_alias": "easydesi",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/64d4b61a2f57ae0026d39cc8.svg?v=0.31",
+    "school_rating": 4.7,
+    "school_reviews_count": 28,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/64d63de330803d0029d8224b/fkoHlb3GC-qV1x-akhcYN.png",
+    "course_url": "https://easydesi.ru/?utm_source=sravni&utm_medium=cpc",
+    "price": 82800,
+    "price_all": 82800,
+    "price_original": 102000,
+    "price_installment": 6900,
+    "time_installment": 12,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "5-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "designWeb",
+      "figma",
+      "tilda"
+    ],
+    "description": "Курс поможет освоить программу Figma и основы дизайна сайтов, а также расскажет, как сделать первый сайт на Тильде.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  },
+  {
+    "id": "66d17a7f60cb8a00e50e979d",
+    "name": "3D-моделирование",
+    "tariff": "",
+    "school": "Easydesi",
+    "school_alias": "easydesi",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/64d4b61a2f57ae0026d39cc8.svg?v=0.31",
+    "school_rating": 4.7,
+    "school_reviews_count": 28,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/66d17a7f60cb8a00e50e979d/PA3hcZ5luP-weymaCzan6.png",
+    "course_url": "https://easydesi.ru/?utm_source=sravni&utm_medium=cpc",
+    "price": 82800,
+    "price_all": 82800,
+    "price_original": 102000,
+    "price_installment": 6900,
+    "time_installment": 12,
+    "time_months": 0,
+    "time_weeks": 0,
+    "time_days": 0,
+    "time_lessons": 32,
+    "time_all_hour": 0,
+    "grades": "4-11 класс",
+    "directions": [
+      "Развитие"
+    ],
+    "reasons": [
+      "forHobby",
+      "forIt"
+    ],
+    "formats": [
+      "formatOnline"
+    ],
+    "courses_thematics": [
+      "2dModel",
+      "blender"
+    ],
+    "description": "Курс научит ребенка работать с 3D-редакторами, создавать объемные модели, добавлять текстуры, эффекты и освещение.",
+    "is_tutor": true,
+    "is_demo": false,
+    "is_parent_control": false,
+    "is_free_lesson": true,
+    "is_group": false,
+    "is_webinar": false,
+    "has_record": false,
+    "has_curator": true,
+    "has_guarantee": false,
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without-all",
+      "isShowStrikethrough": true
+    }
+  }
+]

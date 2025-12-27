@@ -1,0 +1,2159 @@
+[
+  {
+    "id": "618cc443f96ff50f3596a2c5",
+    "name": "Excel: от основ до анализа данных",
+    "tariff": "",
+    "school": "Нетология",
+    "school_alias": "netologiya",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767bb3ae56ab001d91f807.svg?v=0.82",
+    "school_rating": 4.9,
+    "school_reviews_count": 1537,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/618cc443f96ff50f3596a2c5/-ggDr8mcof4qxktK_P3vq.png",
+    "course_url": "https://netology.ru/programs/excel?utm_source=sravni&utm_medium=cpa&utm_content={transaction_id}&utm_campaign=2",
+    "price": 22900,
+    "price_all": 22900,
+    "price_original": 43860,
+    "price_installment": 2010,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typePO",
+      "typeAnalytics"
+    ],
+    "directions": [
+      "Excel"
+    ],
+    "course_targets": [
+      "professionalDevelopment",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {
+      "promoCodeType": "off-season",
+      "percentType": "min",
+      "percent": 0,
+      "sum": null,
+      "highlightingType": "type-without",
+      "isShowStrikethrough": false
+    },
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации, диплом «Нетологии»",
+    "mentor": true,
+    "portfolio_text": "Итоговая работа — отчет по данным о сотрудниках компании",
+    "description": "Курс научит оптимизировать работу с данными с помощью формул и инструментов для анализа в Excel.Можно выбрать тариф «Excel + нейросети» (4 месяца), куда дополнительно входит курс «Нейросети для анализа данных» с выдачей свидетельства.",
+    "program": [
+      {
+        "moduleName": "Основы работы в Excel",
+        "moduleTerm": "15 часов",
+        "moduleDescription": "<ul><li>Инструменты подготовки исходных данных.</li><li>Инструменты анализа данных.</li><li>Инструменты визуализации.</li><li>Дополнительные инструменты&nbsp;Excel.</li><li>Концепция эффективной работы в Excel.</li></ul><p><br></p>"
+      },
+      {
+        "moduleName": "Сводные таблицы",
+        "moduleTerm": "6 часов",
+        "moduleDescription": "<ul><li>Инструмент «Таблица».</li><li>Анализ данных с помощью сводных таблиц.</li></ul>"
+      },
+      {
+        "moduleName": "Работа с формулами в Excel",
+        "moduleTerm": "8 часов",
+        "moduleDescription": "<ul><li>Логика работы с формулами в Excel.</li><li>Функции ссылок и массивов: ВПР, ИНДЕКС, ДВССЫЛ, СМЕЩ.</li><li>Агрегирующие функции: СУММ, СРЗНАЧ, СУММЕСЛИ, СУММПРОИЗВ и т.д.</li><li>Условные функции: ЕСЛИОШИБКА, ЕСЛИ.</li><li>Функции работы с датами: ДОЛЯГОДА, РАБДЕНЬ и т.д.</li><li>Текстовые функции: ЛЕВСИМВ, ПСТР, ПОДСТАВИТЬ, ПРАВСИМВ.</li><li>Вебинар-консультация по итоговому проекту курса.</li></ul>"
+      },
+      {
+        "moduleName": "Визуализация результатов",
+        "moduleTerm": "3 часа",
+        "moduleDescription": "<ul><li>Условное форматирование.</li><li>Диаграммы и графики.</li><li>Срезы, временная шкала и карточки.</li></ul><p><br></p>"
+      },
+      {
+        "moduleName": "Работа с данными в Power Query",
+        "moduleTerm": "9 часов",
+        "moduleDescription": "<ul><li>Подготовка данных с помощью Power Query.</li><li>Power Query. Виды преобразований.</li><li>Power Query. Комбинирование запросов.</li></ul><p><br></p>"
+      },
+      {
+        "moduleName": "Анализ данных с помощью Power Pivot  ",
+        "moduleTerm": "7 часов",
+        "moduleDescription": "<ul><li>Анализ данных с помощью Power Pivot.</li><li>Вычисления в Power Pivot.</li></ul>"
+      }
+    ],
+    "advertising": {
+      "cost": 98.8,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": true,
+      "labelText": "Популярное; Популярное",
+      "partnerPanelColor": "#fdf2f2",
+      "partnerTextColor": "#c11d1d",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "6241",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFHAYgTz"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1378&aff_id=2&landing_id=71890&dl=&erid=2W5zFHAYgTz"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6398394ca9306d0028ceeda9",
+    "name": "Excel + Google Таблицы с нуля до PRO + ИИ",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6398394ca9306d0028ceeda9/a3qGC4ScqXt7I43nRS95e.png",
+    "course_url": "https://skillbox.ru/course/excel-gsheets-sravni/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 24427,
+    "price_all": 24427,
+    "price_original": 69481,
+    "price_installment": 2036,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 4,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "Excel",
+      "google_sheets"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "Диаграммы, банковские расчеты, базы данных, отчеты и другие работы",
+    "description": "Получение продвинутых навыков в работе с Excel и Google-таблицами. Курс поможет изучить интерфейс и базовые настройки, а также расскажет, как вносить данные в ячейки и редактировать их.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "8777",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6475c7829fea850028d8ef66",
+    "name": "Как зарабатывать на презентациях",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6475c7829fea850028d8ef66/FnN458w0DoLugf4G10WV8.png",
+    "course_url": "https://skillbox.ru/course/presentation-master/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 72776,
+    "price_all": 72776,
+    "price_original": 145552,
+    "price_installment": 3032,
+    "time_installment": 24,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "presentations",
+      "powerpoint"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "Презентации для собственного проекта и для клиента",
+    "description": "Курс научит оформлять презентации, создавать красивую и понятную инфографику, выступать и коммуницировать с аудиторией, выстраивать сторителлинг.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "8533",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "638a0e1bf52c1e002718dfa9",
+    "name": "PowerPoint + Google Презентации",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/638a0e1bf52c1e002718dfa9/cpgkzJyX82sIRD44BOkht.png",
+    "course_url": "https://skillbox.ru/course/powerpoint-gslides/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 23945,
+    "price_all": 23945,
+    "price_original": 47891,
+    "price_installment": 3991,
+    "time_installment": 6,
+    "duration_days": 0,
+    "duration_months": 1,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "powerpoint",
+      "presentations"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "Презентация собственного проекта",
+    "description": "На курсе научат эффектно оформлять слайды, создавать в презентациях таблицы, графики и диаграммы, применять анимацию.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "8810",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "638a0ad7785fab002a41c4b9",
+    "name": "MS Office и инструменты Google",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/638a0ad7785fab002a41c4b9/9JC3HRNnAM0bQ0WDO6yIT.png",
+    "course_url": "https://skillbox.ru/course/msoffice/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 67153,
+    "price_all": 67153,
+    "price_original": 134307,
+    "price_installment": 5596,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 6,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "microsoft_office",
+      "powerpoint",
+      "Excel",
+      "google_sheets",
+      "presentations"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "Курс поможет освоить все инструменты пакетов MS Office и Google, научит эффективно работать с текстовыми документами, анализировать данные и автоматизировать задачи с помощью таблиц, а также создавать запоминающиеся презентации.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "8801",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6839b7e98b6e6b65f21968e2",
+    "name": "Excel: макросы",
+    "tariff": "",
+    "school": "Skillbox",
+    "school_alias": "skillbox",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6172d4d2de35a2002261e4d8.png",
+    "school_rating": 4.8,
+    "school_reviews_count": 2973,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6839b7e98b6e6b65f21968e2/dcl6IApn9HHNYR70qEqq4.png",
+    "course_url": "https://skillbox.ru/course/excel-macros/?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni_affiliate&utm_term={transaction_id}",
+    "price": 16969,
+    "price_all": 16969,
+    "price_original": 33938,
+    "price_installment": 5656,
+    "time_installment": 3,
+    "duration_days": 0,
+    "duration_months": 1,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "Excel"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Продвинутый"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "5 практических работ",
+    "description": "На курсе научат:автоматизировать отчёты;ускорять работу с Microsoft Office;создавать шаблоны;быстро форматировать таблицы;искать и объединять данные;создавать новые функции Excel.",
+    "program": [],
+    "advertising": {
+      "cost": 70.2,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "13616",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1379&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1379&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "61e7c605fc540f00242632f4",
+    "name": "Excel и Google-таблицы с 0 до PRO",
+    "tariff": "",
+    "school": "Бруноям",
+    "school_alias": "brunoyam",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6193a770e109c90023c58de5.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 132,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/61e7c605fc540f00242632f4/eDRe1CeuOF8-uue87BFNi.png",
+    "course_url": "https://brunoyam.com/online-kursy/excel?utm_source=sravni_ru&utm_medium=cpa&utm_campaign=ref&click_id={transaction_id}",
+    "price": 16900,
+    "price_all": 16900,
+    "price_original": 24800,
+    "price_installment": 1408,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 1,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "Excel",
+      "google_sheets"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": true,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "Курс поможет освоить самые востребованные формулы Microsoft Excel, чтобы быстрее закрывать рабочие задачи.",
+    "program": [],
+    "advertising": {
+      "cost": 70.37,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "3359",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1500&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1500&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "62e260069ff0cc0021aa1b41",
+    "name": "Excel и Google-таблицы",
+    "tariff": "",
+    "school": "Eduson Academy",
+    "school_alias": "eduson-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a135ae56ab001d91f8c4.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 250,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/62e260069ff0cc0021aa1b41/gxCudoJowmBL0QDzX_ZAc.png",
+    "course_url": "https://eduson.academy/excel-all-master?utm_source=cpa&utm_medium=sravni_ru&utm_campaign=cpa&utm_term={transaction_id}",
+    "price": 36000,
+    "price_all": 36000,
+    "price_original": 90000,
+    "price_installment": 3000,
+    "time_installment": 12,
+    "duration_days": 14,
+    "duration_months": 0,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "Excel",
+      "google_sheets"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом Eduson",
+    "mentor": true,
+    "portfolio_text": "Финальная работа",
+    "description": "Практический онлайн-курс, где можно освоить все функции Excel и Google-таблиц. Занятия проходят на интерактивных тренажерах — полной копии интерфейса Microsoft Excel.Предоставляется консультация с экспертом в подарок.",
+    "program": [
+      {
+        "moduleName": "Как превратить хаотичные данные в таблицу, с которой удобно работать",
+        "moduleTerm": "10 уроков",
+        "moduleDescription": "<ul><li>Разбивка и объединение текста.</li><li>Поиск дубликатов в списке.</li><li>Проверка на ошибки.</li><li>Форматирование текста.</li><li>Сводные таблицы.</li><li>Условное форматирование.</li><li>Транспонирование данных.</li><li>Скрытие и отображение строк и столбцов.</li><li>Группировка данных.</li><li>Сборка данных в одну таблицу.</li></ul>"
+      },
+      {
+        "moduleName": "Как делать быстрые расчеты с помощью функций и формул",
+        "moduleTerm": "8 уроков",
+        "moduleDescription": "<ul><li>Сумма и произведение.</li><li>Среднее и прирост.</li><li>Сумма с условием.</li><li>Функция ВПР.</li><li>Максимум и минимум.</li><li>Частотный анализ.</li><li>Логические функции.</li></ul>"
+      },
+      {
+        "moduleName": "Как строить финансовые модели и прогнозировать результаты",
+        "moduleTerm": "3 урока",
+        "moduleDescription": "<ul><li>Анализ «что если».</li><li>Подбор параметра и диспетчер сценариев.</li><li>Надстройка «Поиск решения».</li></ul>"
+      },
+      {
+        "moduleName": "Как автоматизировать задачи и ускорить работу",
+        "moduleTerm": "6 уроков",
+        "moduleDescription": "<ul><li>Вставка символа на клавиатуре.</li><li>Автоматическая подсветка активной строки.</li><li>Функция мгновенного заполнения.</li><li>Транслитерация.</li><li>Основы работы с макросами.</li><li>Обновления в последней версии Excel.</li></ul>"
+      },
+      {
+        "moduleName": "Как составлять в Excel удобные планы, графики и календари",
+        "moduleTerm": "2 урока",
+        "moduleDescription": "<ul><li>Календарь отпусков.</li><li>Автоматическая подсветка дат и сроков.</li></ul>"
+      },
+      {
+        "moduleName": "Как строить наглядные диаграммы",
+        "moduleTerm": "8 уроков",
+        "moduleDescription": "<ul><li>Контрольные линии.</li><li>Гистограмма с перекрытием.</li><li>Hормированная центрованная гистограмма.</li><li>Точечная диаграмма.</li><li>Ранжированные данные.</li><li>Леденцовая диаграмма.</li><li>Состыкованная гистограмма.</li><li>Спарклайны.</li></ul>"
+      }
+    ],
+    "advertising": {
+      "cost": 150.46,
+      "costForFree": 24.81,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Популярное;Популярное",
+      "partnerPanelColor": "#fff9f0",
+      "partnerTextColor": "#ff9500",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "3244",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFH1WjjE"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1568&aff_id=2&dl=&erid=2W5zFH1WjjE",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1568&aff_id=2&dl=S&erid=2W5zFH1WjjE"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "618cc443f96ff50f3596a3e6",
+    "name": "MS Office: Excel, Word и PowerPoint",
+    "tariff": "",
+    "school": "Eduson Academy",
+    "school_alias": "eduson-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a135ae56ab001d91f8c4.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 250,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/618cc443f96ff50f3596a3e6/6jRtF7Bm9Qj3QMGFB-SUA.png",
+    "course_url": "https://eduson.academy/msoffice?utm_source=cpa&utm_medium=sravni_ru&utm_campaign=cpa&utm_term={transaction_id}",
+    "price": 39600,
+    "price_all": 39600,
+    "price_original": 86000,
+    "price_installment": 3300,
+    "time_installment": 12,
+    "duration_days": 35,
+    "duration_months": 0,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "Excel",
+      "powerpoint",
+      "microsoft_office"
+    ],
+    "course_targets": [
+      "professionalDevelopment",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом Eduson, удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "Освоение всех инструментов пакета MS Office. Обучение эффективной работе с текстовыми документами, анализу больших объемов данных с помощью таблиц, созданию презентаций. На курсе выполняются интерактивные упражнения в интерфейсе Excel, Word и PowerPoint.",
+    "program": [],
+    "advertising": {
+      "cost": 150.46,
+      "costForFree": 24.81,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Популярное;Популярное",
+      "partnerPanelColor": "#fff9f0",
+      "partnerTextColor": "#ff9500",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "3261",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFH1WjjE"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1568&aff_id=2&dl=&erid=2W5zFH1WjjE",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1568&aff_id=2&dl=S&erid=2W5zFH1WjjE"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68b02c580decbde0e28654b5",
+    "name": "Как зарабатывать на презентациях",
+    "tariff": "",
+    "school": "Eduson Academy",
+    "school_alias": "eduson-academy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6176a135ae56ab001d91f8c4.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 250,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68b02c580decbde0e28654b5/x68NI7D30gtLWZjQattar.png",
+    "course_url": "https://eduson.academy/sravni-presentation-master?utm_source=cpa&utm_medium=sravni_ru&utm_campaign=cpa&utm_term={transaction_id}",
+    "price": 66396,
+    "price_all": 66396,
+    "price_original": 162500,
+    "price_installment": 5533,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typePO",
+      "typeDesign"
+    ],
+    "directions": [
+      "presentations",
+      "powerpoint"
+    ],
+    "course_targets": [
+      "professionalDevelopment",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации, диплом о прохождении курса",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "На курсе научат оформлять мысли ясно, слайды — профессионально, а выступления — уверенно. В рамках программы изучение программ PowerPoint, Figma, Google Slides, а также сторителлинга и нейросетей.",
+    "program": [],
+    "advertising": {
+      "cost": 150.46,
+      "costForFree": 24.81,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Популярное;Популярное",
+      "partnerPanelColor": "#fff9f0",
+      "partnerTextColor": "#ff9500",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "61774",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFH1WjjE"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1568&aff_id=2&dl=&erid=2W5zFH1WjjE",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1568&aff_id=2&dl=S&erid=2W5zFH1WjjE"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "656f8dd3a79bb517da22fe5a",
+    "name": "Excel для работы",
+    "tariff": "",
+    "school": "Яндекс Практикум",
+    "school_alias": "yandeks-praktikum",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767e5dae56ab001d91f821.svg",
+    "school_rating": 4.7,
+    "school_reviews_count": 1307,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/656f8dd3a79bb517da22fe5a/gu6tqk7ii4dHnaybENaOh.png",
+    "course_url": "https://practicum.yandex.ru/excel-for-work-full/?utm_source=partners&utm_medium=cpc&utm_campaign=sravni_cpc_RF_Data_exceFoWoFu_b2c_Course-catalogue_None_None",
+    "price": 17000,
+    "price_all": 17000,
+    "price_original": 0,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 7,
+    "duration_months": 0,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "Excel"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат / свидетельство об обучении",
+    "mentor": false,
+    "portfolio_text": "",
+    "description": "Курс научит использовать формулы, горячие клавиши, фильтры и сортировку, а также визуализировать результаты работы.",
+    "program": [],
+    "advertising": {
+      "cost": 166.67,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "Скидка 15%; Скидка 15%",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "light-blue",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1372&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1372&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "67652dd6062fe61a8f05dfad",
+    "name": "Excel и Google таблицы с нуля",
+    "tariff": "",
+    "school": "Академия «Синергия»",
+    "school_alias": "synergyacademy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6193a929e109c90023c58df2.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 536,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/67652dd6062fe61a8f05dfad/B5tIOiJWxUh25YYYChxev.png",
+    "course_url": "https://synergyacademy.ru/course/excel-dlya-effektivnoy-raboty-sravni?utm_source=sravni&utm_medium=cpa&utm_campaign=dpo-cps&utm_term=cpa&marketer=svo&produkt=190903661&utm_gen=3&utm_content={transaction_id}",
+    "price": 17520,
+    "price_all": 17520,
+    "price_original": 25800,
+    "price_installment": 1460,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "Excel",
+      "google_sheets"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "Курс научит автоматизировать работу в Excel, легко анализировать большие данные с применением специальных функций и формул, превращать сухие цифры в эффектные отчёты.",
+    "program": [
+      {
+        "moduleName": "Общий интерфейс",
+        "moduleTerm": "12 уроков",
+        "moduleDescription": "Научитесь редактировать данные и создавать простые таблицы в Excel."
+      },
+      {
+        "moduleName": "Визуализация данных в Excel",
+        "moduleTerm": "20 уроков",
+        "moduleDescription": "Научитесь визуализировать данные с помощью диаграмм и графиков."
+      },
+      {
+        "moduleName": "Формулы и функции в Excel",
+        "moduleTerm": "13 уроков",
+        "moduleDescription": "Научитесь применять сложные функции и формулы для работы с данными."
+      },
+      {
+        "moduleName": "Сводные таблицы",
+        "moduleTerm": "5 уроков",
+        "moduleDescription": "Научитесь объединять данные из множества источников в сводные таблицы."
+      },
+      {
+        "moduleName": "Подключение к источникам данных",
+        "moduleTerm": "6 уроков",
+        "moduleDescription": "Научитесь автоматизировать обновление данных через их интеграцию в систему Excel."
+      },
+      {
+        "moduleName": "Google Spreadsheets",
+        "moduleTerm": "6 уроков",
+        "moduleDescription": "Изучите отличия Google Spreadsheets от Excel и научитесь работать в данной программе."
+      }
+    ],
+    "advertising": {
+      "cost": 168.15,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "12786",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1398&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1398&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "691eb777a7431691400cc7b3",
+    "name": "Презентации в PowerPoint",
+    "tariff": "",
+    "school": "УЦ МГУТУ",
+    "school_alias": "uc-mgutu",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/685e7133a1217ebaac56ae22.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 72,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/691eb777a7431691400cc7b3/wNb11A0wrJ-XNOaBfNgPY.jpeg",
+    "course_url": "https://mgutu.ru/courses/computers/powerpoint/?utm_source=sravni",
+    "price": 9900,
+    "price_all": 9900,
+    "price_original": 16500,
+    "price_installment": 825,
+    "time_installment": 12,
+    "duration_days": 14,
+    "duration_months": 0,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "powerpoint",
+      "presentations"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "Презентации",
+    "description": "Курс поможет освоить все инструменты Microsoft PowerPoint — от первых слайдов до продвинутого визуального оформления.",
+    "program": [],
+    "advertising": {
+      "cost": 91.67,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2712&aff_id=2",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2712&aff_id=2"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "685eb7c1f1fa3a8780206502",
+    "name": "Excel + «Google Таблицы» с нуля до PRO",
+    "tariff": "",
+    "school": "УЦ МГУТУ",
+    "school_alias": "uc-mgutu",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/685e7133a1217ebaac56ae22.svg",
+    "school_rating": 4.8,
+    "school_reviews_count": 72,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/685eb7c1f1fa3a8780206502/U7fHQjRXt0xLJSwsiQieX.jpeg",
+    "course_url": "https://mgutu.ru/courses/computers/basicexcel/?utm_source=sravni",
+    "price": 10900,
+    "price_all": 10900,
+    "price_original": 14800,
+    "price_installment": 909,
+    "time_installment": 12,
+    "duration_days": 14,
+    "duration_months": 0,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "Excel",
+      "google_sheets"
+    ],
+    "course_targets": [
+      "professionalDevelopment",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "Курс поможет изучить основы Excel, включая формулы, функции, защиту данных, и освоить навыки с продвинутыми функциями, сводными таблицами и макросами. Также программа позволит узнать о Google-таблицах, раскрывая техники совместной работы и визуализации данных.Есть возможность выбрать индивидуальное обучение с преподавателем очно или онлайн в удобное время.",
+    "program": [],
+    "advertising": {
+      "cost": 91.67,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2712&aff_id=2",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2712&aff_id=2"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "63e396a98e9527002b3a7520",
+    "name": "Онлайн-курсы MS Office",
+    "tariff": "",
+    "school": "Международная Школа Профессий",
+    "school_alias": "mezhdunarodnaya-shkola-professiy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6193a9cbd0ba3a002135a158.png?v=0.96",
+    "school_rating": 4.7,
+    "school_reviews_count": 20,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/63e396a98e9527002b3a7520/ZKiohSwuMJodqKrKniNRC.png",
+    "course_url": "https://online.videoforme.ru/business_school/ms-office-prof-web?utm_source=sravni&utm_medium=partners&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 20100,
+    "price_all": 20100,
+    "price_original": 33500,
+    "price_installment": 3400,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 1.5,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "Excel",
+      "powerpoint",
+      "microsoft_office",
+      "presentations"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом, подтверждающий квалификацию",
+    "mentor": true,
+    "portfolio_text": "Презентация",
+    "description": "Обучение созданию таблиц в Excel, сортировке и анализу данных, а также составлению презентаций в PowerPoint.",
+    "program": [],
+    "advertising": {
+      "cost": 23.51,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "3959",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1403&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1403&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "64ba5316f5d0e50029d4e33f",
+    "name": "Профессия Специалист Excel",
+    "tariff": "",
+    "school": "Международная Школа Профессий",
+    "school_alias": "mezhdunarodnaya-shkola-professiy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6193a9cbd0ba3a002135a158.png?v=0.96",
+    "school_rating": 4.7,
+    "school_reviews_count": 20,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/64ba5316f5d0e50029d4e33f/TShbPoATCfsVRngRWQxrk.png",
+    "course_url": "https://online.videoforme.ru/computer-programming-school/excel-specialist-prof-web?utm_source=sravni&utm_medium=partners&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 23400,
+    "price_all": 23400,
+    "price_original": 39000,
+    "price_installment": 3900,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "Excel"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Диплом, подтверждающий квалификацию",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "На курсе научат создавать сводные таблицы, делать понятные визуализации, создавать макросы и сценарии для ускорения рабочих процессов.",
+    "program": [],
+    "advertising": {
+      "cost": 23.51,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "4726",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1403&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1403&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "61fbef053ddf950024825a46",
+    "name": "Онлайн-курсы создания презентаций в PowerPoint",
+    "tariff": "",
+    "school": "Международная Школа Профессий",
+    "school_alias": "mezhdunarodnaya-shkola-professiy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6193a9cbd0ba3a002135a158.png?v=0.96",
+    "school_rating": 4.7,
+    "school_reviews_count": 20,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/61fbef053ddf950024825a46/jPnq-ZpsGSjAUsH0faRfT.png",
+    "course_url": "https://online.videoforme.ru/market_school/course-powerpoint-web?utm_source=sravni&utm_medium=partners&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 12400,
+    "price_all": 12400,
+    "price_original": 20700,
+    "price_installment": 4200,
+    "time_installment": 0,
+    "duration_days": 21,
+    "duration_months": 0,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "powerpoint",
+      "presentations"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Персональный сертификат о прохождении курса",
+    "mentor": true,
+    "portfolio_text": "Презентация",
+    "description": "Практический курс, на котором можно научиться оформлять запоминающиеся презентации, гармонично размещать и визуализировать информацию на слайдах и использовать анимацию для привлечения внимания.",
+    "program": [],
+    "advertising": {
+      "cost": 23.51,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "4008",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1403&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1403&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6206580f7cf1ce00251a40a1",
+    "name": "Онлайн-курсы Excel для начинающих",
+    "tariff": "",
+    "school": "Международная Школа Профессий",
+    "school_alias": "mezhdunarodnaya-shkola-professiy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6193a9cbd0ba3a002135a158.png?v=0.96",
+    "school_rating": 4.7,
+    "school_reviews_count": 20,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6206580f7cf1ce00251a40a1/NTd4C7Ol0n1Bz6dxPPni0.png",
+    "course_url": "https://online.videoforme.ru/computer-programming-school/excel-courses-web?utm_source=sravni&utm_medium=partners&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 12400,
+    "price_all": 12400,
+    "price_original": 20700,
+    "price_installment": 4200,
+    "time_installment": 0,
+    "duration_days": 21,
+    "duration_months": 0,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "Excel"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Персональный сертификат о прохождении курса",
+    "mentor": true,
+    "portfolio_text": "Расчет KPI; построение диаграммы, показывающей производительность компании; другие проекты по результатам прохождения модулей",
+    "description": "На курсе научат составлять сводные таблицы, производить расчеты по формулам, делать визуализацию данных с помощью диаграмм, использовать функции даты и времени.",
+    "program": [],
+    "advertising": {
+      "cost": 23.51,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "3987",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1403&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1403&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "635146dc4c93f5002a186bae",
+    "name": "Онлайн-курсы Excel: продвинутый уровень",
+    "tariff": "",
+    "school": "Международная Школа Профессий",
+    "school_alias": "mezhdunarodnaya-shkola-professiy",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/6193a9cbd0ba3a002135a158.png?v=0.96",
+    "school_rating": 4.7,
+    "school_reviews_count": 20,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/635146dc4c93f5002a186bae/UKrMWHTT51Oiv4x9YFf5t.png",
+    "course_url": "https://online.videoforme.ru/computer-programming-school/excel-pro-courses-web?utm_source=sravni&utm_medium=partners&utm_campaign=partners_sravni_web&utm_content={transaction_id}",
+    "price": 13600,
+    "price_all": 13600,
+    "price_original": 22700,
+    "price_installment": 4600,
+    "time_installment": 0,
+    "duration_days": 35,
+    "duration_months": 0,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "Excel"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Продвинутый"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Персональный сертификат о прохождении курса",
+    "mentor": true,
+    "portfolio_text": "Сводная таблица, диаграмма для отслеживания ежедневных продаж на основе данных какой-либо компании, спарклайн на основе таблицы и другие проекты по результатам прохождения программы",
+    "description": "Курс поможет расширить навыки работы в Excel — научиться делать макросы, автоматизировать однотипные расчеты с помощью сценариев, сценарии для однотипных расчетов, внедрять с помощью языка программирования VBA новые функции.",
+    "program": [],
+    "advertising": {
+      "cost": 23.51,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "4047",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1403&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1403&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6925a4c5c9756b8db26b0b68",
+    "name": "Excel и Google Таблицы",
+    "tariff": "",
+    "school": "Karpov.Courses",
+    "school_alias": "karpov-courses",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/627b75341cf641002243030e.svg?v=0.aa",
+    "school_rating": 4.7,
+    "school_reviews_count": 124,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6925a4c5c9756b8db26b0b68/w2uutDU01Q_IMAq3ov2wq.png",
+    "course_url": "https://karpov.courses/excel-google-sheets?utm_source=sravni&utm_medium=cpa&utm_campaign=all_all_sravni_cpa_aggregators_all_all_all_kc&click_id={transaction_id}",
+    "price": 19900,
+    "price_all": 19900,
+    "price_original": 24875,
+    "price_installment": 1167,
+    "time_installment": 24,
+    "duration_days": 14,
+    "duration_months": 0,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "Excel",
+      "google_sheets"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификаты на русском и английском языках",
+    "mentor": true,
+    "portfolio_text": "Интерактивный дашборд на данных Spotify",
+    "description": "На курсе помогут освоить с нуля сводные формулы и дашборды, чтобы уверенно работать с данными и автоматизировать отчёты.",
+    "program": [],
+    "advertising": {
+      "cost": 120.72,
+      "costForFree": 35.82,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "125841",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1565&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1565&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "61cc6b3acc002b6e89531d9e",
+    "name": "Excel и Google-таблицы",
+    "tariff": "",
+    "school": "Geekbrains",
+    "school_alias": "geekbrains",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61767c3eae56ab001d91f80d.png",
+    "school_rating": 4.1,
+    "school_reviews_count": 2415,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/61cc6b3acc002b6e89531d9e/69-srpMAd8907-SCs3z_n.png",
+    "course_url": "https://gb.ru/geek_university/management/excel-and-google-sheets",
+    "price": 25128,
+    "price_all": 25128,
+    "price_original": 47844,
+    "price_installment": 698,
+    "time_installment": 36,
+    "duration_days": 0,
+    "duration_months": 0,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "Excel",
+      "google_sheets"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": true,
+    "portfolio_text": "Более 10 проектов, в том числе доработка макроса для корректного отображения комментариев и интерактивный дашборд",
+    "description": "Курс научит решать рабочие задачи быстрее с помощью Excel и Google-таблиц.",
+    "program": [],
+    "advertising": {
+      "cost": 1,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "undefined",
+      "trackingType": "cpa",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1381&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1381&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "68384a48227dc04445c4b957",
+    "name": "Пакет курсов по Excel",
+    "tariff": "",
+    "school": "Stepik",
+    "school_alias": "stepik",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61768123ae56ab001d91f830.png",
+    "school_rating": null,
+    "school_reviews_count": 93,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/68384a48227dc04445c4b957/YiZ-XeD-JX5sF7FyK6QC7.png",
+    "course_url": "https://stepik.org/course/92940/promo?utm_source=sravniru25&utm_medium=channel&utm_campaign=feed",
+    "price": 19900,
+    "price_all": 19900,
+    "price_original": 30000,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 1.5,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "Excel"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "2 сертификата",
+    "mentor": false,
+    "portfolio_text": "",
+    "description": "Практический курс по работе в Excel.Указана стоимость пакета из 2 курсов. Есть возможность приобрести каждый курс отдельно.",
+    "program": [],
+    "advertising": {
+      "cost": 11.11,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2693&aff_id=2",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2693&aff_id=2x"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "67e55eef416ae1f0cdcd565a",
+    "name": "Microsoft Excel: от основ до экспертных инструментов анализа и автоматизации",
+    "tariff": "",
+    "school": "НАДПО",
+    "school_alias": "nadpo",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/65e56f2a73f26500276eba40.svg?v=0.43",
+    "school_rating": 4.7,
+    "school_reviews_count": 77,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/67e55eef416ae1f0cdcd565a/sIT-WrxdcAM-LRxlC0ch7.jpeg",
+    "course_url": "https://nadpo.ru/do/kurs-obucheniya-excel-s-nulya-do-ekspertnyh-instrumentov/?utm_source=sravni&utm_medium=cpa&utm_campaign=strategy-cpa",
+    "price": 27455,
+    "price_all": 27455,
+    "price_original": 37600,
+    "price_installment": 2408,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "Excel"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации",
+    "mentor": true,
+    "portfolio_text": "",
+    "description": "Курс для тех, кто хочет освоить Excel — от базового уровня до профессионального применения в анализе данных и автоматизации бизнес-процессов.",
+    "program": [],
+    "advertising": {
+      "cost": 132.91,
+      "costForFree": 1,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "undefined",
+      "trackingType": "utm",
+      "token": [
+        {
+          "token": [
+            "2W5zFJTzgnk"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=2190&aff_id=2&dl=&erid=2W5zFJTzgnk",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=2190&aff_id=2&dl=&erid=2W5zFJTzgnk"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "618cc443f96ff50f3596a312",
+    "name": "Мастер Google-таблиц",
+    "tariff": "",
+    "school": "Skillfactory",
+    "school_alias": "skillfactory",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61769cd0ae56ab001d91f896.svg?v=0.e5",
+    "school_rating": 4.5,
+    "school_reviews_count": 874,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/618cc443f96ff50f3596a312/za7WGDUeRlOFrWfclxPn7.png",
+    "course_url": "https://skillfactory.ru/google-spreadsheets-master?utm_source=sravni&utm_medium=cpa&utm_campaign=sravni&utm_term={transaction_id}",
+    "price": 18900,
+    "price_all": 18900,
+    "price_original": 37800,
+    "price_installment": 0,
+    "time_installment": 0,
+    "duration_days": 0,
+    "duration_months": 2,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "google_sheets"
+    ],
+    "course_targets": [
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Сертификат",
+    "mentor": false,
+    "portfolio_text": "Несколько кейсов",
+    "description": "Анализ данных и автоматизация отчетности с использованием знаний Google Sheets.",
+    "program": [],
+    "advertising": {
+      "cost": 34.36,
+      "costForFree": 20.83,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "partnerPanelColor": "#FDF2F2",
+      "partnerTextColor": "#C11D1D",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "",
+      "hasOffersId": "3466",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": []
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1382&aff_id=2&dl=",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1382&aff_id=2&dl="
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "6810d83f90f5eb94daffe1e7",
+    "name": "Презентации для профессионалов",
+    "tariff": "",
+    "school": "SF Education",
+    "school_alias": "sf-education",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61769cfeae56ab001d91f89b.png",
+    "school_rating": 4.7,
+    "school_reviews_count": 178,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/6810d83f90f5eb94daffe1e7/dEAMovqr-y2rFDW3lN4Tl.png",
+    "course_url": "https://sf.education/prezentacii?utm_campaign=sravniru&utm_term={transaction_id}&utm_medium=cpa&utm_source=partner",
+    "price": 20000,
+    "price_all": 20000,
+    "price_original": 28584,
+    "price_installment": 1666,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 1,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "presentations",
+      "powerpoint",
+      "mini_MBA"
+    ],
+    "course_targets": [
+      "upgradeSkills",
+      "professionalDevelopment"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": false,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации, международный диплом от Европейской Ассоциации HISTES",
+    "mentor": true,
+    "portfolio_text": "Презентация",
+    "description": "Курс научит профессионально работать в PowerPoint: строить структуру презентации, продумывать их дизайн и оформлять данные без навыков графического дизайна.",
+    "program": [],
+    "advertising": {
+      "cost": 52.86,
+      "costForFree": 39.13,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "13528",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGodVUL"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1406&aff_id=2&dl=&erid=2W5zFGodVUL",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1406&aff_id=2&dl=&erid=2W5zFGodVUL"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "67e2a137416ae1f0cdcba5e0",
+    "name": "Excel PRO + Google таблицы",
+    "tariff": "",
+    "school": "SF Education",
+    "school_alias": "sf-education",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61769cfeae56ab001d91f89b.png",
+    "school_rating": 4.7,
+    "school_reviews_count": 178,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/67e29b2b6c8394665ab28c5a/jGmfl4_GhhqyKRsW9e0QL.png",
+    "course_url": "https://sf.education/excelandgoogle?utm_campaign=sravniru&utm_term={transaction_id}&utm_medium=cpa&utm_source=partner",
+    "price": 15050,
+    "price_all": 15050,
+    "price_original": 43000,
+    "price_installment": 1254,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 1,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "Excel",
+      "google_sheets",
+      "mini_MBA"
+    ],
+    "course_targets": [
+      "professionalDevelopment",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации, международный диплом от Европейской Ассоциации HISTES",
+    "mentor": true,
+    "portfolio_text": "Сквозной проект",
+    "description": "Курс поможет изучить Excel и Google таблицы: научит автоматизировать рутинные операции, строить графики, проводить расчеты и составлять отчеты.",
+    "program": [],
+    "advertising": {
+      "cost": 52.86,
+      "costForFree": 39.13,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "13240",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGodVUL"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1406&aff_id=2&dl=&erid=2W5zFGodVUL",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1406&aff_id=2&dl=&erid=2W5zFGodVUL"
+        },
+        "kind": "referral"
+      }
+    }
+  },
+  {
+    "id": "657b229f6a414a3bbb821307",
+    "name": "MS Office Pack: Excel, Word, PowerPoint",
+    "tariff": "",
+    "school": "SF Education",
+    "school_alias": "sf-education",
+    "school_logo": "https://s91588.cdn.ngenix.net/organizations/logotypes/square/61769cfeae56ab001d91f89b.png",
+    "school_rating": 4.7,
+    "school_reviews_count": 178,
+    "cover_url": "https://s91588.cdn.ngenix.net/learning-courses/657b229f6a414a3bbb821307/gEkipFmyZLakfxyRR00Cq.png",
+    "course_url": "https://sf.education/officepack?utm_campaign=sravniru&utm_term={transaction_id}&utm_medium=cpa&utm_source=partner",
+    "price": 34992,
+    "price_all": 34992,
+    "price_original": 71500,
+    "price_installment": 2916,
+    "time_installment": 12,
+    "duration_days": 0,
+    "duration_months": 3,
+    "learning_type": [
+      "typePO"
+    ],
+    "directions": [
+      "microsoft_office",
+      "Excel",
+      "powerpoint",
+      "mini_MBA"
+    ],
+    "course_targets": [
+      "professionalDevelopment",
+      "upgradeSkills"
+    ],
+    "levels": [
+      "Начинающий"
+    ],
+    "formats": [
+      "Записи",
+      "Онлайн"
+    ],
+    "course_graphics": [
+      "free"
+    ],
+    "discount": {},
+    "is_top_sale": false,
+    "is_wow_effect": false,
+    "is_webinar": false,
+    "job_help": true,
+    "job_garant": false,
+    "diploma": true,
+    "diploma_content": "Удостоверение о повышении квалификации, международный диплом от Европейской Ассоциации HISTES",
+    "mentor": true,
+    "portfolio_text": "Сквозной проект",
+    "description": "Курс поможет улучшить свои навыки работы с программами MS Office Pack, включая Excel, Word, PowerPoint и др.",
+    "program": [],
+    "advertising": {
+      "cost": 52.86,
+      "costForFree": 39.13,
+      "buttonText": "Перейти на сайт",
+      "buttonMobileText": "Перейти на сайт",
+      "isPartner": false,
+      "labelText": "",
+      "dialog": "",
+      "sideBarBannerText": "",
+      "offerHighlightColor": "green",
+      "hasOffersId": "8356",
+      "trackingType": "postback",
+      "token": [
+        {
+          "token": [
+            "2W5zFGodVUL"
+          ]
+        }
+      ],
+      "monetization": {
+        "pixels": {
+          "click": "https://goto.startracking.ru/api/v1/redirect?offer_id=1406&aff_id=2&dl=&erid=2W5zFGodVUL",
+          "display": "https://goto.startracking.ru/api/v1/impression?offer_id=1406&aff_id=2&dl=&erid=2W5zFGodVUL"
+        },
+        "kind": "referral"
+      }
+    }
+  }
+]

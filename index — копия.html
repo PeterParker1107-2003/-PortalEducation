@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Каталог курсов — Shadow DOM</title>
+  
+  <!-- Эмуляция "вредных" стилей WordPress темы -->
+  <style>
+    /* Типичные WordPress стили которые ломают верстку */
+    * {
+      box-sizing: content-box !important;
+      font-family: Georgia, serif !important;
+    }
+    
+    body {
+      background: #fff !important;
+      color: #333 !important;
+      font-size: 18px !important;
+      line-height: 2 !important;
+    }
+    
+    button {
+      background: green !important;
+      color: white !important;
+      border: 3px solid red !important;
+      padding: 20px !important;
+      border-radius: 0 !important;
+    }
+    
+    input {
+      border: 5px dashed blue !important;
+      background: yellow !important;
+    }
+    
+    h1, h2, h3, h4 {
+      color: purple !important;
+      font-size: 40px !important;
+    }
+    
+    .card, div {
+      border: 2px solid orange !important;
+    }
+    
+    a {
+      color: magenta !important;
+      text-decoration: underline wavy !important;
+    }
+  </style>
+</head>
+<body>
+  
+  <h1>WordPress страница с "плохими" стилями</h1>
+  <p>Все элементы ниже должны быть испорчены стилями темы.</p>
+  
+  <button>Кнопка WordPress</button>
+  <input type="text" placeholder="Input WordPress">
+  
+  <hr style="margin: 40px 0; border: none; border-top: 1px solid #ccc;">
+  
+  <h2>А вот каталог курсов в Shadow DOM:</h2>
+  
+  <!-- Наш каталог - полностью изолирован от стилей выше -->
+  <div id="courses-app"></div>
+  
+  <!-- Vue 3 CDN -->
+  <script src="https://unpkg.com/vue@3/dist/vue.global.prod.js"></script>
+  
+  <!-- Конфигурация путей -->
+  <script>
+    window.CoursesAppConfig = {
+      dataPath: './data',
+      cssPath: './courses.css'
+    };
+  </script>
+  
+  <!-- Наше приложение -->
+  <script src="./courses.js"></script>
+  
+</body>
+</html>
